@@ -679,14 +679,6 @@ http://tvn.x10.bz/vidio/master-7.m3u8
 http://tvn.x10.bz/vidio/master-8.m3u8
 #EXTINF:-1 group-title="TV SPORT",  Champions 4 TV
 http://tvn.x10.bz/vidio/master-17.m3u8
-#EXTINF:-1,Champion TV 1 backup
-http://mantul.biz.id:8888/Arkan/54647/232
-#EXTINF:-1,Champion TV 2 backup
-http://mantul.biz.id:8888/Arkan/54647/253
-#EXTINF:-1,Champion TV 3 backup
-http://mantul.biz.id:8888/Arkan/54647/77
-#EXTINF:-1,Champion TV 4 backup
-http://mantul.biz.id:8888/Arkan/54647/13922
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT",MNC Sports
