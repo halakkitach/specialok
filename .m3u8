@@ -678,6 +678,10 @@ https://on-load.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/4242
 #EXTINF:-1,|ID| BEIN SPORTS 2
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/4221
+#EXTINF:-1,Bein Sport 1 ID HD
+http://zalogitv.tech:8080/cubocubo/12345/11923
+#EXTINF:-1,Bein Sport 2 ID HD
+http://zalogitv.tech:8080/cubocubo/12345/11984
 #EXTINF:-1,|MY| BEIN SPORTS
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/287309
 #EXTINF:-1,|MY| BEIN MAX
@@ -714,6 +718,7 @@ https://on-load.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT",MNC Sports 3
 https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:-1 group-title="TV SPORT", TVRI World
+http://zalogitv.tech:8080/cubocubo/12345/24952
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="TV SPORT", TVRI SPORT
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
