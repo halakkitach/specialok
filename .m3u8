@@ -26,8 +26,7 @@ http://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.45 WIB BALI UNITED -VS- PERSIPURA
-http://zalogitv.tech:8080/cubocubo/12345/1717
-http://tvn.x10.bz/vidio/master.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1645728088~acl=/hls-p/ingest_205_*/*~hmac=a3274224ed9829a26b3c7f28bc98912f191c655bdcefdc09af39a553edde731a/hls-p/ingest_205_1080p/index.m3u8
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 00.45 WIB LIGA UEFA EUROPA Dinamo Zagreb vs Sevilla
@@ -82,9 +81,10 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065909
 http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR HD
-http://tvn.x10.bz/vidio/master.m3u8
+http://108.136.37.52/m3u8/vid_Indosiar.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR HD BACKUP
+http://tvn.x10.bz/vidio/master.m3u8
 http://210.210.155.35/session/58237d4a-5fd8-11ec-93dc-8efda5123c0b/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR HD BACKUP II
 http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=indosiar&gumisasakTV=default&sync=0
