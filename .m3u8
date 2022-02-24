@@ -656,6 +656,10 @@ https://sport.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT",SPOTV 2 BACKUP I
 https://sport.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
+#EXTINF:-1,SPOTV 1 HD
+http://zalogitv.tech:8080/cubocubo/12345/12260
+#EXTINF:-1,SPOTV 1 ID
+http://zalogitv.tech:8080/cubocubo/12345/432
 #EXTINF:-1,TH: beIN SPORTS 3
 https://sport.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1,TH: beIN SPORTS
