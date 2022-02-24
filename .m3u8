@@ -656,9 +656,9 @@ https://sport.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT",SPOTV 2 BACKUP I
 https://sport.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
-#EXTINF:-1,SPOTV 1 HD
+#EXTINF:-1,SPOTV 1 HD backup
 http://zalogitv.tech:8080/cubocubo/12345/12260
-#EXTINF:-1,SPOTV 1 ID
+#EXTINF:-1,SPOTV 1 ID backup 2
 http://zalogitv.tech:8080/cubocubo/12345/432
 #EXTINF:-1,TH: beIN SPORTS 3
 https://sport.livedoomovie.com/02_epl2_720p/chunklist.m3u8
@@ -698,6 +698,14 @@ http://mantul.biz.id:8888/live/Arkan/54647/253.ts
 http://mantul.biz.id:8888/live/Arkan/54647/77.ts
 #EXTINF:-1,Champion TV 4 backup
 http://mantul.biz.id:8888/live/Arkan/54647/13922.ts
+#EXTINF:-1,Champions TV 1 backup i
+http://www.goldentv.tech:25461/rachman/rachman/25657
+#EXTINF:-1,Champions TV 2 backup i
+http://www.goldentv.tech:25461/rachman/rachman/26134
+#EXTINF:-1,Champions TV 3 backup i
+http://www.goldentv.tech:25461/rachman/rachman/26135
+#EXTINF:-1,Champions TV 4 backup i
+http://www.goldentv.tech:25461/rachman/rachman/26136
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT",MNC Sports
