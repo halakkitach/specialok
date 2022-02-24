@@ -634,9 +634,9 @@ https://goldenlivektv.com/zzz/useesports2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="TV SPORT",Usee Sports 2
 https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="TV SPORT",Usee Sports 1 backup 3
-http://15.235.142.228:8080/live/hometvfree/selaludihati/70.m3u8
+http://15.235.142.228:8080/live/hometvfree/selaludihati/70.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="TV SPORT",Usee Sports 2 backup 3
-http://15.235.142.228:8080/live/hometvfree/selaludihati/71.m3u8
+http://15.235.142.228:8080/live/hometvfree/selaludihati/71.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://photos.my.id/images/f99j.png" group-title="TV SPORT",SPOTV 1 ID
