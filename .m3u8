@@ -716,6 +716,10 @@ http://zalogitv.tech:8080/cubocubo/12345/24952
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="TV SPORT", TVRI SPORT
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1 group-title="TV SPORT", CCTV 5
+http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
+#EXTINF:-1 group-title="TV SPORT", CCTV 5 PLUS
+http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
 #EXTINF:-1,Fox Sports 1 
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1,Fox Sport 2 
