@@ -13,7 +13,8 @@ https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 https://ddc8aa1e2jz1g.cloudfront.net/hls/kings/chunks.m3u8
 https://liveevent5.rctiplus.id/liveevent/futsal_720p.m3u8?auth_key=1684540494-0-0-8398078e17870b75a68e97392ca17db5
-
+#EXTINF:-1 group-title="LIVE EVENT",LIVE TENNIS ATP
+https://70.32.30.155/proxy.php/https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 18.15 WIB PERSIB -VS-PERSELA
 https://etslive-2-vidio-com.akamaized.net/exp=1645800026~acl=/vp9/8026_stream.mpd!/vp9/8026/*!/vp9/*/8026_stream.mpd!/vp9/*/8026/*~hmac=ae7f747766e682ad9aa7e305ee000e71e5875cf0e22398f4810910c8fb48eb61/vp9/8026_stream.mpd
