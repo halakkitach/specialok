@@ -769,10 +769,6 @@ http://iptv.tvmalaysia.cc:80/live/109789/109789/9028.m3u8
 http://foctv.xyz:25510/Imrany/BB1732/420
 #EXTINF:-1,MY: Astro Arena HD BACKUP
 http://iptvtree.net:8080/15247/6bc4e63e/157485
-#EXTINF:-1,Astro Arena backup i
-http://zalogitv.tech:8080/cubocubo/12345/1825
-#EXTINF:-1,Astro Arena 2 backup i
-http://zalogitv.tech:8080/cubocubo/12345/25106
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/95994491156dc80e743b181972c4e6d0.png" group-title="TV SPORT",ASTRO SUPERSPORT HD
 http://breakingcable.xyz:80/Rwilliams/Rwilliams/315541
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASSP 1" tvg-logo="http://tvmalaysia.cc:80/images/fe80f1bf485eb106f9e91e1c16886b4c.png" group-title="TV SPORT",ASSP 1
