@@ -27,7 +27,7 @@ http://breakingcable.xyz:80/Rwilliams/Rwilliams/316463
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB LALIGA backup
 http://breakingcable.xyz:80/Rwilliams/Rwilliams/315551
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB SERI A
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/250232
+http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2633
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB SERI A backup
 http://www.goldentv.tech:25461/rachman/rachman/22969
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
@@ -665,8 +665,12 @@ https://sport.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 https://on-load.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="TV SPORT",beIN Sport 2 ID
+#EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="TV SPORT",beIN Sport 3 ID
 https://on-load.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+#EXTINF:-1,Bein Sport 1 INDO
+http://www.goldentv.tech:25461/rachman/rachman/22968
+#EXTINF:-1,Bein Sport 3 INDO
+http://www.goldentv.tech:25461/rachman/rachman/22969
 #EXTINF:-1,|MY| BEIN SPORTS
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/287309
 #EXTINF:-1,|MY| BEIN MAX
