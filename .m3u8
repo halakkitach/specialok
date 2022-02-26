@@ -609,9 +609,9 @@ https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1,UseeSport 1 backup i
-https://golagoli.000webhostapp.com/bersyukur_masih_bisa_nonton/useetv_id=useesport.m3u8
+http://zalogitv.tech:8080/live/zalogilite/67676767/1717.ts
 #EXTINF:-1,UseeSport2 backup i
-https://golagoli.000webhostapp.com/bersyukur_masih_bisa_nonton/useetv_id=useesport2.m3u8
+http://zalogitv.tech:8080/live/zalogilite/67676767/1718.ts
 #EXTINF: -1 tvg-logo="https://bit.ly/2OQbRUT" group-title="TV SPORT", UseeSports 1
 http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=useesport&gumisasakTV=default&sync=0
 #EXTINF: -1 tvg-logo="https://bit.ly/3qYGBQn" group-title="TV SPORT", UseeSports 2
@@ -646,9 +646,9 @@ https://sport.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 https://sport.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #EXTINF:-1,SPOTV 1 HD backup
-https://golagoli.000webhostapp.com/galery_freemium_iptv/index.m3u8_live=spotv&type=url&streamtype=hls
+http://my-king.net:7070/live/hmd680/oofu5osr/163041.ts
 #EXTINF:-1,SPOTV 2 HD backup
-https://golagoli.000webhostapp.com/galery_freemium_iptv/index.m3u8_live=spotv2&type=url&streamtype=hls
+http://my-king.net:7070/live/hmd680/oofu5osr/163042.ts
 #EXTINF:-1,TH: beIN SPORTS 3
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1,TH: beIN SPORTS
