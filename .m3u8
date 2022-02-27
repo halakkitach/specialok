@@ -40,7 +40,7 @@ http://tugatv.123tv.to:8080/e3lDvmU5Gc/ZWLbeVPJdy/4386
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 23.30 WIB FINAL CARABAO CHESLSEA VS LIVERPOOL
 http://139.99.27.33:9998/assp3_720/tracks-v1a1/mono.m3u8?token=b3f36410b9f25c11f8c5dac0074f01a12a29039e-bb63a1a8cd54057010c01f985b4d48f6-1645988712-1645977912
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 23.30 WIB FINAL CARABAO CHESLSEA VS LIVERPOOL BACKUP
-http://line.crystalott.co:80/live/ala6aCtq1iMFAuX/6QQTyWfWeF/305195.ts
+https://dcisiz1qfkk6q.cloudfront.net:443/stream/MzAyNw==/1080p.m3u8
 ######### INDONESIA #########
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
