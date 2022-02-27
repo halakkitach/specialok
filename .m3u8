@@ -32,7 +32,7 @@ http://breakingcable.xyz:80/Rwilliams/Rwilliams/315551
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.45 WIB AREMA FC VS PERSIK
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB EPL
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/121171
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/107040
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB EPL BACKUP
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2630
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
@@ -946,12 +946,12 @@ http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/139069
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/139068
 #EXTINF:-1,|AR| BEIN SPORTS 3 ENGLISH SD
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/139067
-#EXTINF:-1,|.AR.| BEIN SPORTS ENGLISH 1 HD
-hhttp://ky-iptv.com/godinez/godinez123/1400762.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS ENGLISH 2 HD
-http://ky-iptv.com/godinez/godinez123/1248327.ts
-#EXTINF:-1,|.AR.| BEIN SPORTS ENGLISH 3 HD
-http://ky-iptv.com/godinez/godinez123/1400763.ts
+#EXTINF:-1,AR | bein Sports 1ⓧ (ENG) HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79038
+#EXTINF:-1,AR | bein Sports 2ⓧ (ENG) HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79039
+#EXTINF:-1,AR | bein Sports 3ⓧ (ENG) HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79040
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="TV SPORT",Unifi Sports 1
@@ -1622,12 +1622,30 @@ http://iptv.tvmalaysia.cc:80/live/109789/109789/7188.m3u8
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:0 tvg-id="ext" group-title="AUSTRALIA SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:-1,UK: beIN Sports 1 HD
-http://live.cobratv.uk:80/an/an/36542
-#EXTINF:-1,UK: beIN Sports 2 HD
-http://live.cobratv.uk:80/an/an/799
-#EXTINF:-1,UK: beIN Sports 3 HD
-http://live.cobratv.uk:80/an/an/89327
+#EXTINF:-1,AU | beIN Sports 1ⓧ SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/13534
+#EXTINF:-1,AU | beIN Sports 2ⓧ SD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/13535
+#EXTINF:-1,AU | beIN Sports 3ⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92372
+#EXTINF:-1,AU | ESPN 1ⓧ FHD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92378
+#EXTINF:-1,AU | ESPN 2ⓧ FHD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92379
+#EXTINF:-1,AU | FOX Sports 501ⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/52835
+#EXTINF:-1,AU | FOX Sports 502ⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/52837
+#EXTINF:-1,AU | FOX Sports 503ⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/52843
+#EXTINF:-1,AU | FOX Sports 504ⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/52840
+#EXTINF:-1,AU | FOX Sports 505ⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/52838
+#EXTINF:-1,AU | FOX Sports 506ⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/52839
+#EXTINF:-1,AU | FOX Sports 507ⓧ HD
+http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/52844
 #EXTINF:-1,ESPN - AU
 http://breakingcable.xyz:80/Rwilliams/Rwilliams/316438
 #EXTINF:-1,ESPN 2 - AU
@@ -1648,19 +1666,5 @@ http://breakingcable.xyz:80/Rwilliams/Rwilliams/316452
 http://breakingcable.xyz:80/Rwilliams/Rwilliams/316453
 #EXTINF:-1,FOX SPORTS 507 - AU
 http://breakingcable.xyz:80/Rwilliams/Rwilliams/316454
-#EXTINF:-1,AU: FOX SPORTS 501 HD
-http://iptvtree.net:8080/15247/6bc4e63e/279034
-#EXTINF:-1,AU: FOX SPORTS 502 HD
-http://iptvtree.net:8080/15247/6bc4e63e/81784
-#EXTINF:-1,AU: FOX SPORTS 503 HD
-http://iptvtree.net:8080/15247/6bc4e63e/280192
-#EXTINF:-1,AU: FOX SPORTS 504 HD
-http://iptvtree.net:8080/15247/6bc4e63e/280193
-#EXTINF:-1,AU: FOX SPORTS 505 HD
-http://iptvtree.net:8080/15247/6bc4e63e/144772
-#EXTINF:-1,AU: FOX SPORTS 506 HD
-http://iptvtree.net:8080/15247/6bc4e63e/279033
-#EXTINF:-1,AU: FOX SPORTS 507 HD
-http://iptvtree.net:8080/15247/6bc4e63e/280194
 #EXTINF:-1 LINK GRATIS,TIDAK DIJUAL!!! 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
