@@ -1016,14 +1016,22 @@ http://103.170.140.8/hls/Star_Sport_Select1HD.m3u8
 http://103.170.140.8/hls/starsports2.m3u8
 #EXTINF:-1 LINK GRATIS,TIDAK DIJUAL!!! 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+#EXTINF:-1, Star Sports Select 1 HD
+http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1, Star Sports Select 2 HD
+http://live.flixhub.net/hls/select2.m3u8
+#EXTINF:-1, Star Sports 1 HD
+http://live.flixhub.net/hls/stersports1hd.m3u8
+#EXTINF:-1, Star Sports 2 HD
+http://live.flixhub.net/hls/starsports2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY SIX FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="TV SPORT",TATA |  SONY SIX FHD
-http://goldentv.tech:25461/rachman/rachman/25210
+http://live.flixhub.net/hls/sonysix.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY TEN 3 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="TV SPORT",TATA |  SONY TEN 3 FHD
-http://goldentv.tech:25461/rachman/rachman/25209
+http://live.flixhub.net/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY TEN 2 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="TV SPORT",TATA |  SONY TEN 2 FHD
-http://goldentv.tech:25461/rachman/rachman/25208
+http://live.flixhub.net/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY TEN 1 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="TV SPORT",TATA |  SONY TEN 1 FHD
-http://goldentv.tech:25461/rachman/rachman/25207
+http://live.flixhub.net/hls/sonyten1.m3u8
 #EXTINF: -1 tvg-id="ts155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="TV SPORT", Sony Six HD
 http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Six_HD&q=800&e=play.m3u8
 #EXTINF: -1 tvg-id="ts162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" group-title="TV SPORT", Ten 4 HD Telugu
@@ -1036,6 +1044,16 @@ http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten2_HD&q=800&e=play.m3u8
 http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten3_HD&q=800&e=play.m3u8
 #EXTINF: -1 tvg-id="ts875" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="TV SPORT", Eurosport HD
 http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Dsports_HD&q=800&e=play.m3u8
+#EXTINF:-1, Amazon Prime SPORT 1 HD Events
+http://195.154.182.197:8000/play/a001/index.m3u8
+#EXTINF:-1, Amazon Prime SPORT 2 HD Events
+http://195.154.182.197:8000/play/a002/index.m3u8
+#EXTINF:-1, Amazon Prime SPORT 3 HD Events
+http://195.154.182.197:8000/play/a003/index.m3u8
+#EXTINF:-1, Amazon Prime SPORT 4 HD Events
+http://195.154.182.197:8000/play/a004/index.m3u8
+#EXTINF:-1, Amazon Prime SPORT 5 HD Events
+http://195.154.182.197:8000/play/a005/index.m3u8
 #EXTINF:-1,EX-YU Sport Klub 1 FHD
 http://iptvtree.net:8080/15247/6bc4e63e/282859
 #EXTINF:-1,EX-YU: Sport Klub 2 FHD
