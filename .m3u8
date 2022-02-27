@@ -786,19 +786,19 @@ http://iptvtree.net:8080/15247/6bc4e63e/157485
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/95994491156dc80e743b181972c4e6d0.png" group-title="TV SPORT",ASTRO SUPERSPORT HD
 http://line.crystalott.co:80/live/ala6aCtq1iMFAuX/6QQTyWfWeF/287306.ts
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASSP 1" tvg-logo="http://tvmalaysia.cc:80/images/fe80f1bf485eb106f9e91e1c16886b4c.png" group-title="TV SPORT",ASSP 1
-http://iptv.tvmalaysia.cc:80/live/109789/109789/9024
+http://iptv.tvmalaysia.cc:80/live/109789/109789/9024.m3u8
 #EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="ASTRO SUPERSPORT 2 HD" tvg-logo="http://tvmalaysia.cc:80/images/628518d8dfdaa6cc296123a5bdb13c28.png" group-title="TV SPORT",ASTRO SUPERSPORT 2 HD
 http://line.crystalott.co:80/live/ala6aCtq1iMFAuX/6QQTyWfWeF/287305.ts
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="http://tvmalaysia.cc:80/images/4946045f4dd1aca3a124f25655097c56.png" group-title="TV SPORT",ASSP 2
-http://iptv.tvmalaysia.cc:80/live/109789/109789/9025
+http://iptv.tvmalaysia.cc:80/live/109789/109789/9025.m3u8
 #EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/25afd4f665faabffdd3041b89d69e856.png" group-title="TV SPORT",ASTRO SUPERSPORT 3 HD
 http://line.crystalott.co/live/ala6aCtq1iMFAuX/6QQTyWfWeF/287304.ts
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="http://tvmalaysia.cc:80/images/d3ffad6f5889e2a0c59dfaabedcbbc90.png" group-title="TV SPORT",ASSP 3 (LIVE EPL ONLY)
-http://iptv.tvmalaysia.cc:80/live/109789/109789/9020
+http://iptv.tvmalaysia.cc:80/live/109789/109789/9020.m3u8
 #EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="http://tvmalaysia.cc:80/images/9fa5701dc090214abf85095e751a161d.png" group-title="TV SPORT",ASTRO SUPERSPORT 4 HD
 http://line.crystalott.co:80/live/ala6aCtq1iMFAuX/6QQTyWfWeF/287303.ts
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png" group-title="TV SPORT",ASSP 4
-http://iptv.tvmalaysia.cc:80/live/109789/109789/9026
+http://iptv.tvmalaysia.cc:80/live/109789/109789/9026.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="TV SPORT",Astro Supersport 5 HD
 http://iptv.tvmalaysia.cc:80/live/109789/109789/9029.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="TV SPORT",Astro Supersport 5
