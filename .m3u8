@@ -527,7 +527,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="KNOWLEDGE",Discovery 
 https://liveanevia.mncnow.id:443/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 #EXTINF:-1 tvg-logo="TEST" group-title="KNOWLEDGE",Discovery BACKUP
-http://pprotv.com:80/06169559/06169559/39484
+http://185.212.201.118:8880/287994017022/287994017022/16705?token=QhUMAhZZR1gbXVcHBQFZDlcDBFAMAAMBAVMEAF5QBQINVFRTXQcDVA1GTRJEFkpSVQxqX10RC1QBUwUHFBBEQVxFOwoBE19AD1RXBQdXGhsWFVxbXBELVAFQAAsOCwYACBtGEwxVR1gbVVcIBlEaGxYETUJcQV8EWztRV05bUlcbDQoWCV1JQFYKPlRSD1lZUEMPFAkRHUdeF0UQAlxEXlUbRgEMRRcDTQFDChVTDQAEQxkUWlxEC0MWTBACEHh2GxtGBh1FAAxKDQ5eFVgaQ0dDGRRQQG4XUhdBQF1TXFdLFV5BVRNJQFQFGW9UDVZZUQJBX1ZdQkcNRgQQFBBcXVdeEAwXbhULXUZbEgVWCAIWHA==
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="TEST" group-title="KNOWLEDGE",Bbc earth 
