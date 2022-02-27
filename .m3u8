@@ -22,9 +22,9 @@ https://stream1.1616.ro:1945/looksport3/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 18.35 WIB SERI A backup
 http://www.goldentv.tech:25461/rachman/rachman/22969
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00 WIB LIGUE PRANCIS
-http://iptvtree.net:8080/15247/6bc4e63e/279721
+http://195.154.182.197:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00 WIB LIGUE PRANCIS backup
-https://hll.hnzzdf.com.cn/live/H84553.m3u8?txSecret=0b4a4348eb3a8b99a9c5deed4e961c8f&txTime=621B386D&_s=stream
+http://195.154.182.197:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB LALIGA
 http://breakingcable.xyz:80/Rwilliams/Rwilliams/316463
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB LALIGA backup
