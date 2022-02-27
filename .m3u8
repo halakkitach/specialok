@@ -26,7 +26,6 @@ http://bestsave.ltd:2052/994422/224499/80923
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB LALIGA backup
 http://breakingcable.xyz:80/Rwilliams/Rwilliams/315551
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.45 WIB AREMA FC VS PERSIK
-https://etslive-2-vidio-com.akamaized.net/exp=1645975248~acl=/hls-p/ingest_205_*/*~hmac=fa6a890fd13f3e1b36f820c5b85a476a1cd8d501c1c19e3c3ea1536611a575db/hls-p/ingest_205_1080p/index.m3u8
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB EPL
 http://line.crystalott.co:80/live/ala6aCtq1iMFAuX/6QQTyWfWeF/305195.ts
@@ -41,7 +40,7 @@ http://tugatv.123tv.to:8080/e3lDvmU5Gc/ZWLbeVPJdy/4386
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 23.30 WIB FINAL CARABAO CHESLSEA VS LIVERPOOL
 http://139.99.27.33:9998/assp3_720/tracks-v1a1/mono.m3u8?token=b3f36410b9f25c11f8c5dac0074f01a12a29039e-bb63a1a8cd54057010c01f985b4d48f6-1645988712-1645977912
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 23.30 WIB FINAL CARABAO CHESLSEA VS LIVERPOOL BACKUP
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+http://line.crystalott.co:80/live/ala6aCtq1iMFAuX/6QQTyWfWeF/305195.ts
 ######### INDONESIA #########
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
