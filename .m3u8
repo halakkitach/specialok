@@ -14,9 +14,10 @@ https://d2fohnmc8kogc.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 15.15 WIB PSIS VS TR-KABO
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 18.15 WIB PERSIPURA VS BORNEO FC
-https://etslive-2-vidio-com.akamaized.net/exp=1646060354~acl=/vp9/8016_stream.mpd!/vp9/8016/*!/vp9/*/8016_stream.mpd!/vp9/*/8016/*~hmac=97dcebb5be51757c1ce9fda14d438231ee1c1cfaea5954a6694c70070c01a8bd/vp9/8016_stream.mpd
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+https://etslive-2-vidio-com.akamaized.net/exp=1646060354~acl=/vp9/8016_stream.mpd!/vp9/8016/*!/vp9/*/8016_stream.mpd!/vp9/*/8016/*~hmac=97dcebb5be51757c1ce9fda14d438231ee1c1cfaea5954a6694c70070c01a8bd/vp9/8016_stream.mpd
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.30 WIB MADURA UNITED VS PERSEBAYA
+https://etslive-2-vidio-com.akamaized.net/exp=1646068036~acl=/vp9/8026_stream.mpd!/vp9/8026/*!/vp9/*/8026_stream.mpd!/vp9/*/8026/*~hmac=9b567c088bf36a3763a343ff92944530512314571cbd5bdc6f7ef3a720573723/vp9/8026_stream.mpd
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 02.50 WIB SERI A
 http://stariptv.org:8080/wael2021/123456/92163
