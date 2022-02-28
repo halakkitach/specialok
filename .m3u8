@@ -809,10 +809,6 @@ https://sport.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT",SPOTV 2 thai
 https://sport.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
-#EXTINF:-1,SPOTV 1 HD usee
-http://my-king.net:7070/live/hmd680/oofu5osr/163041.ts
-#EXTINF:-1,SPOTV 2 HD usee
-http://my-king.net:7070/live/hmd680/oofu5osr/163042.ts
 #EXTINF:-1,TH: beIN SPORTS 3
 https://sport.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1,TH: beIN SPORTS
@@ -825,10 +821,6 @@ https://on-load.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="TV SPORT",beIN Sport 3 ID
 https://on-load.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-#EXTINF:-1,Bein Sport 1 INDO
-http://www.goldentv.tech:25461/rachman/rachman/22968
-#EXTINF:-1,Bein Sport 3 INDO
-http://www.goldentv.tech:25461/rachman/rachman/22969
 #EXTINF:-1,|MY| BEIN SPORTS
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/287309
 #EXTINF:-1,|MY| BEIN MAX
@@ -1020,7 +1012,7 @@ http://breakingcable.xyz:80/Rwilliams/Rwilliams/648896
 #EXTINF:-1,IT | Sport Moto GP HD
 http://mytv.fun:8080/afbpayt3zf/hoy2322qzl/686219
 #EXTINF:-1,IT | Sport Moto GP HD BACKUP
-http://fasttvuk.com:2086/Lennon22/Lennon22/236323
+http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/2577
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1,|AF| SUPERSPORT PLAY HD
