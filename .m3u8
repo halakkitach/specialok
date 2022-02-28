@@ -10,37 +10,22 @@ https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 https://liveevent5.rctiplus.id/liveevent/futsal_720p.m3u8?auth_key=1684540494-0-0-8398078e17870b75a68e97392ca17db5
 #EXTINF:-1 group-title="LIVE EVENT",LIVE NBA 
-https://d2fohnmc8kogc.cloudfront.net:443/hls/tsn/chunks.m3u8
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 18.15 WIB PERSIRAJA VS BARITO PUTRA
+https://d2fohnmc8kogc.cloudfront.net/hls/espn/playlist.m3u8
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 15.15 WIB PSIS VS TR-KABO
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 18.35 WIB SERI A
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 18.15 WIB PERSIPURA VS BORNEO FC
+https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.30 WIB
+https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 02.50 WIB SERI A
 http://line.crystalott.co:80/live/ala6aCtq1iMFAuX/6QQTyWfWeF/137884.ts
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 18.35 WIB SERI A backup
-http://bestsave.ltd:2052/994422/224499/148163
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00 WIB LIGUE PRANCIS
-http://195.154.182.197:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00 WIB LIGUE PRANCIS backup
-http://195.154.182.197:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB LALIGA
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 02.50 WIB SERI A backup
+http://breakingcable.xyz:80/Rwilliams/Rwilliams/740210
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LALIGA
 http://bestsave.ltd:2052/994422/224499/80923
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB LALIGA backup
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LALIGA backup
 http://breakingcable.xyz:80/Rwilliams/Rwilliams/315551
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.45 WIB AREMA FC VS PERSIK
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB EPL
-http://line.crystalott.co:80/live/ala6aCtq1iMFAuX/6QQTyWfWeF/305195.ts
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/107040
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB EPL BACKUP
-http://line.crystalott.co:80/live/ala6aCtq1iMFAuX/6QQTyWfWeF/2630.ts
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 23.30 WIB BUNDESLIGA
-http://bestsave.ltd:2052/994422/224499/77035
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 23.30 WIB BUNDESLIGA backup
-http://tugatv.123tv.to:8080/e3lDvmU5Gc/ZWLbeVPJdy/4386
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 23.30 WIB FINAL CARABAO CHESLSEA VS LIVERPOOL
-http://139.99.27.33:9998/assp3_720/tracks-v1a1/mono.m3u8?token=b3f36410b9f25c11f8c5dac0074f01a12a29039e-bb63a1a8cd54057010c01f985b4d48f6-1645988712-1645977912
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 23.30 WIB FINAL CARABAO CHESLSEA VS LIVERPOOL BACKUP
-https://dcisiz1qfkk6q.cloudfront.net:443/stream/MzAyNw==/1080p.m3u8
+
 ######### INDONESIA #########
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
