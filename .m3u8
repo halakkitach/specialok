@@ -788,9 +788,9 @@ http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=useesport&gumisasakTV=
 #EXTINF: -1 tvg-logo="https://bit.ly/3qYGBQn" group-title="TV SPORT", UseeSports 2
 http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=useesports2&gumisasakTV=default&sync=0
 #EXTINF: -1 tvg-logo="https://bit.ly/2OQbRUT" group-title="TV SPORT", UseeSports 1 BACKUP I
-https://goldenlivektv.com/zzz/useesport.m3u8
+https://portaltv.xyz/iptv/ngapain/usehls.m3u8?id=useesport
 #EXTINF: -1 tvg-logo="https://bit.ly/3qYGBQn" group-title="TV SPORT", UseeSports 2 BACKUP I
-https://goldenlivektv.com/zzz/useesports2.m3u8
+https://portaltv.xyz/iptv/ngapain/usehls.m3u8?id=useesports2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="TV SPORT",Usee Sports 2
 https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
