@@ -1792,12 +1792,10 @@ http://iptv.tvmalaysia.cc:80/live/109789/109789/7188.m3u8
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:0 tvg-id="ext" group-title="AUSTRALIA SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:-1,AU | beIN Sports 1ⓧ SD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/28021
-#EXTINF:-1,AU | beIN Sports 2ⓧ SD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/13535
-#EXTINF:-1,AU | beIN Sports 3ⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92372
+#EXTINF:-1,beIN Sports 1 FHD AU
+http://swissiptv.us:8080/8CRGKrsXB3/naWcXFQYI4/80196
+#EXTINF:-1,beIN Sports 3 FHD AU
+http://swissiptv.us:8080/8CRGKrsXB3/naWcXFQYI4/80197
 #EXTINF:-1,AU | ESPN 1ⓧ FHD
 http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92378
 #EXTINF:-1,AU | ESPN 2ⓧ FHD
