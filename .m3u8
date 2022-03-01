@@ -12,12 +12,14 @@ https://liveevent5.rctiplus.id/liveevent/futsal_720p.m3u8?auth_key=1684540494-0-
 #EXTINF:-1 group-title="LIVE EVENT",LIVE NBA 
 https://d2fohnmc8kogc.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 15.15 WIB BHAYANGKARA FC VS PERSITA
+https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 https://etslive-2-vidio-com.akamaized.net/exp=1646135117~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=c3224a11dd736665a8f6ae5d1004e32eecca268b3e2d36327ea6af6b92dbc83b/vp9/206_stream.mpd
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 16.00 WIB PERSELA VS BALI UNITED
-https://etslive-2-vidio-com.akamaized.net/exp=1646132040~acl=/hls-p/ingest_205_*/*~hmac=75d65cc22b8735ba9adfd19a7171dc4bf96e5045833a3c65830c44dde03248d9/hls-p/ingest_205_1080p/index.m3u8
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+https://etslive-2-vidio-com.akamaized.net/exp=1646132040~acl=/hls-p/ingest_205_*/*~hmac=75d65cc22b8735ba9adfd19a7171dc4bf96e5045833a3c65830c44dde03248d9/hls-p/ingest_205_1080p/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 18.15 WIB PSS VS PSM MAKASSAR
+https://etslive-2-vidio-com.akamaized.net/exp=1646147432~acl=/vp9/8023_stream.mpd!/vp9/8023/*!/vp9/*/8023_stream.mpd!/vp9/*/8023/*~hmac=8a8a45faa77791673efe091aebde38c164f2bab32621f13c8693941d894de7c3/vp9/8023_stream.mpd
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.30 WIB PERSIJA VS PERSIB
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
