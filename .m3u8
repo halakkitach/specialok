@@ -807,10 +807,6 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 https://on-load.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #EXTINF:-1 tvg-logo="gost"group-title="TV SPORT",SPOTV 2
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
-#EXTINF:-1 tvg-logo="gost"group-title="TV SPORT",SPOTV 1 thai
-https://sport.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TV SPORT",SPOTV 2 thai
-https://sport.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1421,13 +1417,14 @@ http://rr2.dens.tv/s/s31/index.m3u8
 http://rr.dens.tv/h/h18/index.m3u8
 #EXTINF:-1 group-title="TV ENTERTAIN",Cinema World
 http://rr1.dens.tv/h/h04/index.m3u8
-
+#EXTINF:-1 group-title="TV ENTERTAIN", &FLIX
+http://103.153.39.36:8000/play/a00p
 #EXTINF:-1 tvg-id="&amp;Flix HD" group-title="TV ENTERTAIN" tvg-logo="https://www.useetv.com/pimages/logo_flik_small1.png?v=2.0.0.13",Flik
 http://51.79.251.57:2082/malik/malik/153
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1-->
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/fx.png" group-title="TV ENTERTAIN",FX-->
-https://liveanevia.mncnow.id/live/eds/FX/sa_dash_vmx/FX.mpd-->
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/fx.png" group-title="TV ENTERTAIN",FX
+https://liveanevia.mncnow.id/live/eds/FX/sa_dash_vmx/FX.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
