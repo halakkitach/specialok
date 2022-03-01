@@ -207,7 +207,7 @@ http://rr2.dens.tv/s/s17/index.m3u8
 http://rr2.dens.tv/s/s10/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA",EuroNews English
-http://rr3.dens.tv/s/s72/index2.m3u8
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
