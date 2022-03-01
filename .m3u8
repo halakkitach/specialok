@@ -1336,8 +1336,11 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #EXTINF:-1 group-title="TV ENTERTAIN", FAILARMY
 https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="TV ENTERTAIN", GALAXY PREMIUM
-http://sindoro.axc.my.id:25461/oxygen/SGBT5tKbQp/109
+https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 #EXTINF:-1 group-title="TV ENTERTAIN", HBO
 http://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
