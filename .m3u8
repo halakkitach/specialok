@@ -820,9 +820,9 @@ https://on-load.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="TV SPORT",beIN Sport 3 ID
 https://on-load.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="TV SPORT",beIN Sport 1 INDO
-http://ky-iptv.com:80/rasheed/rasheed/1806226.ts
+http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/60455
 #EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="TV SPORT",beIN Sport 3 INDO
-http://ky-iptv.com:80/rasheed/rasheed/1830933.ts
+http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/60284
 #EXTINF:-1,|MY| BEIN SPORTS
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/287309
 #EXTINF:-1,|MY| BEIN MAX
@@ -881,16 +881,16 @@ http://15.235.142.228:8080/live/hometvfree/selaludihati/75.m3u8
 http://202.44.228.201:1935/aslive/skynetsports3/mono.m3u8
 #EXTINF:-1 TENNIS TV 2
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV SPORT" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFF U23 1
-http://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV SPORT" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFF U23 2
-http://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV SPORT" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFF U23 3
-http://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV SPORT" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFF U23 4
-http://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV SPORT" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFF U23 5
-http://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", eSports
+http://livecdn.fptplay.net/schedule/esport01_4000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", FPT Play 1
+http://livecdn.fptplay.net/tvc/sukien01_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", FPT Play 2
+http://livecdn.fptplay.net/tvc/sukien02_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", FPT Play 3
+http://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", FPT Play 4
+http://livecdn.fptplay.net/max/sukien03_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1,TH: TRUESPORT 1
