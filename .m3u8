@@ -823,6 +823,8 @@ http://wanicelife.com:8880/SWFAF1221601/5PT5WX5J/60284
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/287309
 #EXTINF:-1,|MY| BEIN MAX
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/287308
+#EXTINF:-1,PPTV HD
+https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #EXTINF:-1 group-title="TV SPORT",  Champions 1 TV
@@ -875,7 +877,7 @@ https://liveanevia.mncnow.id:443/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
 http://15.235.142.228:8080/live/hometvfree/selaludihati/75.m3u8
 #EXTINF:-1, TENNIS TV 1
 http://202.44.228.201:1935/aslive/skynetsports3/mono.m3u8
-#EXTINF:-1 TENNIS TV 2
+#EXTINF:-1, TENNIS TV 2
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="TV SPORT" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", eSports
 http://livecdn.fptplay.net/schedule/esport01_4000.stream/chunklist.m3u8
