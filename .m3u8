@@ -927,6 +927,32 @@ http://iptv.tvmalaysia.cc:80/live/109789/109789/9026.m3u8
 http://iptv.tvmalaysia.cc:80/live/109789/109789/9029.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="TV SPORT",Astro Supersport 5
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/287302
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
+#EXTINF:-1 tvg-id="811" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="TV SPORT",ASTRO SUPERSPORT
+https://linear01-playback.sooka.my/CH1/masterCH1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
+#EXTINF:-1 tvg-id="812" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="TV SPORT",ASTRO SUPERSPORT 2
+https://linear01-playback.sooka.my/CH4/masterCH4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
+#EXTINF:-1 tvg-id="813" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="TV SPORT",ASTRO SUPERSPORT 3
+https://linear01-playback.sooka.my/CH5/masterCH5.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
+#EXTINF:-1 tvg-id="814" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="TV SPORT",ASTRO SUPERSPORT 4
+https://linear01-playback.sooka.my/CH2/masterCH2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
+#EXTINF:-1 tvg-id="815" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="TV SPORT",ASTRO SUPERSPORT 5
+https://linear01-playback.sooka.my/CH3/masterCH3.mpd
+
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1,UK: BT SPORT 1
@@ -1033,6 +1059,20 @@ http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2634
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2633
 #EXTINF:-1,|AF| SUPERSPORT VARIETY 4 HD
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2632
+#EXTINF:-1,DEPORTES: DIRECTV SPORTS 1
+http://vmp343.ddnsking.com:80/bowl300/bowl300/434729
+#EXTINF:-1,DEPORTES: ESPN CARIBBEAN
+http://vmp343.ddnsking.com:80/bowl300/bowl300/434735
+#EXTINF:-1,DEPORTES: ESPN 2 CARIBBEAN
+http://vmp343.ddnsking.com:80/bowl300/bowl300/434736
+#EXTINF:-1,WORLD SPORT: RUSH SPORT EPL
+http://vmp343.ddnsking.com:80/bowl300/bowl300/394979
+#EXTINF:-1,WORLD SPORT: RUSH SPORT 01
+http://vmp343.ddnsking.com:80/bowl300/bowl300/394980
+#EXTINF:-1,WORLD SPORT: RUSH SPORT 02
+http://vmp343.ddnsking.com:80/bowl300/bowl300/394981
+#EXTINF:-1,WORLD SPORT: RUSH SPORT 03
+http://vmp343.ddnsking.com:80/bowl300/bowl300/394982
 #EXTINF:-1,beIN Sport NBA HD
 http://stariptv.org:8080/wael2021/123456/150160
 #EXTINF:-1,beIN 1 PREMIUM HD
@@ -1077,18 +1117,14 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BEIN ENG 3
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
-#EXTINF:-1,EN: BEIN SPORTS 1 ENGLISH
-http://vmp343.ddnsking.com:80/bowl300/bowl300/435572
-#EXTINF:-1,EN: BEIN SPORTS 2 ENGLISH
-http://vmp343.ddnsking.com:80/bowl300/bowl300/435573
-#EXTINF:-1,TR: BEIN SPORT 1
-http://vmp343.ddnsking.com:80/bowl300/bowl300/435575
-#EXTINF:-1,TR: BEIN SPORT 2
-http://vmp343.ddnsking.com:80/bowl300/bowl300/435576
-#EXTINF:-1,TR: BEIN SPORT 3
-http://vmp343.ddnsking.com:80/bowl300/bowl300/435577
-#EXTINF:-1,TR: BEIN SPORT 4
-http://vmp343.ddnsking.com:80/bowl300/bowl300/435578
+#EXTINF:-1,TR- BEIN SPORTS 1 FHD
+http://bestsave.ltd:2052/994422/224499/148927
+#EXTINF:-1,TR- BEIN SPORTS 3 FHD
+http://bestsave.ltd:2052/994422/224499/148929
+#EXTINF:-1,TR- BEIN SPORTS 2 FHD
+http://bestsave.ltd:2052/994422/224499/148928
+#EXTINF:-1,TR- BEIN SPORTS 4 HD
+http://bestsave.ltd:2052/994422/224499/148930
 #EXTINF:-1,|AR| BEIN SPORTS 1 EN
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/305195
 #EXTINF:-1,|AR| BEIN SPORTS 2 EN
