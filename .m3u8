@@ -876,16 +876,16 @@ http://15.235.142.228:8080/live/hometvfree/selaludihati/75.m3u8
 http://202.44.228.201:1935/aslive/skynetsports3/mono.m3u8
 #EXTINF:-1, TENNIS TV 2
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV SPORT" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", eSports
-http://livecdn.fptplay.net/schedule/esport01_4000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV SPORT" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", FPT Play 1
-http://livecdn.fptplay.net/tvc/sukien01_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV SPORT" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", FPT Play 2
-http://livecdn.fptplay.net/tvc/sukien02_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV SPORT" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", FPT Play 3
-http://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="TV SPORT" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", FPT Play 4
-http://livecdn.fptplay.net/max/sukien03_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV SPORT" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", FPT LIVE 1
+http://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV SPORT" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", FPT LIVE 2
+http://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV SPORT" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", FPT LIVE 3
+http://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV SPORT" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", FPT LIVE 4
+http://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="TV SPORT" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", FPT LIVE 5
+http://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 tvg-logo="", Ais Play
