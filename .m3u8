@@ -30,7 +30,7 @@ http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/11595
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="http://dusktill.masuk.web.id/img/rcti.png" group-title="INDONESIA",RCTI (HD)
-https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+https://on-load.mncnow.id/live/eds/RCTI-HD/sa_dash_vmx/RCTI-HD.mpd
 #EXTINF:-1 tvg-id="rcti.id" ch-number="1" tvg-name="RCTI" tvg-logo="http://cdn.roll.my.id/img/RCTI.png" group-title="INDONESIA",RCTI BACKUP
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 
@@ -102,7 +102,7 @@ http://group2-swiftservesd-1.dens.tv/s/s012/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="http://dusktill.masuk.web.id/img/inews.png" group-title="INDONESIA",iNews (HD)
-https://on-load.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+https://on-load.mncnow.id/live/eds/iNewsTV-HD/sa_dash_vmx/iNewsTV-HD.mpd
 #EXTINF:-1 tvg-id="inews.id" ch-number="12" tvg-name="iNews" tvg-logo="http://cdn.roll.my.id/img/inews.png" group-title="INDONESIA", INEWS BACKUP
 https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 
