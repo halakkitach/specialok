@@ -1420,11 +1420,6 @@ http://rr1.dens.tv/h/h04/index.m3u8
 http://103.153.39.36:8000/play/a00p
 #EXTINF:-1 tvg-id="&amp;Flix HD" group-title="TV ENTERTAIN" tvg-logo="https://www.useetv.com/pimages/logo_flik_small1.png?v=2.0.0.13",Flik
 http://51.79.251.57:2082/malik/malik/153
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1-->
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/fx.png" group-title="TV ENTERTAIN",FX
-https://liveanevia.mncnow.id/live/eds/FX/sa_dash_vmx/FX.mpd
- 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tse2.mm.bing.net/th?id=OIF.ToesmPjtr5JU3THZP89S9A&pid=Api&P=0&w=169&h=169" group-title="TV ENTERTAIN",Samurai
@@ -1490,8 +1485,10 @@ http://rr.dens.tv/h/h152/index2.m3u8
 http://rr.dens.tv/h/h22/index.m3u8
 #EXTINF:-1 tvg-id="WAKUWAKU JAPAN"" group-title="TV ENTERTAIN" tvg-logo="https://www.useetv.com/pimages/logo_wakuwaku_small.png?v=2.0.0.13",Waku Waku Japan
 http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://bit.ly/3vJZZTA" group-title="TV ENTERTAIN", IMC
-http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=imc&gumisasakTV=default&sync=0
+https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="TV ENTERTAIN",RedBox Movie 1
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=Redbox
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="TV ENTERTAIN",RedBox Movie 2
