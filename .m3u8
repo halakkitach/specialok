@@ -13,24 +13,18 @@ https://liveevent5.rctiplus.id/liveevent/futsal_720p.m3u8?auth_key=1684540494-0-
 https://d2fohnmc8kogc.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",LIVE NBA 2
 https://d2fohnmc8kogc.cloudfront.net/hls/timberwolves/chunks.m3u8
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 15.15 WIB BHAYANGKARA FC VS PERSITA
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-https://etslive-2-vidio-com.akamaized.net/exp=1646135117~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=c3224a11dd736665a8f6ae5d1004e32eecca268b3e2d36327ea6af6b92dbc83b/vp9/206_stream.mpd
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 16.00 WIB PERSELA VS BALI UNITED
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 18.15 WIB PSS VS PSM MAKASSAR
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.30 WIB PERSIJA VS PERSIB
-https://etslive-2-vidio-com.akamaized.net/exp=1646154298~acl=/vp9/8025_stream.mpd!/vp9/8025/*!/vp9/*/8025_stream.mpd!/vp9/*/8025/*~hmac=d74f75a350f95abaaadca2fc708dfdf81a153d769e048f91e80e7b68cfeb5223/vp9/8025_stream.mpd
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:-1 group-title="LIVE EVENT",LIVE PSG U19 VS SE VILLA U19
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB LIGA UEFA YOUTH 
 http://45.57.233.138:25461/live/3344/3344/37834.m3u8?token=ThRYUhdcFVwXUg5SCltZCw8BCQRQUlcHUlxRB1wFUlsMBQFRUAQCAwYRFEdLFhNcWF1mWQATXgEBAVZRFEREEVBEb1oAFg1EDQcKUBpOQ01QXVwSXgFIEEZQAUcCRABVAwYBEUgWUh5BVkoLWQ4+XVxGUFMBE15cQ1UJSRoJXz1RU11SClAVXBcDGkkaCxJJGwpXRQhdSBBUUBEXWRJUQA8UBQdUDBVKF1BXEFYWE0AbCht5IBNIEFNBEQBWFVgNWxQKEQkHQl4XHxoMSz0TXEpES1UFXAFAFANHVRpKEw9UTm9QC1pZA1ZHUQpWEUMDGwMbHEZcC1xfTQoXZxZYBhcMEgJVBABSF04=
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB LIGA UEFA YOUTH BACKUP
+http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/287308
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 02.15 WIB FA CUP
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/305195
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 02.55 WIB FA CUP backup
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2631
-
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB COPADELRAY
+http://iptvtree.net:8080/15247/6bc4e63e/1489
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB COPPA ITALY
+http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/11595
 ######### INDONESIA #########
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1085,19 +1079,19 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BEIN ENG 3
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
 #EXTINF:-1,TR: beIN SPORTS 1 HD+
-http://sonyiptv.net:8080/223140/223140/206903
+http://sonyiptv.net:8080/156668/156668/206903
 #EXTINF:-1,TR: beIN SPORTS 2 HD
-http://sonyiptv.net:8080/223140/223140/206904
+http://sonyiptv.net:8080/156668/156668/206904
 #EXTINF:-1,TR: beIN SPORTS 3 HD
-http://sonyiptv.net:8080/223140/223140/206905
+http://sonyiptv.net:8080/156668/156668/206905
 #EXTINF:-1,TR: beIN SPORTS 4 HD
-http://sonyiptv.net:8080/223140/223140/206906
+http://sonyiptv.net:8080/156668/156668/206906
 #EXTINF:-1,AR | BEIN SPORT 1 ENGLISH HD
-http://sonyiptv.net:8080/223140/223140/205895
+http://sonyiptv.net:8080/156668/156668/205895
 #EXTINF:-1,AR | BEIN SPORT 2 ENGLISH HD
-http://sonyiptv.net:8080/223140/223140/205896
+http://sonyiptv.net:8080/156668/156668/205896
 #EXTINF:-1,AR | BEIN SPORT 3 ENGLISH HD
-http://sonyiptv.net:8080/223140/223140/205897
+http://sonyiptv.net:8080/156668/156668/205897
 #EXTINF:-1,QA: beIN Sports English 1 FHD
 http://iptvtree.net:8080/15247/6bc4e63e/281444
 #EXTINF:-1,QA beIN Sports English 1 FHD
