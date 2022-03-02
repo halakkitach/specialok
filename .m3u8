@@ -37,7 +37,7 @@ https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="INDONESIA",MNC TV
-https://on-load.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-id="mnctv.id" ch-number="2" tvg-name="MNCTV" tvg-logo="http://cdn.roll.my.id/img/mnctv.png" group-title="INDONESIA",MNCTV BACKUP
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 
@@ -71,7 +71,7 @@ http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="INDONESIA",GTV
-https://on-load.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 tvg-id="gtv.id" ch-number="3" tvg-name="GTV" tvg-logo="http://cdn.roll.my.id/img/gtv.png" group-title="INDONESIA",GTV BACKUP
 https://cubmu.superzap.xyz:8279/gtv/playlist.m3u8
 
