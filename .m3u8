@@ -952,13 +952,13 @@ http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/11604
 #EXTINF:-1,UK: BT Sport ESPN HD BACKUP
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/11607
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 1 BACKUP II
-http://sonyiptv.net:8080/bisma/bisma/179902
+http://vmp343.ddnsking.com:80/bowl300/bowl300/549015
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 2 BACKUP II
-http://sonyiptv.net:8080/bisma/bisma/179903
+http://vmp343.ddnsking.com:80/bowl300/bowl300/549016
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 3 BACKUP II
-http://sonyiptv.net:8080/bisma/bisma/179904
+http://vmp343.ddnsking.com:80/bowl300/bowl300/549017
 #EXTINF:-1,UK: BT Sport ESPN HD BACKUP II
-http://sonyiptv.net:8080/bisma/bisma/207066
+http://vmp343.ddnsking.com:80/bowl300/bowl300/549018
 #EXTINF:-1,UK: EUROSPORT 1 GLOBAL
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:-1,UK: EUROSPORT 1
@@ -966,23 +966,23 @@ http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/11601
 #EXTINF:-1,UK: EUROSPORT 2
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/11600
 #EXTINF:-1,UK: Eurosport 1 HD
-http://sonyiptv.net:8080/223140/223140/207069
+http://vmp343.ddnsking.com:80/bowl300/bowl300/549011
 #EXTINF:-1,UK: Eurosport 2 HD
-http://sonyiptv.net:8080/223140/223140/207070
+http://vmp343.ddnsking.com:80/bowl300/bowl300/549012
 #EXTINF:-1,SKY-SPORTS ARENA
-http://breakingcable.xyz:80/Rwilliams/Rwilliams/648892
+http://vmp343.ddnsking.com:80/bowl300/bowl300/549007
 #EXTINF:-1,SKY-SPORTS CRICKET
 http://vmp343.ddnsking.com:80/bowl300/bowl300/549004
 #EXTINF:-1,SKY-SPORTS FOOTBALL BACKUP
 http://breakingcable.xyz:80/Rwilliams/Rwilliams/648895
 #EXTINF:-1,SKY-SPORTS FOOTBALL
-http://sonyiptv.net:8080/223140/223140/179910
+http://vmp343.ddnsking.com:80/bowl300/bowl300/549003
 #EXTINF:-1,SKY-SPORTS MAIN EVENT BACKUP
 http://breakingcable.xyz:80/Rwilliams/Rwilliams/648897
 #EXTINF:-1,SKY-SPORTS MAIN EVENT
-http://sonyiptv.net:8080/223140/223140/179911
+http://vmp343.ddnsking.com:80/bowl300/bowl300/549001
 #EXTINF:-1,SKY-SPORTS PREMIER LEAGUE
-http://sonyiptv.net:8080/223140/223140/179914
+http://vmp343.ddnsking.com:80/bowl300/bowl300/549002
 #EXTINF:-1,SKY-SPORTS PREMIER LEAGUE BACKUP
 http://breakingcable.xyz:80/Rwilliams/Rwilliams/648893
 #EXTINF:-1,SKY-SPORTS RACING
@@ -1077,20 +1077,18 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BEIN ENG 3
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
-#EXTINF:-1,TR| BEIN SPORTS 1 HD
-http://test.thesmartiptv.com:900/3CC44CBD/JVukd8mTSr/191529
-#EXTINF:-1,TR| BEIN SPORTS 2 HD
-http://test.thesmartiptv.com:900/3CC44CBD/JVukd8mTSr/191533
-#EXTINF:-1,TR| BEIN SPORTS 3 SD
-http://test.thesmartiptv.com:900/3CC44CBD/JVukd8mTSr/191535
-#EXTINF:-1,TR| BEIN SPORTS 4 HD
-http://test.thesmartiptv.com:900/3CC44CBD/JVukd8mTSr/191537
-#EXTINF:-1,AR| BEIN SPORTS ENGLISH 1 HD
-http://test.thesmartiptv.com:900/3CC44CBD/JVukd8mTSr/81
-#EXTINF:-1,AR| BEIN SPORTS ENGLISH 2 HD
-http://test.thesmartiptv.com:900/3CC44CBD/JVukd8mTSr/82
-#EXTINF:-1,AR| BEIN SPORTS ENGLISH 3 HD
-http://test.thesmartiptv.com:900/3CC44CBD/JVukd8mTSr/83
+#EXTINF:-1,EN: BEIN SPORTS 1 ENGLISH
+http://vmp343.ddnsking.com:80/bowl300/bowl300/435572
+#EXTINF:-1,EN: BEIN SPORTS 2 ENGLISH
+http://vmp343.ddnsking.com:80/bowl300/bowl300/435573
+#EXTINF:-1,TR: BEIN SPORT 1
+http://vmp343.ddnsking.com:80/bowl300/bowl300/435575
+#EXTINF:-1,TR: BEIN SPORT 2
+http://vmp343.ddnsking.com:80/bowl300/bowl300/435576
+#EXTINF:-1,TR: BEIN SPORT 3
+http://vmp343.ddnsking.com:80/bowl300/bowl300/435577
+#EXTINF:-1,TR: BEIN SPORT 4
+http://vmp343.ddnsking.com:80/bowl300/bowl300/435578
 #EXTINF:-1,|AR| BEIN SPORTS 1 EN
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/305195
 #EXTINF:-1,|AR| BEIN SPORTS 2 EN
