@@ -887,14 +887,16 @@ http://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
 http://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:-1 tvg-logo="", Ais Play
+#EXTINF:-1 tvg-logo="", Ais Play 1
 https://iioap-21iigk-agbmpd.googglecdns.com/edu/ch02/chunks.m3u8
-#EXTINF:-1 tvg-logo="", Ais Play
+#EXTINF:-1 tvg-logo="", Ais Play 2
 https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch04/chunks.m3u8
-#EXTINF:-1 tvg-logo="", Ais Play
+#EXTINF:-1 tvg-logo="", Ais Play 3
 https://iioap-21iigk-agbmpd.googglecdns.com/edu/ch06/playlist.m3u8
-#EXTINF:-1 tvg-logo="", Ais Play
+#EXTINF:-1 tvg-logo="", Ais Play 4
 https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch09/chunks.m3u8
+#EXTINF:-1 tvg-logo="", Ais Play 5
+http://4digital.ddns.net:11222/ts/0
 #EXTINF:-1 tvg-id="astroarena.my" tvg-name="ASTRO Arena HD" tvg-logo="http://tvmalaysia.cc:80/images/9bfeb1c6e3d87c0d27a5d12326aa7a5a.png" group-title="TV SPORT",ASTRO Arena HD
 http://iptv.tvmalaysia.cc:80/live/109789/109789/6707.m3u8
 #EXTINF:-1 tvg-id="astroarena2.my" tvg-name="Arena 2" tvg-logo="" group-title="TV SPORT",Arena 2
@@ -1087,18 +1089,12 @@ http://sonyiptv.net:8080/156668/156668/205895
 http://sonyiptv.net:8080/156668/156668/205896
 #EXTINF:-1,AR | BEIN SPORT 3 ENGLISH HD
 http://sonyiptv.net:8080/156668/156668/205897
-#EXTINF:-1,QA: beIN Sports English 1 FHD
-http://iptvtree.net:8080/15247/6bc4e63e/281444
-#EXTINF:-1,QA beIN Sports English 1 FHD
-http://iptvtree.net:8080/15247/6bc4e63e/290192
-#EXTINF:-1,QA: beIN Sports English 2 FHD
-http://iptvtree.net:8080/15247/6bc4e63e/111
-#EXTINF:-1,QA beIN Sports English 2 FHD
-http://iptvtree.net:8080/15247/6bc4e63e/291086
-#EXTINF:-1,QA: beIN Sports English 3 FHD
-http://iptvtree.net:8080/15247/6bc4e63e/267769
-#EXTINF:-1,QA beIN Sports English 3 FHD
-http://iptvtree.net:8080/15247/6bc4e63e/290225
+#EXTINF:-1,AR| BEIN SPORTS ENGLISH 1 FHD
+http://test.thesmartiptv.com:900/3CC44CBD/JVukd8mTSr/26
+#EXTINF:-1,AR| BEIN SPORTS ENGLISH 2 FHD
+http://test.thesmartiptv.com:900/3CC44CBD/JVukd8mTSr/27
+#EXTINF:-1,AR| BEIN SPORTS ENGLISH 3 FHD
+http://test.thesmartiptv.com:900/3CC44CBD/JVukd8mTSr/28
 #EXTINF:-1,|AR| BEIN SPORTS 1 EN
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/305195
 #EXTINF:-1,|AR| BEIN SPORTS 2 EN
