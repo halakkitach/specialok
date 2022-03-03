@@ -14,9 +14,9 @@ https://dornatoken.secure.footprint.net:443/token=nva=1646330571~dirs=2~ip=173.2
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 03.15 WIB FA CUP
 http://stariptv.org:8080/wael2021/123456/112461
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 03.15 WIB FA CUP backup
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/60582
+http://sonyiptv.net:8080/223140/223140/225459
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB COPADELRAY
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28812
+http://stariptv.org:8080/wael2021/123456/84817
 
 ######### INDONESIA #########
 
@@ -810,9 +810,9 @@ https://delivery.macan.network/stream/macan_sport_1/playlist.m3u8?token=0t348&v=
 #EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="TV SPORT",beIN Sport 3 INDO
 https://delivery.macan.network/stream/macan_sport_2/playlist.m3u8?token=0t348&v=20200807
 #EXTINF:-1,|MY| BEIN SPORTS
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/287309
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71104
 #EXTINF:-1,|MY| BEIN MAX
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/287308
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71105
 #EXTINF:-1,PPTV HD
 https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
@@ -918,7 +918,7 @@ http://iptv.tvmalaysia.cc:80/live/109789/109789/9026.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="TV SPORT",Astro Supersport 5 HD
 http://iptv.tvmalaysia.cc:80/live/109789/109789/9029.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="TV SPORT",Astro Supersport 5
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/287302
+http://iptvtree.net:8080/15247/6bc4e63e/287792
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1,UK: BT SPORT 1
@@ -930,11 +930,11 @@ http://breakingcable.xyz:80/Rwilliams/Rwilliams/649383
 #EXTINF:-1,UK: BT SPORT ESPN
 http://breakingcable.xyz:80/Rwilliams/Rwilliams/649385
 #EXTINF:-1,UK: Free Sports HD
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/11598
+http://stariptv.org:8080/wael2021/123456/84817
 #EXTINF:-1,UK: Premier Sports 1 HD
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/11595
+http://stariptv.org:8080/wael2021/123456/16098
 #EXTINF:-1,UK: Premier Sports 2 HD
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/11594
+http://stariptv.org:8080/wael2021/123456/16098
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 1 BACKUP
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/11606
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 2 BACKUP
