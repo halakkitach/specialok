@@ -14,10 +14,9 @@ https://dornatoken.secure.footprint.net:443/token=nva=1646330571~dirs=2~ip=173.2
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 03.15 WIB FA CUP
 http://stariptv.org:8080/wael2021/123456/112461
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 03.15 WIB FA CUP backup
-http://sonyiptv.net:8080/223140/223140/225459
+http://red.ipfox.org:8080/1234/12345678/2974
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB COPADELRAY
-http://stariptv.org:8080/wael2021/123456/84817
-
+http://red.ipfox.org:8080/1234/12345678/25970
 ######### INDONESIA #########
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
