@@ -920,28 +920,28 @@ http://iptv.tvmalaysia.cc:80/live/109789/109789/9029.m3u8
 http://iptvtree.net:8080/15247/6bc4e63e/287792
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:-1,UK: BT SPORT 1
-http://breakingcable.xyz:80/Rwilliams/Rwilliams/649381
-#EXTINF:-1,UK: BT SPORT 2
-http://breakingcable.xyz:80/Rwilliams/Rwilliams/649382
-#EXTINF:-1,UK: BT SPORT 3
-http://breakingcable.xyz:80/Rwilliams/Rwilliams/649383
-#EXTINF:-1,UK: BT SPORT ESPN
-http://breakingcable.xyz:80/Rwilliams/Rwilliams/649385
+#EXTINF:-1,|UK| BT Sport 1 HD
+http://red.ipfox.org:8080/1234/12345678/24169
+#EXTINF:-1,|UK| BT Sport 2 HD
+http://red.ipfox.org:8080/1234/12345678/24171
+#EXTINF:-1,|UK| BT Sport 3 HD
+http://red.ipfox.org:8080/1234/12345678/24173
+#EXTINF:-1,|UK| BT Sport ESPN
+http://red.ipfox.org:8080/1234/12345678/24175
 #EXTINF:-1,UK: Free Sports HD
-http://stariptv.org:8080/wael2021/123456/84817
-#EXTINF:-1,UK: Premier Sports 1 HD
-http://stariptv.org:8080/wael2021/123456/16098
-#EXTINF:-1,UK: Premier Sports 2 HD
-http://stariptv.org:8080/wael2021/123456/16098
-#EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 1 BACKUP
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/11606
-#EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 2 BACKUP
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/11605
-#EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 3 BACKUP
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/11604
-#EXTINF:-1,UK: BT Sport ESPN HD BACKUP
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/11607
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28812
+#EXTINF:-1,UK: Premier Sports 1 HD BACKUP I
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28953
+#EXTINF:-1,UK: Premier Sports 2 HD BACKUP I
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28915
+#EXTINF:-1,UK014:BT Sport 1 HD BACKUP I
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2943
+#EXTINF:-1,UK015:BT Sport 2 HD BACKUP I
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2942
+#EXTINF:-1,UK016:BT Sport 3 HD BACKUP I
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2941
+#EXTINF:-1,UK017:BT Sport ESPN FHD BACKUP I
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2940
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 1 BACKUP II
 http://vmp343.ddnsking.com:80/bowl300/bowl300/549015
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 2 BACKUP II
@@ -953,37 +953,37 @@ http://vmp343.ddnsking.com:80/bowl300/bowl300/549018
 #EXTINF:-1,UK: EUROSPORT 1 GLOBAL
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:-1,UK: EUROSPORT 1
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/11601
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28946
 #EXTINF:-1,UK: EUROSPORT 2
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/11600
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28947
 #EXTINF:-1,UK: Eurosport 1 HD
 http://vmp343.ddnsking.com:80/david2/david2/549011
 #EXTINF:-1,UK: Eurosport 2 HD
 http://vmp343.ddnsking.com:80/david2/david2/549012
 #EXTINF:-1,SKY-SPORTS ARENA
-http://vmp343.ddnsking.com:80/david2/david2/549007
+http://red.ipfox.org:8080/1234/12345678/24157
 #EXTINF:-1,SKY-SPORTS CRICKET
-http://vmp343.ddnsking.com:80/david2/david2/549004
+http://red.ipfox.org:8080/1234/12345678/24163
 #EXTINF:-1,SKY-SPORTS FOOTBALL BACKUP
-http://breakingcable.xyz:80/Rwilliams/Rwilliams/648895
+http://red.ipfox.org:8080/1234/12345678/24151
 #EXTINF:-1,SKY-SPORTS FOOTBALL
 http://vmp343.ddnsking.com:80/david2/david2/549003
 #EXTINF:-1,SKY-SPORTS MAIN EVENT BACKUP
-http://breakingcable.xyz:80/Rwilliams/Rwilliams/648897
+http://red.ipfox.org:8080/1234/12345678/24149
 #EXTINF:-1,SKY-SPORTS MAIN EVENT
 http://vmp343.ddnsking.com:80/david2/david2/549001
 #EXTINF:-1,SKY-SPORTS PREMIER LEAGUE
 http://vmp343.ddnsking.com:80/david2/david2/549002
 #EXTINF:-1,SKY-SPORTS PREMIER LEAGUE BACKUP
-http://breakingcable.xyz:80/Rwilliams/Rwilliams/648893
+http://red.ipfox.org:8080/1234/12345678/24153
 #EXTINF:-1,SKY-SPORTS RACING
-http://breakingcable.xyz:80/Rwilliams/Rwilliams/648901
+http://red.ipfox.org:8080/1234/12345678/24167
 #EXTINF:-1,SKY-SPORTS F1 BACKUP
 http://sonyiptv.net:8080/223140/223140/179918
 #EXTINF:-1,SKY-SPORTS F1
-http://breakingcable.xyz:80/Rwilliams/Rwilliams/648894
+http://red.ipfox.org:8080/1234/12345678/24165
 #EXTINF:-1,SKY-SPORTS GOLF
-http://breakingcable.xyz:80/Rwilliams/Rwilliams/648896
+http://red.ipfox.org:8080/1234/12345678/24161
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1,|DSTV| SuperSport PSL
@@ -1090,12 +1090,12 @@ http://iptvtree.net:8080/15247/6bc4e63e/1737
 http://iptvtree.net:8080/15247/6bc4e63e/1739
 #EXTINF:-1,TR: beIN Sports 4 FHD
 http://iptvtree.net:8080/15247/6bc4e63e/7450
-#EXTINF:-1,|AR| BEIN SPORTS 1 EN
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/305195
-#EXTINF:-1,|AR| BEIN SPORTS 2 EN
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/305194
-#EXTINF:-1,|AR| BEIN SPORTS 3 EN
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/305193
+#EXTINF:-1,UK141:BeIN Sports 1 HD
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28918
+#EXTINF:-1,UK142:BeIN Sports 2 HD
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28917
+#EXTINF:-1,UK143:BeIN Sports 3 HD
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28916
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="TV SPORT",Unifi Sports 1
@@ -1220,20 +1220,18 @@ http://iptvtree.net:8080/15247/6bc4e63e/1938
 http://iptvtree.net:8080/15247/6bc4e63e/279991
 #EXTINF:-1,FR RMC SPORT 4 FHD
 http://iptvtree.net:8080/15247/6bc4e63e/279844
-#EXTINF:-1,|PT| SPORT TV + HD
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/286647
-#EXTINF:-1,|PT| SPORT TV 1 HD
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/8019
-#EXTINF:-1,|PT| SPORT TV 1 HD NOS
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/8018
-#EXTINF:-1,|PT| SPORT TV 2 HD
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/8016
-#EXTINF:-1,|PT| SPORT TV 3 HD
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/8014
-#EXTINF:-1,|PT| SPORT TV 4
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/8012
-#EXTINF:-1,|PT| SPORT TV 5
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/8011
+#EXTINF:-1,|PO| Sport TV 1 HD
+http://red.ipfox.org:8080/1234/12345678/2673
+#EXTINF:-1,|PO| Sport TV 2 HD
+http://red.ipfox.org:8080/1234/12345678/2672
+#EXTINF:-1,|PO| Sport TV 3 HD
+http://red.ipfox.org:8080/1234/12345678/2671
+#EXTINF:-1,|PO| Sport TV 4
+http://red.ipfox.org:8080/1234/12345678/2670
+#EXTINF:-1,|PO| Sport TV 5
+http://red.ipfox.org:8080/1234/12345678/2669
+#EXTINF:-1,|PO| Sport TV plus
+http://red.ipfox.org:8080/1234/12345678/2668
 #EXTINF:-1 group-title="TV SPORT", TNTSPORTS 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 group-title="TV SPORT", TNTSPORTS 2
