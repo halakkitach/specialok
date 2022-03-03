@@ -13,6 +13,8 @@ https://liveevent5.rctiplus.id/liveevent/futsal_720p.m3u8?auth_key=1684540494-0-
 https://d2fohnmc8kogc.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",LIVE NBA 2
 https://d2fohnmc8kogc.cloudfront.net/hls/rockets/playlist.m3u8
+#EXTINF:-1 group-title="LIVE EVENT",LIVE NBA 3
+https://d2fohnmc8kogc.cloudfront.net/hls/nuggets/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 03.15 WIB FA CUP
 http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/305195
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 03.15 WIB FA CUP backup
