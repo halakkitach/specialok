@@ -11,12 +11,26 @@ https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 https://liveevent5.rctiplus.id/liveevent/futsal_720p.m3u8?auth_key=1684540494-0-0-8398078e17870b75a68e97392ca17db5
 #EXTINF:-1 group-title="LIVE EVENT",LIVE MOTOGP QATAR PERSS
 https://dornatoken.secure.footprint.net:443/token=nva=1646330571~dirs=2~ip=173.245.211.10~data=HO12kEvw8xNQBO9ake33TEKz9pDDDcp5eMXA%252BKq6ded7v0%252F90evy4it%252BuGfDUwrM~token=0bd07313ac04de4c6d14e/hls/ipfmix/4.m3u8?start=0&
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.15 WIB FA CUP
-http://stariptv.org:8080/wael2021/123456/112461
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.15 WIB FA CUP backup
-http://red.ipfox.org:8080/1234/12345678/2974
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB COPADELRAY
-http://red.ipfox.org:8080/1234/12345678/25970
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 15.50 WIB FP MOTOGP
+https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 15.50 WIB FP MOTOGP BACKUP I
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2942
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 02.45 WIB SERIA ITALIA
+http://red.ipfox.org:8080/1234/12345678/18322
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 02.45 WIB SERIA ITALIA BACKUP
+https://delivery.macan.network/stream/macan_sport_2/playlist.m3u8?token=0t348&v=20200807
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LA LIGA
+http://red.ipfox.org:8080/1234/12345678/25519
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LA LIGA BACKUP
+https://delivery.macan.network/stream/macan_sport_1/playlist.m3u8?token=0t348&v=20200807
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 02.30 WIB BUNDESLIGA
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/29013
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 02.30 WIB BUNDESLIGA BACKUP
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1904
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB
+http://iptvtree.net:8080/15247/6bc4e63e/279721
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB BACKUP
+http://iptvtree.net:8080/15247/6bc4e63e/279723
 ######### INDONESIA #########
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -921,18 +935,18 @@ http://iptvtree.net:8080/15247/6bc4e63e/287792
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1,|UK| BT Sport 1 HD
-http://red.ipfox.org:8080/1234/12345678/24169
+http://stariptv.org:8080/wael2021/123456/9342
 #EXTINF:-1,|UK| BT Sport 2 HD
-http://red.ipfox.org:8080/1234/12345678/24171
+http://stariptv.org:8080/wael2021/123456/9341
 #EXTINF:-1,|UK| BT Sport 3 HD
-http://red.ipfox.org:8080/1234/12345678/24173
+http://stariptv.org:8080/wael2021/123456/9272
 #EXTINF:-1,|UK| BT Sport ESPN
-http://red.ipfox.org:8080/1234/12345678/24175
+http://stariptv.org:8080/wael2021/123456/9258
 #EXTINF:-1,UK: Free Sports HD
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28812
-#EXTINF:-1,UK: Premier Sports 1 HD BACKUP I
+#EXTINF:-1,UK: Premier Sports 1 HD
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28953
-#EXTINF:-1,UK: Premier Sports 2 HD BACKUP I
+#EXTINF:-1,UK: Premier Sports 2 HD
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28915
 #EXTINF:-1,UK014:BT Sport 1 HD BACKUP I
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2943
@@ -961,27 +975,27 @@ http://vmp343.ddnsking.com:80/david2/david2/549011
 #EXTINF:-1,UK: Eurosport 2 HD
 http://vmp343.ddnsking.com:80/david2/david2/549012
 #EXTINF:-1,SKY-SPORTS ARENA
-http://red.ipfox.org:8080/1234/12345678/24157
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2902
 #EXTINF:-1,SKY-SPORTS CRICKET
-http://red.ipfox.org:8080/1234/12345678/24163
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2879
 #EXTINF:-1,SKY-SPORTS FOOTBALL BACKUP
-http://red.ipfox.org:8080/1234/12345678/24151
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2870
 #EXTINF:-1,SKY-SPORTS FOOTBALL
 http://vmp343.ddnsking.com:80/david2/david2/549003
 #EXTINF:-1,SKY-SPORTS MAIN EVENT BACKUP
-http://red.ipfox.org:8080/1234/12345678/24149
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2881
 #EXTINF:-1,SKY-SPORTS MAIN EVENT
 http://vmp343.ddnsking.com:80/david2/david2/549001
 #EXTINF:-1,SKY-SPORTS PREMIER LEAGUE
 http://vmp343.ddnsking.com:80/david2/david2/549002
 #EXTINF:-1,SKY-SPORTS PREMIER LEAGUE BACKUP
-http://red.ipfox.org:8080/1234/12345678/24153
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2877
 #EXTINF:-1,SKY-SPORTS RACING
-http://red.ipfox.org:8080/1234/12345678/24167
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28741
 #EXTINF:-1,SKY-SPORTS F1 BACKUP
 http://sonyiptv.net:8080/223140/223140/179918
 #EXTINF:-1,SKY-SPORTS F1
-http://red.ipfox.org:8080/1234/12345678/24165
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2876
 #EXTINF:-1,SKY-SPORTS GOLF
 http://red.ipfox.org:8080/1234/12345678/24161
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
@@ -1022,16 +1036,12 @@ http://red.ipfox.org:8080/1234/12345678/25497
 http://red.ipfox.org:8080/1234/12345678/2982
 #EXTINF:-1,|DSTV| SuperSport WWE
 http://red.ipfox.org:8080/1234/12345678/25512
-#EXTINF:-1,DEPORTES: DIRECTV SPORTS 1
-http://vmp343.ddnsking.com:80/david2/david2/434729
-#EXTINF:-1,DEPORTES: ESPN CARIBBEAN
-http://vmp343.ddnsking.com:80/david2/david2/434735
-#EXTINF:-1,DEPORTES: ESPN 2 CARIBBEAN
-http://vmp343.ddnsking.com:80/david2/david2/434736
-#EXTINF:-1,WORLD SPORT: RUSH SPORT EPL
-http://vmp343.ddnsking.com:80/david2/david2/394979
-#EXTINF:-1,WORLD SPORT: RUSH SPORT 01
-http://vmp343.ddnsking.com:80/david2/david2/394980
+#EXTINF:-1,UK138:Rush Sport 1 - 3pm (Match Time)
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28921
+#EXTINF:-1,UK322:Rush Sport 2 - 3pm (Match Time)
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28729
+#EXTINF:-1,UK283:Rush Sport 3 - 3pm (Match Time)
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28776
 #EXTINF:-1,FR: Amazon Prime SPORT 1 HD
 http://iptvtree.net:8080/15247/6bc4e63e/279721
 #EXTINF:-1,FR: Amazon Prime SPORT 3 HD
@@ -1090,12 +1100,6 @@ http://iptvtree.net:8080/15247/6bc4e63e/1737
 http://iptvtree.net:8080/15247/6bc4e63e/1739
 #EXTINF:-1,TR: beIN Sports 4 FHD
 http://iptvtree.net:8080/15247/6bc4e63e/7450
-#EXTINF:-1,UK141:BeIN Sports 1 HD
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28918
-#EXTINF:-1,UK142:BeIN Sports 2 HD
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28917
-#EXTINF:-1,UK143:BeIN Sports 3 HD
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28916
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="TV SPORT",Unifi Sports 1
@@ -1125,15 +1129,23 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1 LINK GRATIS,TIDAK DIJUAL!!! 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1,IN: SONY SIX
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2758
-#EXTINF:-1,IN: TEN 1 HD
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2749
-#EXTINF:-1,IN: TEN 2
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2748
-#EXTINF:-1,IN: TEN 3
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2747
-#EXTINF:-1,IN: TEN CRICKET
-http://line.crystalott.co:80/N38CDZZGFX/ZVFoBbiqVuovZrS/2746
+http://stariptv.org:8080/wael2021/123456/99325
+#EXTINF:-1,IN: SONY TEN 1 FHD
+http://stariptv.org:8080/wael2021/123456/93630
+#EXTINF:-1,IN: SONY TEN 2 FHD
+http://stariptv.org:8080/wael2021/123456/93631
+#EXTINF:-1,IN: SONY TEN 3 FHD
+http://stariptv.org:8080/wael2021/123456/93632
+#EXTINF:-1,IN: STAR SPORTS 1 HD
+http://stariptv.org:8080/wael2021/123456/93634
+#EXTINF:-1,IN: STAR SPORTS 2 HD
+http://stariptv.org:8080/wael2021/123456/93637
+#EXTINF:-1,IN: STAR SPORTS 3 HD
+http://stariptv.org:8080/wael2021/123456/98080
+#EXTINF:-1,IN: STAR SPORTS SELECT 1 HD
+http://stariptv.org:8080/wael2021/123456/93639
+#EXTINF:-1,IN: STAR SPORTS SELECT 2 HD
+http://stariptv.org:8080/wael2021/123456/93640
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="TV SPORT",89.Star Sports Select 1 HD 
 http://103.166.253.222/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="TV SPORT",90.Star Sports Select 2 HD
@@ -1176,18 +1188,6 @@ http://live.flixhub.net/hls/sonyten3.m3u8
 http://live.flixhub.net/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY TEN 1 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="TV SPORT",TATA |  SONY TEN 1 FHD
 http://live.flixhub.net/hls/sonyten1.m3u8
-#EXTINF: -1 tvg-id="ts155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="TV SPORT", Sony Six HD
-http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Six_HD&q=800&e=play.m3u8
-#EXTINF: -1 tvg-id="ts162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" group-title="TV SPORT", Ten 4 HD Telugu
-http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten_4_Telugu&q=800&e=play.m3u8
-#EXTINF: -1 tvg-id="ts162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="TV SPORT", Ten 1 HD
-http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten_HD&q=800&e=play.m3u8
-#EXTINF: -1 tvg-id="ts891" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="TV SPORT", Ten 2 HD
-http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten2_HD&q=800&e=play.m3u8
-#EXTINF: -1 tvg-id="ts892" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="TV SPORT", Ten 3 HD
-http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten3_HD&q=800&e=play.m3u8
-#EXTINF: -1 tvg-id="ts875" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="TV SPORT", Eurosport HD
-http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Dsports_HD&q=800&e=play.m3u8
 #EXTINF:-1,EX-YU Sport Klub 1 FHD
 http://iptvtree.net:8080/15247/6bc4e63e/282859
 #EXTINF:-1,EX-YU: Sport Klub 2 FHD
