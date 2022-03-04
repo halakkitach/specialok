@@ -11,6 +11,8 @@ https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 https://liveevent5.rctiplus.id/liveevent/futsal_720p.m3u8?auth_key=1684540494-0-0-8398078e17870b75a68e97392ca17db5
 #EXTINF:-1 group-title="LIVE EVENT",LIVE MOTOGP QATAR PERSS
 https://dornatoken.secure.footprint.net:443/token=nva=1646330571~dirs=2~ip=173.245.211.10~data=HO12kEvw8xNQBO9ake33TEKz9pDDDcp5eMXA%252BKq6ded7v0%252F90evy4it%252BuGfDUwrM~token=0bd07313ac04de4c6d14e/hls/ipfmix/4.m3u8?start=0&
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 15.50 WIB FP MOTOGP
 https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 15.50 WIB FP MOTOGP BACKUP I
