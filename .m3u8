@@ -1533,6 +1533,8 @@ https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:0 tvg-id="ext" group-title="TV MUSIC", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+#EXTINF:-1  tvg-id="maleo.id" group-title="TV MUSIC" tvg-logo="https://i.imgur.com/DJA7M8R.png",MALEO TV
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDO | E-Konser" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="TV MUSIC",INDO | E-Konser
 http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=ikonser&gumisasakTV=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="INDO | Zing" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="TV MUSIC",INDO | Zing INDO
