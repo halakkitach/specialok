@@ -976,10 +976,10 @@ http://stariptv.org:8080/wael2021/123456/9258
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28812
 #EXTINF:-1,UK: Free Sports HD BACKUP
 http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/28812
-#EXTINF:-1,UK: Premier Sports 1 HD
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28953
-#EXTINF:-1,UK: Premier Sports 2 HD
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28915
+#EXTINF:-1,UK106:Premiere Sport HD
+http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/28953
+#EXTINF:-1,UK144:Premier Sports 2
+http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/28915
 #EXTINF:-1,UK014:BT Sport 1 HD BACKUP I
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2943
 #EXTINF:-1,UK015:BT Sport 2 HD BACKUP I
@@ -1090,12 +1090,16 @@ http://vmp343.ddnsking.com:80/bowl300/bowl300/394982
 http://vmp343.ddnsking.com:80/bowl300/bowl300/16538
 #EXTINF:-1,CARIB: ESPN CARIBBEAN
 http://vmp343.ddnsking.com:80/bowl300/bowl300/16539
-#EXTINF:-1,FR: Amazon Prime SPORT 1 HD
-http://iptvtree.net:8080/15247/6bc4e63e/279721
-#EXTINF:-1,FR: Amazon Prime SPORT 3 HD
-http://iptvtree.net:8080/15247/6bc4e63e/279723
-#EXTINF:-1,FR: Amazon Prime SPORT 4 HD
-http://iptvtree.net:8080/15247/6bc4e63e/279724
+#EXTINF:-1,FR192:Amazon Prime 1
+http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/28117
+#EXTINF:-1,FR194:Amazon Prime 2
+http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/28115
+#EXTINF:-1,FR223:Amazon Prime 3
+http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/28086
+#EXTINF:-1,FR281:Amazon Prime 4
+http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/28028
+#EXTINF:-1,FR284:Amazon Prime 5
+http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/28025
 #EXTINF:-1,beIN Sport NBA HD
 http://stariptv.org:8080/wael2021/123456/150160
 #EXTINF:-1,beIN 1 PREMIUM HD
