@@ -30,7 +30,7 @@ https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 18.15 WIB BRI LIGA1 BARITO VS AREMA FC
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 19.30 WIB LIGA INGGRIS
-https://stream.mmsiptv.com/droid/rmc1/playlist.m3u8
+http://139.99.27.33:9998/assp1_720/tracks-v1a1/mono.m3u8?token=00098837497ee521d0630441e94b17a475c88c54-d979b9d457e1bf39cba5de2a89c88359-1646503558-1646492758
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 19.30 WIB LIGA INGGRIS BACKUP
 http://stariptv.org:8080/wael2021/123456/112461
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB BRI LIGA1 BORNEO FC VS PERSELA
@@ -851,9 +851,9 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="TV SPORT",beIN Sport 3 ID
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="TV SPORT",beIN Sport 1 INDO
-https://delivery.macan.network/stream/macan_sport_1/playlist.m3u8?token=0t348&v=20200807
+http://15.235.142.228:8080/live/tvnid123/tvn123456/833.m3u8
 #EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="TV SPORT",beIN Sport 3 INDO
-https://delivery.macan.network/stream/macan_sport_2/playlist.m3u8?token=0t348&v=20200807
+http://15.235.142.228:8080/live/tvnid123/tvn123456/834.m3u8
 #EXTINF:-1,ID053:Bein Sports 1 INDO BACKUP
 http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/60455
 #EXTINF:-1,ID069:Bein Sport 3 INDO BACKUP
