@@ -17,8 +17,10 @@ https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 https://liveevent5.rctiplus.id/liveevent/futsal_720p.m3u8?auth_key=1684540494-0-0-8398078e17870b75a68e97392ca17db5
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 15.25-22.40 WIB FP3 & Q MOTOGP QATAR 1
 https://dornatoken.secure.footprint.net/token=nva=1646496351~dirs=2~ip=173.245.211.10~data=MMDU6tbnkZHOxjPq0kSO0Gl7GenMyxYNa3QzCpey%252FKIPzROyUNtyZ9KDEyuXCz7s~token=0845fe3bebed58c9eaad5/hls/ipfmix/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 15.25-22.40 WIB FP3 & Q MOTOGP QATAR 2
-http://15.235.142.228:8080/live/hometvfree/selaludihati/72.ts
+https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 15.25-22.40 WIB FP3 & Q MOTOGP QATAR 3
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2942
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 15.25-22.40 WIB FP3 & Q MOTOGP QATAR 4
