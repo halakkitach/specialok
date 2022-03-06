@@ -20,7 +20,7 @@ https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 18.30 WIB SERIE A ITALIA
 http://15.235.142.228:8080/live/tvnid123/tvn123456/834.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 18.30 WIB SERIE A ITALIA BACKUP
-https://hll.hnzzdf.com.cn/live/H111269.m3u8?txSecret=dad962ba2d05a86e9c684d70e471499e&txTime=62249525&_s=stream
+http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/60284
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00 WIB LIGA PERANCIS
 http://iptvtree.net:8080/15247/6bc4e63e/1737
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00 WIB LIGA PERNACIS BACKUP
@@ -38,7 +38,7 @@ http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/52349
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB LA LIGA
 http://red.ipfox.org:8080/1234/12345678/2969
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB LA LIGA BACKUP
-http://15.235.142.228:8080/live/tvnid123/tvn123456/833.m3u8
+http://opplex.tv:8080/33321/33321/228245
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.45 WIB BRI LIGA1 BALI UNITED VS PERSIJA
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB LIGA INGGRIS
@@ -836,6 +836,8 @@ http://15.235.142.228:8080/live/hometvfree/selaludihati/72.ts
 http://15.235.142.228:8080/live/hometvfree/selaludihati/73.ts
 #EXTINF:-1,SPOTV malaysia
 http://iptv.tvmalaysia.cc:80/529231/529231/9033
+#EXTINF:-1,SPOTV 2 malaysia
+http://w.nasvpn.xyz:8080/saya/saya/7822
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="TV SPORT",beIN Sport 1 ID
@@ -845,12 +847,8 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="TV SPORT",beIN Sport 3 ID
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="TV SPORT",beIN Sport 1 INDO
-http://15.235.142.228:8080/live/tvnid123/tvn123456/833.m3u8
-#EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="TV SPORT",beIN Sport 3 INDO
-http://15.235.142.228:8080/live/tvnid123/tvn123456/834.m3u8
-#EXTINF:-1,ID053:Bein Sports 1 INDO BACKUP
 http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/60455
-#EXTINF:-1,ID069:Bein Sport 3 INDO BACKUP
+#EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="TV SPORT",beIN Sport 3 INDO
 http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/60284
 #EXTINF:-1,ID: Bein Sports 1 FHD
 http://opplex.tv:8080/33321/33321/228245
@@ -868,8 +866,6 @@ http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/71105
 http://iptv.tvmalaysia.cc:80/529231/529231/6597
 #EXTINF:-1,beIN MAX malay
 http://iptv.tvmalaysia.cc:80/529231/529231/6748
-#EXTINF:-1,beIN MAX 2 malay
-http://iptv.tvmalaysia.cc:80/529231/529231/7195
 #EXTINF:-1,PPTV HD
 https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
@@ -959,23 +955,23 @@ http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71102
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/95994491156dc80e743b181972c4e6d0.png" group-title="TV SPORT",ASTRO SUPERSPORT HD
 http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/59220
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASSP 1" tvg-logo="http://tvmalaysia.cc:80/images/fe80f1bf485eb106f9e91e1c16886b4c.png" group-title="TV SPORT",ASSP 1
-http://iptv.tvmalaysia.cc:80/529231/529231/9024
+http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/7845
 #EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="ASTRO SUPERSPORT 2 HD" tvg-logo="http://tvmalaysia.cc:80/images/628518d8dfdaa6cc296123a5bdb13c28.png" group-title="TV SPORT",ASTRO SUPERSPORT 2 HD
 http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/59219
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="http://tvmalaysia.cc:80/images/4946045f4dd1aca3a124f25655097c56.png" group-title="TV SPORT",ASSP 2
-http://iptv.tvmalaysia.cc:80/529231/529231/9025
+http://w.nasvpn.xyz:8080/iptvfreenet/iptvfreenet/7844
 #EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/25afd4f665faabffdd3041b89d69e856.png" group-title="TV SPORT",ASTRO SUPERSPORT 3 HD
 http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/59218
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="http://tvmalaysia.cc:80/images/d3ffad6f5889e2a0c59dfaabedcbbc90.png" group-title="TV SPORT",ASSP 3 (LIVE EPL ONLY)
-http://iptv.tvmalaysia.cc:80/529231/529231/9020
+http://w.nasvpn.xyz:8080/saya/saya/7847
 #EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="http://tvmalaysia.cc:80/images/9fa5701dc090214abf85095e751a161d.png" group-title="TV SPORT",ASTRO SUPERSPORT 4 HD
 http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/59217
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png" group-title="TV SPORT",ASSP 4
-http://iptv.tvmalaysia.cc:80/529231/529231/9026
+http://w.nasvpn.xyz:8080/saya/saya/7842
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="TV SPORT",Astro Supersport 5 HD
 http://iptv.tvmalaysia.cc:80/live/109789/109789/9029.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="TV SPORT",Astro Supersport 5
-http://opplex.tv:8080/33321/33321/229526
+http://w.nasvpn.xyz:8080/saya/saya/5340
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1,|UK| BT Sport 1 HD
