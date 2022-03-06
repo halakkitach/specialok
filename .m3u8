@@ -14,7 +14,7 @@ https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 https://liveevent5.rctiplus.id/liveevent/futsal_720p.m3u8?auth_key=1684540494-0-0-8398078e17870b75a68e97392ca17db5
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 15.15 WIB BRI LIGA1 PSM MAKASSAR VS PSIS
-https://etslive-2-vidio-com.akamaized.net/exp=1646561157~acl=/hls-p/ingest_205_*/*~hmac=b65048baf1e0eaf09a07009ebd93f2f03fb9b2453993d8520d02587cec4fc73a/hls-p/ingest_205_1080p/index.m3u8
+https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 18.15 WIB BRI LIGA1 PERSITA VS PERSEBAYA
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 18.30 WIB SERIE A ITALIA
@@ -26,7 +26,7 @@ http://iptvtree.net:8080/15247/6bc4e63e/1737
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00 WIB LIGA PERNACIS BACKUP
 https://events1-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00-22.00 WIB RACE MOTOGP QATAR 1
-https://dornatoken.secure.footprint.net/token=nva=1646496351~dirs=2~ip=173.245.211.10~data=MMDU6tbnkZHOxjPq0kSO0Gl7GenMyxYNa3QzCpey%252FKIPzROyUNtyZ9KDEyuXCz7s~token=0845fe3bebed58c9eaad5/hls/ipfmix/index.m3u8
+https://dornatoken.secure.footprint.net/token=nva=1646588238~dirs=2~ip=173.245.211.10~data=02OseSAqJ2NVi0eY0DmcbqOlQwH%252BRp0gkuK35jAuo%252FR%252BTyA0iihLfBoYYSQxLvII~token=06189150333d2b769eca1/hls/ipfmix/index.m3u8?per
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00-22.00 WIB RACE MOTOGP QATAR 2
