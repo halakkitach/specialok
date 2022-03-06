@@ -850,6 +850,10 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/60455
 #EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="TV SPORT",beIN Sport 3 INDO
 http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/60284
+#EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="TV SPORT",beIN Sport 1 id
+http://15.235.142.228:8080/live/tvnid123/tvn123456/833.m3u8
+#EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="TV SPORT",beIN Sport 3 id
+http://15.235.142.228:8080/live/tvnid123/tvn123456/834.m3u8
 #EXTINF:-1,ID: Bein Sports 1 FHD
 http://opplex.tv:8080/33321/33321/228245
 #EXTINF:-1,ID: Bein Sports 2 FHD
