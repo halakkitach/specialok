@@ -9,8 +9,6 @@ https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",TERIMKASIH SUDAH DONASI
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",LIVE NBA
-https://dnog3rmny3g3p.cloudfront.net/hls/heat/playlist.m3u8
-#EXTINF:-1 group-title="LIVE EVENT",LIVE NBA 2
 https://play.brasiltvweb.com/v3/youshi/m1_ZLeLkHOSgiYq548T_480p.m3u8?user_id=42166598&session_id=04CJaXzRxS4&app_id=com.global.brasiltvweb&auth_id=42166598_com.global.brasiltvweb&app_ver=10101&dev_limit=1&client_ip=2804:5310:50ca:ec00:208e:e04d:afec:3f1b&main_addr=https://play.brasiltvweb.com/v3/youshi/&rst_status=0&dev_id=b47e480f&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&expired=1646545153&token=DA2493375DC190CC2A9302C6F96479FA&media_code=m1_ZLeLkHOSgiYq548T_1080p
 #EXTINF:-1 group-title="LIVE EVENT",LIVE UFC
 https://play.brasiltvweb.com/v3/youshi/m3_kxiCuVcr9XvcEbXgX_1080p.m3u8?user_id=42166598&session_id=mJIMYOx8NAB6&app_id=com.global.brasiltvweb&auth_id=42166598_com.global.brasiltvweb&app_ver=10101&dev_limit=1&client_ip=2804:5310:50ca:ec00:7d7a:e942:ade8:1b23&main_addr=https://play.brasiltvweb.com/v3/youshi/&rst_status=0&dev_id=22234262&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&expired=1646543207&token=D06F36401184100CC05580155B1B152F&media_code=m3_kxiCuVcr9XvcEbXgX_1080p
@@ -864,9 +862,9 @@ http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/60455
 #EXTINF:-1,ID069:Bein Sport 3 INDO BACKUP
 http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/60284
 #EXTINF:-1,ID: Bein Sports 1 FHD
-http://opplex.tv:8080/97727/97727/228245
+http://opplex.tv:8080/33321/33321/228245
 #EXTINF:-1,ID: Bein Sports 2 FHD
-http://opplex.tv:8080/97727/97727/228246
+http://opplex.tv:8080/33321/33321/228246
 #EXTINF:-1,|MY| BEIN SPORTS MALAYSIA
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71104
 #EXTINF:-1,|MY| BEIN MAX MALAYSIA
@@ -958,7 +956,7 @@ http://iptv.tvmalaysia.cc:80/live/109789/109789/6707.m3u8
 #EXTINF:-1 tvg-id="astroarena2.my" tvg-name="Arena 2" tvg-logo="" group-title="TV SPORT",Arena 2
 http://iptv.tvmalaysia.cc:80/live/109789/109789/9028.m3u8
 #EXTINF:-1,MY: Astro Arena 2 HD BACKUP
-http://opplex.tv:8080/97727/97727/229530
+http://opplex.tv:8080/33321/33321/229530
 #EXTINF:-1,MY: Astro Arena HD BACKUP
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71102
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/95994491156dc80e743b181972c4e6d0.png" group-title="TV SPORT",ASTRO SUPERSPORT HD
@@ -980,7 +978,7 @@ http://iptv.tvmalaysia.cc:80/live/109789/109789/9026.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="TV SPORT",Astro Supersport 5 HD
 http://iptv.tvmalaysia.cc:80/live/109789/109789/9029.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="TV SPORT",Astro Supersport 5
-http://opplex.tv:8080/97727/97727/229526
+http://opplex.tv:8080/33321/33321/229526
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1,|UK| BT Sport 1 HD
@@ -1829,31 +1827,31 @@ https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:0 tvg-id="ext" group-title="AUSTRALIA SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1,AU: BeIN Sports 1 HD
-http://opplex.tv:8080/97727/97727/224930
+http://opplex.tv:8080/33321/33321/224930
 #EXTINF:-1,AU: BeIN Sports 2 HD
-http://opplex.tv:8080/97727/97727/224931
+http://opplex.tv:8080/33321/33321/224931
 #EXTINF:-1,AU: BeIN Sports 3 HD
-http://opplex.tv:8080/97727/97727/224932
+http://opplex.tv:8080/33321/33321/224932
 #EXTINF:-1,AU: Fox Sports News HD
-http://opplex.tv:8080/97727/97727/224933
+http://opplex.tv:8080/33321/33321/224933
 #EXTINF:-1,AU: Fox Sports 501 HD
-http://opplex.tv:8080/97727/97727/224934
+http://opplex.tv:8080/33321/33321/224934
 #EXTINF:-1,AU: Fox Sports 502 HD
-http://opplex.tv:8080/97727/97727/224935
+http://opplex.tv:8080/33321/33321/224935
 #EXTINF:-1,AU: Fox Sports 503 HD
-http://opplex.tv:8080/97727/97727/224936
+http://opplex.tv:8080/33321/33321/224936
 #EXTINF:-1,AU: Fox Sports 504 HD
-http://opplex.tv:8080/97727/97727/224937
+http://opplex.tv:8080/33321/33321/224937
 #EXTINF:-1,AU: Fox Sports 506 HD
-http://opplex.tv:8080/97727/97727/224938
+http://opplex.tv:8080/33321/33321/224938
 #EXTINF:-1,AU: Fox Sports 505 HD
-http://opplex.tv:8080/97727/97727/224939
+http://opplex.tv:8080/33321/33321/224939
 #EXTINF:-1,AU: Fox Sports 507 HD
-http://opplex.tv:8080/97727/97727/224940
+http://opplex.tv:8080/33321/33321/224940
 #EXTINF:-1,AU: ESPN 1 HD
-http://opplex.tv:8080/97727/97727/224941
+http://opplex.tv:8080/33321/33321/224941
 #EXTINF:-1,AU: ESPN 2 HD
-http://opplex.tv:8080/97727/97727/224942
+http://opplex.tv:8080/33321/33321/224942
 #EXTINF:-1,AU093:ESPN 1
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/61155
 #EXTINF:-1,AU103:ESPN 2
