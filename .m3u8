@@ -30,7 +30,7 @@ https://hll.hnzzdf.com.cn/live/H111269.m3u8?txSecret=dad962ba2d05a86e9c684d70e47
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00 WIB LIGA PERANCIS
 http://iptvtree.net:8080/15247/6bc4e63e/1737
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00 WIB LIGA PERNACIS BACKUP
-http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/28954
+https://events1-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00-22.00 WIB RACE MOTOGP QATAR 1
 https://dornatoken.secure.footprint.net/token=nva=1646496351~dirs=2~ip=173.245.211.10~data=MMDU6tbnkZHOxjPq0kSO0Gl7GenMyxYNa3QzCpey%252FKIPzROyUNtyZ9KDEyuXCz7s~token=0845fe3bebed58c9eaad5/hls/ipfmix/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -45,10 +45,10 @@ http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/52349
 http://red.ipfox.org:8080/1234/12345678/2969
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB LA LIGA BACKUP
 http://15.235.142.228:8080/live/tvnid123/tvn123456/833.m3u8
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB LIGA INGGRIS
-http://139.99.27.33:9998/assp1_720/tracks-v1a1/mono.m3u8?token=00098837497ee521d0630441e94b17a475c88c54-d979b9d457e1bf39cba5de2a89c88359-1646503558-1646492758
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.45 WIB BRI LIGA1 BALI UNITED VS PERSIJA
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB LIGA INGGRIS
+http://vmp343.ddnsking.com:80/bowl300/bowl300/16529
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB LIGA INGGRIS BACKUP
 http://stariptv.org:8080/wael2021/123456/112461
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 23.30 WIB BUNDESLIGA
@@ -1099,14 +1099,6 @@ http://red.ipfox.org:8080/1234/12345678/25512
 http://vmp343.ddnsking.com:80/bowl300/bowl300/16529
 #EXTINF:-1,WORLD SPORT: RUSH SPORT 01
 http://vmp343.ddnsking.com:80/bowl300/bowl300/394980
-#EXTINF:-1,WORLD SPORT: RUSH SPORT 02
-http://vmp343.ddnsking.com:80/bowl300/bowl300/394981
-#EXTINF:-1,WORLD SPORT: RUSH SPORT 03
-http://vmp343.ddnsking.com:80/bowl300/bowl300/394982
-#EXTINF:-1,CARIB: ESPN 2 CARIBBEAN
-http://vmp343.ddnsking.com:80/bowl300/bowl300/16538
-#EXTINF:-1,CARIB: ESPN CARIBBEAN
-http://vmp343.ddnsking.com:80/bowl300/bowl300/16539
 #EXTINF:-1,beIN Sport NBA HD
 http://stariptv.org:8080/wael2021/123456/150160
 #EXTINF:-1,beIN 1 PREMIUM HD
