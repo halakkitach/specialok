@@ -14,7 +14,7 @@ https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 https://liveevent5.rctiplus.id/liveevent/futsal_720p.m3u8?auth_key=1684540494-0-0-8398078e17870b75a68e97392ca17db5
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 15.15 WIB BRI LIGA1 PSM MAKASSAR VS PSIS
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+https://etslive-2-vidio-com.akamaized.net/exp=1646561157~acl=/hls-p/ingest_205_*/*~hmac=b65048baf1e0eaf09a07009ebd93f2f03fb9b2453993d8520d02587cec4fc73a/hls-p/ingest_205_1080p/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 18.15 WIB BRI LIGA1 PERSITA VS PERSEBAYA
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 18.30 WIB SERIE A ITALIA
@@ -865,7 +865,7 @@ http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/71104
 #EXTINF:-1,MY133:bEIN MAX MALAYSIA
 http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/71105
 #EXTINF:-1,beIN Sports malay
-http://iptv.tvmalaysia.cc:80/529231/529231/6749
+http://iptv.tvmalaysia.cc:80/529231/529231/6597
 #EXTINF:-1,beIN MAX malay
 http://iptv.tvmalaysia.cc:80/529231/529231/6748
 #EXTINF:-1,beIN MAX 2 malay
