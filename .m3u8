@@ -13,7 +13,7 @@ https://play.brasiltvweb.com/v3/youshi/m1_ZLeLkHOSgiYq548T_480p.m3u8?user_id=421
 #EXTINF:-1 group-title="LIVE EVENT",LIVE UFC
 https://play.brasiltvweb.com/v3/youshi/m3_kxiCuVcr9XvcEbXgX_1080p.m3u8?user_id=42166598&session_id=mJIMYOx8NAB6&app_id=com.global.brasiltvweb&auth_id=42166598_com.global.brasiltvweb&app_ver=10101&dev_limit=1&client_ip=2804:5310:50ca:ec00:7d7a:e942:ade8:1b23&main_addr=https://play.brasiltvweb.com/v3/youshi/&rst_status=0&dev_id=22234262&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&expired=1646543207&token=D06F36401184100CC05580155B1B152F&media_code=m3_kxiCuVcr9XvcEbXgX_1080p
 #EXTINF:-1 group-title="LIVE EVENT",LIVE UFC 2
-http://139.99.27.33:9998/assp5/tracks-v1a1/mono.m3u8?token=50af41c4211adaadb4483efd771505070dd498ea-b5d9fcee9455a16e36bfdb38c2453673-1646541568-1646530768
+http://139.99.27.33:9998/assp5/tracks-v1a1/mono.m3u8?token=30ac0957eeb69395b1cdca504bf2057a94d71f64-087959e253a134f5c4aa14aa1041ff73-1646554424-1646543624
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 12.00 WIB LIGA FUTSALL INDONESIA
