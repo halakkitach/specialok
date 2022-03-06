@@ -44,7 +44,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1646588201~acl=/vp9/8026_stream.mp
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB LIGA INGGRIS
 http://edge8-ccast-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_145200_eng=20002-avc1_899968=10009.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB LIGA INGGRIS BACKUP
-http://stariptv.org:8080/wael2021/123456/112461
+https://d3bh6k6cdgaj10.cloudfront.net/hls/usa/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 23.30 WIB BUNDESLIGA
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/29013
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 23.30 WIB BUNDESLIGA BACKUP
