@@ -19,46 +19,43 @@ https://dnog3rmny3g3p.cloudfront.net:443/hls/ufc/chunks.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 12.00 WIB LIGA FUTSALL INDONESIA
 https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 https://liveevent5.rctiplus.id/liveevent/futsal_720p.m3u8?auth_key=1684540494-0-0-8398078e17870b75a68e97392ca17db5
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 15.25-22.40 WIB FP3 & Q MOTOGP QATAR 1
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 15.15 WIB BRI LIGA1 PSM MAKASSAR VS PSIS
+https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 18.15 WIB BRI LIGA1 PERSITA VS PERSEBAYA
+https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 18.30 WIB SERIE A ITALIA
+http://15.235.142.228:8080/live/tvnid123/tvn123456/834.m3u8
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 18.30 WIB SERIE A ITALIA BACKUP
+https://hll.hnzzdf.com.cn/live/H111269.m3u8?txSecret=dad962ba2d05a86e9c684d70e471499e&txTime=62249525&_s=stream
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00 WIB LIGA PERANCIS
+http://iptvtree.net:8080/15247/6bc4e63e/1737
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00 WIB LIGA PERNACIS BACKUP
+http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/28954
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00-22.00 WIB RACE MOTOGP QATAR 1
 https://dornatoken.secure.footprint.net/token=nva=1646496351~dirs=2~ip=173.245.211.10~data=MMDU6tbnkZHOxjPq0kSO0Gl7GenMyxYNa3QzCpey%252FKIPzROyUNtyZ9KDEyuXCz7s~token=0845fe3bebed58c9eaad5/hls/ipfmix/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 15.25-22.40 WIB FP3 & Q MOTOGP QATAR 2
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00-22.00 WIB RACE MOTOGP QATAR 2
 https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 15.25-22.40 WIB FP3 & Q MOTOGP QATAR 3
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00-22.00 WIB RACE MOTOGP QATAR 3
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2942
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 15.25-22.40 WIB FP3 & Q MOTOGP QATAR 4
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00-22.00 WIB RACE MOTOGP QATAR 4
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/52349
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 15.15 WIB BRI LIGA1 TR KABO VS PERSIPURA
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 15.15 WIB BRI LIGA1 PERSIK VS MADURA UNITED
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 18.15 WIB BRI LIGA1 BARITO VS AREMA FC
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.30 WIB LIGA INGGRIS
-http://139.99.27.33:9998/assp1_720/tracks-v1a1/mono.m3u8?token=00098837497ee521d0630441e94b17a475c88c54-d979b9d457e1bf39cba5de2a89c88359-1646503558-1646492758
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.30 WIB LIGA INGGRIS BACKUP
-http://stariptv.org:8080/wael2021/123456/112461
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB BRI LIGA1 BORNEO FC VS PERSELA
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB LA LIGA
 http://red.ipfox.org:8080/1234/12345678/2969
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB LA LIGA BACKUP
-https://cdnhd.iblups.com/hls/IhGhTuCiut.m3u8
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.45 WIB BRI LIGA1 PERSIB VS PERSIRAJA
-https://etslive-2-vidio-com.akamaized.net/exp=1646500485~acl=/vp9/8026_stream.mpd!/vp9/8026/*!/vp9/*/8026_stream.mpd!/vp9/*/8026/*~hmac=751b101c300adbc4f72e4bd7d26e8b16b69320c90749970e58421735232d6f4e/vp9/8026_stream.mpd
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB SERIA ITALIA
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28469
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB SERIA ITALIA BACKUP
-https://hll.hnzzdf.com.cn/live/H111269.m3u8?txSecret=dad962ba2d05a86e9c684d70e471499e&txTime=62249525&_s=stream
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 21.30 WIB BUNDESLIGA
+http://15.235.142.228:8080/live/tvnid123/tvn123456/833.m3u8
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB LIGA INGGRIS
+http://139.99.27.33:9998/assp1_720/tracks-v1a1/mono.m3u8?token=00098837497ee521d0630441e94b17a475c88c54-d979b9d457e1bf39cba5de2a89c88359-1646503558-1646492758
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.45 WIB BRI LIGA1 BALI UNITED VS PERSIJA
+https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB LIGA INGGRIS BACKUP
+http://stariptv.org:8080/wael2021/123456/112461
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 23.30 WIB BUNDESLIGA
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/29013
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 21.30 WIB BUNDESLIGA BACKUP
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 23.30 WIB BUNDESLIGA BACKUP
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1904
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 23.00 WIB LIGA PERANCIS
-http://iptvtree.net:8080/15247/6bc4e63e/1737
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 23.00 WIB LIGA PERNACIS BACKUP
-http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/28954
+
 ######### INDONESIA #########
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
