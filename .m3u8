@@ -8,51 +8,18 @@
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",TERIMKASIH SUDAH DONASI
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:-1 group-title="LIVE EVENT", NBA
+#EXTINF:-1 group-title="LIVE EVENT", LIVE NBA
 https://d3bh6k6cdgaj10.cloudfront.net/hls/rockets/playlist.m3u8
-#EXTINF:-1 group-title="LIVE EVENT", NBA2
+#EXTINF:-1 group-title="LIVE EVENT", LIVE NBA2
 https://d3bh6k6cdgaj10.cloudfront.net/hls/thunder/playlist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 12.00 WIB LIGA FUTSALL INDONESIA
-https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-https://liveevent5.rctiplus.id/liveevent/futsal_720p.m3u8?auth_key=1684540494-0-0-8398078e17870b75a68e97392ca17db5
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 15.15 WIB BRI LIGA1 PSM MAKASSAR VS PSIS
+#EXTINF:-1 group-title="LIVE EVENT", LIVE NBA3
+https://d3bh6k6cdgaj10.cloudfront.net/hls/nuggets/playlist.m3u8
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.30 WIB BRI LIGA1 BHAYANGKARA VS PSS
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 18.15 WIB BRI LIGA1 PERSITA VS PERSEBAYA
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 18.30 WIB SERIE A ITALIA
-http://15.235.142.228:8080/live/tvnid123/tvn123456/834.m3u8
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 18.30 WIB SERIE A ITALIA BACKUP
-http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/60284
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00 WIB LIGA PERANCIS
-http://iptvtree.net:8080/15247/6bc4e63e/1737
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00 WIB LIGA PERNACIS BACKUP
-https://events1-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00-22.00 WIB RACE MOTOGP QATAR 1
-https://dornatoken.secure.footprint.net/token=nva=1646588238~dirs=2~ip=173.245.211.10~data=02OseSAqJ2NVi0eY0DmcbqOlQwH%252BRp0gkuK35jAuo%252FR%252BTyA0iihLfBoYYSQxLvII~token=06189150333d2b769eca1/hls/ipfmix/index.m3u8?per
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00-22.00 WIB RACE MOTOGP QATAR 2
-https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00-22.00 WIB RACE MOTOGP QATAR 3
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2942
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.00-22.00 WIB RACE MOTOGP QATAR 4
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/52349
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB LA LIGA
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LA LIGA
 http://red.ipfox.org:8080/1234/12345678/2969
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB LA LIGA BACKUP
-http://opplex.tv:8080/33321/33321/228245
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.45 WIB BRI LIGA1 BALI UNITED VS PERSIJA
-https://etslive-2-vidio-com.akamaized.net/exp=1646588201~acl=/vp9/8026_stream.mpd!/vp9/8026/*!/vp9/*/8026_stream.mpd!/vp9/*/8026/*~hmac=d9e2723b294d627c0fbaa2b7034c5e477ee0ea29dc4fd4d4920d919b17edbd15/vp9/8026_stream.mpd
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB LIGA INGGRIS
-http://edge8-ccast-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_145200_eng=20002-avc1_899968=10009.m3u8
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB LIGA INGGRIS BACKUP
-https://d3bh6k6cdgaj10.cloudfront.net/hls/usa/playlist.m3u8
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 23.30 WIB BUNDESLIGA
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/29013
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 23.30 WIB BUNDESLIGA BACKUP
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1904
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LA LIGA BACKUP
+http://15.235.142.228:8080/live/tvnid123/tvn123456/833.m3u8
 
 ######### INDONESIA #########
 
