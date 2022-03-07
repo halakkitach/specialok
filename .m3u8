@@ -1116,11 +1116,11 @@ http://aumaletv.com:25461/Mus TV/mustv2022/61979
 #EXTINF:-1,AR: beIN SPORTS 3 ENGLISH HD
 http://aumaletv.com:25461/Mus TV/mustv2022/61980
 #EXTINF:-1,AR: BeIN Sports English 1 FHD
-http://opplex.tv:8080/97727/97727/222532
+http://opplex.tv:8080/live/97727/97727/222532.ts
 #EXTINF:-1,AR: BeIN Sports English 2 FHD
-http://opplex.tv:8080/97727/97727/222534
+http://opplex.tv:8080/live/97727/97727/222534.ts
 #EXTINF:-1,AR: BeIN Sports English 3 HD
-http://opplex.tv:8080/97727/97727/222538
+http://opplex.tv:8080/live/97727/97727/222538
 #EXTINF:-1,TR: beIN Sports 1 FHD
 http://iptvtree.net:8080/15247/6bc4e63e/1735
 #EXTINF:-1,TR: beIN Sports 2 FHD
@@ -1797,11 +1797,11 @@ https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:0 tvg-id="ext" group-title="AUSTRALIA SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1,AU: BeIN Sports 1 HD
-http://opplex.tv:8080/33321/33321/224930
+http://opplex.tv:8080/live/33321/33321/224930.ts
 #EXTINF:-1,AU: BeIN Sports 2 HD
-http://opplex.tv:8080/33321/33321/224931
+http://opplex.tv:8080/live/33321/33321/224931.ts
 #EXTINF:-1,AU: BeIN Sports 3 HD
-http://opplex.tv:8080/33321/33321/224932
+http://opplex.tv:8080/live/33321/33321/224932.ts
 #EXTINF:-1,AU: Fox Sports News HD
 http://opplex.tv:8080/33321/33321/224933
 #EXTINF:-1,AU: Fox Sports 501 HD
