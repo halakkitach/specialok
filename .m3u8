@@ -8,6 +8,10 @@
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",TERIMKASIH SUDAH DONASI
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+#EXTINF:-1 group-title="LIVE EVENT", NBA
+https://d3bh6k6cdgaj10.cloudfront.net/hls/rockets/playlist.m3u8
+#EXTINF:-1 group-title="LIVE EVENT", NBA2
+https://d3bh6k6cdgaj10.cloudfront.net/hls/thunder/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 12.00 WIB LIGA FUTSALL INDONESIA
