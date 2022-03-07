@@ -807,8 +807,6 @@ http://15.235.142.228:8080/live/hometvfree/selaludihati/72.ts
 http://15.235.142.228:8080/live/hometvfree/selaludihati/73.ts
 #EXTINF:-1,SPOTV malaysia
 http://iptv.tvmalaysia.cc:80/529231/529231/9033
-#EXTINF:-1,SPOTV 2 malaysia
-http://w.nasvpn.xyz:8080/saya/saya/7822
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="TV SPORT",beIN Sport 1 ID
@@ -826,9 +824,9 @@ http://15.235.142.228:8080/live/tvnid123/tvn123456/833.m3u8
 #EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="TV SPORT",beIN Sport 3 id
 http://15.235.142.228:8080/live/tvnid123/tvn123456/834.m3u8
 #EXTINF:-1,ID: Bein Sports 1 FHD
-http://opplex.tv:8080/33321/33321/228245
+http://line.crystal-ott.com/lulweNHpq3bziqh/VzI3Arv4Ur//4242
 #EXTINF:-1,ID: Bein Sports 2 FHD
-http://opplex.tv:8080/33321/33321/228246
+http://line.crystal-ott.com/lulweNHpq3bziqh/VzI3Arv4Ur//4221
 #EXTINF:-1,|MY| BEIN SPORTS MALAYSIA
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71104
 #EXTINF:-1,|MY| BEIN MAX MALAYSIA
