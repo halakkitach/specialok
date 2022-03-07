@@ -1438,7 +1438,7 @@ http://rr.dens.tv/h/h18/index.m3u8
 #EXTINF:-1 group-title="TV ENTERTAIN",Cinema World
 http://rr1.dens.tv/h/h04/index.m3u8
 #EXTINF:-1 group-title="TV ENTERTAIN", &FLIX
-https://nonton.site/live/Thopani/Haidir/29592.ts
+http://103.153.39.36:8000/play/a00p
 #EXTINF:-1 tvg-id="&amp;Flix HD" group-title="TV ENTERTAIN" tvg-logo="https://www.useetv.com/pimages/logo_flik_small1.png?v=2.0.0.13",Flik
 https://cgk1.securepath.site/live/Thopani/Haidir/29592.ts?token=QhBYV0dYRg4TCFcCAlYCClZdA1deAVUBAQwBAQIOV1oBAQYHVwNWDAAaSBAQEEJXVQhvWgIbCVcAAQkDTRQUEVxAb19QEl4WAAhRC1FVEh4WEVleAxsJVA8ABgdWAFRTDh4SRl1URg4TDlEBVl0SHhYASEcDS10EVWtUVBdfAgcbCF5DWFxIFl5WO1YGCVFcUEcKEVYbH0dQR0ATWxQxNhcSZHN4eyt5EXEqdiwqdWF9JBIfRFtaEUtVRFRDDENTCQYIFBgSB1tEVhBAGkYKEH0hEh9EXEsRXFpDWA5YQ1gbRkMUGBINR25KAUEXFlVTWQBCEVwbA0cVFl1QGWkCDVdcVVVAWQtaQhpeEFJGHBBZCl5aElZBOkldVBNbFFJXCQcSSw==
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
