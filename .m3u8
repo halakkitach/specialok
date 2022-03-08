@@ -936,7 +936,7 @@ http://iptv.tvmalaysia.cc:80/live/109789/109789/6707.m3u8
 #EXTINF:-1 tvg-id="astroarena2.my" tvg-name="Arena 2" tvg-logo="" group-title="TV SPORT",Arena 2
 http://iptv.tvmalaysia.cc:80/live/109789/109789/9028.m3u8
 #EXTINF:-1,MY: Astro Arena 2 HD BACKUP
-http://iptvtree.net:8080/15247/6bc4e63e/287793
+http://starshare.live:8080/live/2845483/2845483/44356.ts
 #EXTINF:-1,MY: Astro Arena HD BACKUP
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71102
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/95994491156dc80e743b181972c4e6d0.png" group-title="TV SPORT",ASTRO SUPERSPORT HD
@@ -958,7 +958,7 @@ http://iptv.tvmalaysia.cc:80/live/109789/109789/9026.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="TV SPORT",Astro Supersport 5 HD
 http://iptv.tvmalaysia.cc:80/live/109789/109789/9029.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="TV SPORT",Astro Supersport 5
-http://clientportal-proiptv.club:8080/NMQJUtBntn/cmMhhqzpQS/56299
+http://starshare.live:8080/live/2845483/2845483/44355.ts
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1,|UK| BT Sport 1 HD
@@ -1105,12 +1105,6 @@ http://aumaletv.com:25461/Mus TV/mustv2022/5368
 http://aumaletv.com:25461/Mus TV/mustv2022/61976
 #EXTINF:-1,AR: beIN SPORTS EXTRA 2
 http://aumaletv.com:25461/Mus TV/mustv2022/61977
-#EXTINF:-1,|UK-HD| BEIN SPORTS 1 ENGLISH HD
-http://line.crystal-ott.com/lulweNHpq3bziqh/sUAgqxbsPB/4914
-#EXTINF:-1,|UK-HD| BEIN SPORTS 2 ENGLISH HD
-http://line.crystal-ott.com/lulweNHpq3bziqh/sUAgqxbsPB/4913
-#EXTINF:-1,|UK-HD| BEIN SPORTS 3 ENGLISH HD
-http://line.crystal-ott.com/lulweNHpq3bziqh/sUAgqxbsPB/4912
 #EXTINF:-1,AR: beIN 1 FR HD
 http://stariptv.org:8080/wael2021/123456/112464
 #EXTINF:-1,AR: beIN 2 FR HD
@@ -1129,12 +1123,10 @@ http://aumaletv.com:25461/Mus TV/mustv2022/61978
 http://aumaletv.com:25461/Mus TV/mustv2022/61979
 #EXTINF:-1,AR: beIN SPORTS 3 ENGLISH HD
 http://aumaletv.com:25461/Mus TV/mustv2022/61980
-#EXTINF:-1,AR: BeIN Sports English 1 FHD
-http://45.86.190.65:25461/9tQBry1Zmj9XqKrn/Hkegb7fZ4bQBt4yC/68099?play_token=OsAJJeMJ1x&token=TURYAhZYEAwSVFYBDAcLVwUHA14OWwtVVwFTVlQNVFEHVglVBFUEDghGTxBLF0AGVA9uD1IbCQAJA10MShsTFlMUbwoBEggUAVJQBwpVBEEZQEUPW1wRDAAFUANQCl9WBVUcQRVZVhQKRlcDDloGQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQJERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAVoBUhNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpXAloDUxMb
-#EXTINF:-1,AR: BeIN Sports English 2 FHD
-http://45.86.190.65:25461/9tQBry1Zmj9XqKrn/Hkegb7fZ4bQBt4yC/68100?play_token=tOAIioP1HY&token=TURYAhZYEAwSUQJQAFVQVVNaAwUPXFcDAAoBDF8BUlMDVlQHAQIFBVNGTxBLF0AGVA9uD1IbCQAJAlQFShsTFlMUbwoBEggUAVJQBwpVBEEZQEUPW1wRDAAFUANQCl9WAl4cQRVZVhQKRlUBCFIFQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQJERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAVsBWhNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpVAFoEVRMb
-#EXTINF:-1,AR: BeIN Sports English 3 HD
-http://45.86.190.65:25461/9tQBry1Zmj9XqKrn/Hkegb7fZ4bQBt4yC/68110?play_token=M100VuBMd0&token=TURYAhZYEAwSBgUHXQUFAQdSA1NXDQMGBAAAAwJfVgABA1VbUFIAVVFGTxBLF0AGVA9uD1IbCQAJAlUFShsTFlMUbwoBEggUAVJQBwpVBEEZQEUPW1wRDAAFUANQCl9WA18cQRVZVhQKRlICC1EDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQJERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBAVoCWhNKFFpcQ19HFkxEA0QsckQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpQA1UHQEw=
+#EXTINF:-1,BEIN SPORT ENGLISH 1
+http://starshare.live:8080/live/2845483/2845483/23793.ts
+#EXTINF:-1,BEIN SPORT ENGLISH 2 
+http://starshare.live:8080/live/2845483/2845483/23794.ts
 #EXTINF:-1,TR: beIN Sports 1 FHD
 http://iptvtree.net:8080/15247/6bc4e63e/1735
 #EXTINF:-1,TR: beIN Sports 2 FHD
