@@ -888,6 +888,8 @@ https://liveanevia.mncnow.id:443/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 https://liveanevia.mncnow.id:443/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 #EXTINF:-1 group-title="TV SPORT", NBA 
 http://15.235.142.228:8080/live/hometvfree/selaludihati/75.m3u8
+#EXTINF:-1 group-title="TV SPORT", DAZN PREMIER LIGUE
+https://ppv.gcdn.co/DZ1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TENNIS TV 1
 http://202.44.228.201:1935/aslive/skynetsports3/mono.m3u8
 #EXTINF:-1, TENNIS TV 2
