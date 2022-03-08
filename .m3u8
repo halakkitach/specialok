@@ -781,15 +781,11 @@ https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="TV SPORT",Usee Sports 1 
-http://15.235.142.228:8080/live/hometvfree/selaludihati/70.ts
+http://nontonbola.my.id/hustv/useesport1.m3u8?punyanya=gasss
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="TV SPORT",Usee Sports 2 
-http://15.235.142.228:8080/live/hometvfree/selaludihati/71.ts
+http://nontonbola.my.id/hustv/useesport2.m3u8?punyanya=gasss
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="TV SPORT",Usee Sports 2
 https://auqv8a.dm.files.1drv.com/y4mTuEAODZk7CDvM_BRIfwcQN035qRxld0HlRRJDy1KY4nRImqYfZVaYVTEiOnEtNIRE0a-m3F463p9nsnllzIja6YDMM30Hz9GzAp0ESb0fG7gDTUxFuIjDbfP7VqYfu1Y1LEDZzfU6ZFMbD3Tpv-s7KwSlNvs_e9R8Chc8Xii-FWzUdTp6shpyy4wNDfW9_YbH-xVgwKXG-oOimI3CYF2rw/halakkita_1080p_1_.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="TV SPORT",Usee Sports 1 BACKUP
-http://nontonbola.my.id/hustv/useesport1.m3u8?punyanya=gasss
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="TV SPORT",Usee Sports 2 BACKUP
-http://nontonbola.my.id/hustv/useesport2.m3u8?punyanya=gasss
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355959_ico.png?ts=1643984595" group-title="TV SPORT",SPOTV 1 ID 
@@ -805,10 +801,6 @@ https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #EXTINF:-1 tvg-logo="gost"group-title="TV SPORT",SPOTV 2
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355959_ico.png?ts=1643984595" group-title="TV SPORT",SPOTV 1 ID usee
-http://15.235.142.228:8080/live/hometvfree/selaludihati/72.ts
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355963_ico.png?ts=1643984665" group-title="TV SPORT",SPOTV 2 ID usee
-http://15.235.142.228:8080/live/hometvfree/selaludihati/73.ts
 #EXTINF:-1,SPOTV malaysia
 http://iptv.tvmalaysia.cc:80/529231/529231/9033
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -827,10 +819,6 @@ http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/60284
 http://15.235.142.228:8080/live/tvnid123/tvn123456/833.m3u8
 #EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="TV SPORT",beIN Sport 3 id
 http://15.235.142.228:8080/live/tvnid123/tvn123456/834.m3u8
-#EXTINF:-1,ID: Bein Sports 1 FHD
-http://line.crystal-ott.com/lulweNHpq3bziqh/sUAgqxbsPB/4242
-#EXTINF:-1,ID: Bein Sports 2 FHD
-http://line.crystal-ott.com/lulweNHpq3bziqh/sUAgqxbsPB/4221
 #EXTINF:-1,|MY| BEIN SPORTS MALAYSIA
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71104
 #EXTINF:-1,|MY| BEIN MAX MALAYSIA
@@ -845,14 +833,6 @@ http://iptv.tvmalaysia.cc:80/529231/529231/6597
 http://iptv.tvmalaysia.cc:80/529231/529231/6748
 #EXTINF:-1,PPTV HD
 https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hCQ1fbG/Tpf.png" group-title="TV SPORT", PREMIER FOOTBALL HD 1
-http://clientportal-proiptv.club:8080/YCk3wuWx3oS/EgeQkm4lYrsZ/10859
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4t0NRM6/Tpf2.png" group-title="TV SPORT", PREMIER FOOTBALL HD 2
-http://clientportal-proiptv.club:8080/YCk3wuWx3oS/EgeQkm4lYrsZ/10858
-#EXTINF:-1 group-title="TV SPORT" tvg-logo="https://i.ibb.co/jgCVCTD/Tpf3.png", PREMIER FOOTBALL HD 3
-http://clientportal-proiptv.club:8080/YCk3wuWx3oS/EgeQkm4lYrsZ/10857
-#EXTINF:-1 group-title="TV SPORT" tvg-logo="https://i.ibb.co/KKsvZsD/Tpf4.png", PREMIER FOOTBALL HD 4
-http://clientportal-proiptv.club:8080/YCk3wuWx3oS/EgeQkm4lYrsZ/10856
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #EXTINF:-1 group-title="TV SPORT",  Champions 1 TV
@@ -1126,9 +1106,18 @@ http://aumaletv.com:25461/Mus TV/mustv2022/61979
 #EXTINF:-1,AR: beIN SPORTS 3 ENGLISH HD
 http://aumaletv.com:25461/Mus TV/mustv2022/61980
 #EXTINF:-1,BEIN SPORT ENGLISH 1
-http://starshare.live:8080/live/2845483/2845483/23793.ts
-#EXTINF:-1,BEIN SPORT ENGLISH 2 
-http://starshare.live:8080/live/2845483/2845483/23794.ts
+#EXTINF:-1,QA: beIN Sports English 1 FHD
+http://iptvtree.net:8080/15247/6bc4e63e/281444
+#EXTINF:-1,QA beIN Sports English 1 FHD
+http://iptvtree.net:8080/15247/6bc4e63e/290192
+#EXTINF:-1,QA: beIN Sports English 2 FHD
+http://iptvtree.net:8080/15247/6bc4e63e/111
+#EXTINF:-1,QA beIN Sports English 2 FHD
+http://iptvtree.net:8080/15247/6bc4e63e/291086
+#EXTINF:-1,QA: beIN Sports English 3 FHD
+http://iptvtree.net:8080/15247/6bc4e63e/267769
+#EXTINF:-1,QA beIN Sports English 3 FHD
+http://iptvtree.net:8080/15247/6bc4e63e/290225
 #EXTINF:-1,TR: beIN Sports 1 FHD
 http://iptvtree.net:8080/15247/6bc4e63e/1735
 #EXTINF:-1,TR: beIN Sports 2 FHD
