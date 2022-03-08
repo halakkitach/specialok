@@ -12,12 +12,10 @@ https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 https://dl.dropboxusercontent.com/s/n6n55l3new93prf/lagu%20nostalgia.mp4
 #EXTINF:-1 group-title="LIVE EVENT", LIVE NBA
 https://d3bh6k6cdgaj10.cloudfront.net/hls/espn/playlist.m3u8
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.30 WIB BRI LIGA1 BHAYANGKARA VS PSS
-https://etslive-2-vidio-com.akamaized.net/exp=1646673470~acl=/hls-p/ingest_205_*/*~hmac=4ed4d4c988a20b7507547dc2caf5817903a30badd1e5c532524c0998c66ba695/hls-p/ingest_205_1080p/index.m3u8
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LIGA INGGRIS
-http://line.crystal-ott.com/lulweNHpq3bziqh/sUAgqxbsPB/4914
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LIGA INGGRIS BACKUP
-http://red.ipfox.org:8080/1234/12345678/2971
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LIGA CHAMPION BAYERN VS SALZBURG
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2941
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LIGA CHAMPION BAYERN VS SALZBURG BACKUP
+
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LA LIGA
 http://red.ipfox.org:8080/1234/12345678/2969
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LA LIGA BACKUP
@@ -1183,48 +1181,40 @@ http://stariptv.org:8080/wael2021/123456/98080
 http://stariptv.org:8080/wael2021/123456/93639
 #EXTINF:-1,IN: STAR SPORTS SELECT 2 HD
 http://stariptv.org:8080/wael2021/123456/93640
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="TV SPORT",89.Star Sports Select 1 HD 
-http://103.166.253.222/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/rCa9a5j.png" group-title="TV SPORT",90.Star Sports Select 2 HD
-http://103.166.253.222:80/hls/select2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="TV SPORT",93.Ten Cricket
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="TV SPORT",94.PTV Sports
-http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
-#EXTINF:-1,IN: SONY SIX HD
-http://103.166.253.222/hls/sonysix.m3u8
-#EXTINF:-1,IN: SONY Ten 1 HD
-http://103.166.253.222/hls/sonyten1.m3u8
-#EXTINF:-1,IN: SONY Ten 2 HD
-http://103.166.253.222/hls/sonyten2.m3u8
-#EXTINF:-1,IN: SONY Ten 3 HD
-http://103.166.253.222/hls/sonyten3.m3u8
+#EXTINF:-1,IN060:Sony Six
+http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/1905
+#EXTINF:-1,IN061:Sony Ten 2
+http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/1904
+#EXTINF:-1,IN062:Sony Ten 1
+http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/1903
+#EXTINF:-1,IN063:Sony Ten 3
+http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/1902
 #EXTINF:-1,IN: Star Sports 1
-http://103.170.140.8/hls/stersports1hd.m3u8
+http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/1893
 #EXTINF:-1,IN: Star Sports select 2
-http://103.170.140.8/hls/select2.m3u8
+http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/55338
 #EXTINF:-1,IN: Star sports select 1
-http://103.170.140.8/hls/Star_Sport_Select1HD.m3u8
+http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/55340
 #EXTINF:-1,IN: Star Sports 2 HD 
-http://103.170.140.8/hls/starsports2.m3u8
+http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/1892
 #EXTINF:-1 LINK GRATIS,TIDAK DIJUAL!!! 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1, Star Sports Select 1 HD
-http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
+http://iptvtree.net:8080/15247/6bc4e63e/82628
 #EXTINF:-1, Star Sports Select 2 HD
-http://live.flixhub.net/hls/select2.m3u8
+http://iptvtree.net:8080/15247/6bc4e63e/16619
 #EXTINF:-1, Star Sports 1 HD
-http://live.flixhub.net/hls/stersports1hd.m3u8
+http://iptvtree.net:8080/15247/6bc4e63e/3630
 #EXTINF:-1, Star Sports 2 HD
-http://live.flixhub.net/hls/starsports2.m3u8
+http://iptvtree.net:8080/15247/6bc4e63e/3631
 #EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY SIX FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="TV SPORT",TATA |  SONY SIX FHD
-http://live.flixhub.net/hls/sonysix.m3u8
+http://iptvtree.net:8080/15247/6bc4e63e/4853
 #EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY TEN 3 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="TV SPORT",TATA |  SONY TEN 3 FHD
-http://live.flixhub.net/hls/sonyten3.m3u8
+http://iptvtree.net:8080/15247/6bc4e63e/56191
 #EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY TEN 2 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="TV SPORT",TATA |  SONY TEN 2 FHD
-http://live.flixhub.net/hls/sonyten2.m3u8
+http://iptvtree.net:8080/15247/6bc4e63e/16621
 #EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY TEN 1 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="TV SPORT",TATA |  SONY TEN 1 FHD
-http://live.flixhub.net/hls/sonyten1.m3u8
+http://iptvtree.net:8080/15247/6bc4e63e/16622
 #EXTINF:-1,EX-YU Sport Klub 1 FHD
 http://iptvtree.net:8080/15247/6bc4e63e/282859
 #EXTINF:-1,EX-YU: Sport Klub 2 FHD
