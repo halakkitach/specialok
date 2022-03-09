@@ -847,6 +847,10 @@ http://iptv.tvmalaysia.cc:80/529231/529231/6748
 https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
+#EXTINF:-1,INDO | Champions 1 TV
+http://pprotv.net:80/reda777/reda777/39556
+#EXTINF:-1,INDO | Champions 2 TV
+http://pprotv.net:80/reda777/reda777/39557
 #EXTINF:-1 group-title="TV SPORT",  Champions 1 TV
 http://tvn.x10.bz/xchannel/master-6.m3u8
 #EXTINF:-1 group-title="TV SPORT",  Champions 2 TV
