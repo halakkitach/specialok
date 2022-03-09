@@ -946,7 +946,27 @@ http://iptv.tvmalaysia.cc:80/live/109789/109789/9026.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="TV SPORT",Astro Supersport 5 HD
 http://iptv.tvmalaysia.cc:80/live/109789/109789/9029.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="TV SPORT",Astro Supersport 5
-http://w.nasvpn.xyz:8080/saya/saya/5340
+http://w.nasvpn.xyz:8080/saya/saya/3200
+#EXTINF:-1,Astro SuperSport 1HD
+http://w.nasvpn.xyz:8080/saya/saya/3198
+#EXTINF:-1,Astro SuperSport 1HD bkp
+http://w.nasvpn.xyz:8080/saya/saya/5732
+#EXTINF:-1,Astro SuperSport 2 HD
+http://w.nasvpn.xyz:8080/saya/saya/4094
+#EXTINF:-1,Astro SuperSport 3 HD
+http://w.nasvpn.xyz:8080/saya/saya/7209
+#EXTINF:-1,Astro SuperSport 4 HD
+http://w.nasvpn.xyz:8080/saya/saya/166
+#EXTINF:-1,Astro SuperSport 4 HD backup
+http://w.nasvpn.xyz:8080/saya/saya/5361
+#EXTINF:-1,ASSP 1 HD CH811
+http://w.nasvpn.xyz:8080/saya/saya/7845
+#EXTINF:-1,ASSP 2 HD CH812
+http://w.nasvpn.xyz:8080/saya/saya/7844
+#EXTINF:-1,ASSP 3 HD CH813
+http://w.nasvpn.xyz:8080/saya/saya/7847
+#EXTINF:-1,ASSP 4 HD CH814
+http://w.nasvpn.xyz:8080/saya/saya/7842
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1,|UK| BT Sport 1 HD
