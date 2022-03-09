@@ -13,9 +13,9 @@ https://dl.dropboxusercontent.com/s/n6n55l3new93prf/lagu%20nostalgia.mp4
 #EXTINF:-1 group-title="LIVE EVENT", LIVE NBA
 https://d3bh6k6cdgaj10.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 15.15 WIB BRI LIGA 1 PERSELA VS TR KABO
-https://etslive-2-vidio-com.akamaized.net/exp=1646827708~acl=/vp9/8023_stream.mpd!/vp9/8023/*!/vp9/*/8023_stream.mpd!/vp9/*/8023/*~hmac=bc121d748439eafbeb3e69f0d121ec57114596c5ea14e8e60f14c7a56deb9318/vp9/8023_stream.mpd
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 18.15 WIB BRI LIGA 1 MADURA UNITED VS BARITO PUTERA
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 18.15 WIB BRI LIGA 1 MADURA UNITED VS BARITO PUTERA
+https://etslive-2-vidio-com.akamaized.net/exp=1646837550~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=d0a36c4af219fad7976cd6550648570e4651be6dd4ccc2e8fd1fb3dce12af8f4/vp9/206_stream.mpd
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.30 WIB BRI LIGA 1 AREMA FC VS PERSIB
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 00.45 WIB LIGA UEFA BETIS VS FRANFURTH
