@@ -845,6 +845,20 @@ http://iptv.tvmalaysia.cc:80/529231/529231/6597
 http://iptv.tvmalaysia.cc:80/529231/529231/6748
 #EXTINF:-1,PPTV HD
 https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
+#EXTINF:-1,TH | PremierHD2
+http://pprotv.net:80/reda777/reda777/144827
+#EXTINF:-1,TH | PremierHD3
+http://pprotv.net:80/reda777/reda777/144828
+#EXTINF:-1,TH | PremierHD4
+http://pprotv.net:80/reda777/reda777/144829
+#EXTINF:-1,TH | True Sport HD1
+http://pprotv.net:80/reda777/reda777/144834
+#EXTINF:-1,TH | True Sport HD2
+http://pprotv.net:80/reda777/reda777/144835
+#EXTINF:-1,TH | True Sport HD3
+http://pprotv.net:80/reda777/reda777/144836
+#EXTINF:-1,TH | True Sport HD4
+http://pprotv.net:80/reda777/reda777/144837
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
 #EXTINF:-1,INDO | Champions 1 TV backup
