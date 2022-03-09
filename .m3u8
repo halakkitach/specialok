@@ -847,9 +847,9 @@ http://iptv.tvmalaysia.cc:80/529231/529231/6748
 https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
-#EXTINF:-1,INDO | Champions 1 TV
+#EXTINF:-1,INDO | Champions 1 TV backup
 http://pprotv.net:80/reda777/reda777/39556
-#EXTINF:-1,INDO | Champions 2 TV
+#EXTINF:-1,INDO | Champions 2 TV backup
 http://pprotv.net:80/reda777/reda777/39557
 #EXTINF:-1 group-title="TV SPORT",  Champions 1 TV
 http://tvn.x10.bz/xchannel/master-6.m3u8
@@ -953,13 +953,13 @@ http://iptv.tvmalaysia.cc:80/live/109789/109789/9026.m3u8
 http://iptv.tvmalaysia.cc:80/live/109789/109789/9029.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="TV SPORT",Astro Supersport 5
 http://pprotv.net:80/reda777/reda777/39581
-#EXTINF:-1,MY: Astro SuperSport 1 HD
+#EXTINF:-1,MY: Astro SuperSport 1 HD backup
 http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696504.ts
-#EXTINF:-1,MY: Astro SuperSport 2 HD
+#EXTINF:-1,MY: Astro SuperSport 2 HD backup 
 http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696505.ts
-#EXTINF:-1,MY: Astro SuperSport 3 HD
+#EXTINF:-1,MY: Astro SuperSport 3 HD backup
 http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696506.ts
-#EXTINF:-1,MY: Astro SuperSport 4 HD
+#EXTINF:-1,MY: Astro SuperSport 4 HD backup
 http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696507.ts
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
