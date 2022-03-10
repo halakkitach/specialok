@@ -15,13 +15,13 @@ https://d3bh6k6cdgaj10.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENT", LIVE NBA 2
 http://stariptv.org:8080/live/nour2020/123456/150160.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 15.15 WIB BRI LIGA 1 PERSIPURA VS PSM MAKASSAR
-https://etslive-2-vidio-com.akamaized.net/exp=1646914146~acl=/vp9/8023_stream.mpd!/vp9/8023/*!/vp9/*/8023_stream.mpd!/vp9/*/8023/*~hmac=c28bd476aca91e5e35c3067def4ddc572dc7fe6d9bcdc9a3cb057ac4938fecf6/vp9/8023_stream.mpd
+https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 16.00 WIB BRI LIGA 1 PERSEBAYA VS PERSIK
 https://etslive-2-vidio-com.akamaized.net/exp=1646915713~acl=/vp9/8025_stream.mpd!/vp9/8025/*!/vp9/*/8025_stream.mpd!/vp9/*/8025/*~hmac=f5a1ca20ee8e5109a45a4c47b3e3758dedbb84d139a5ec408ab951536c8e0fac/vp9/8025_stream.mpd
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.30 WIB BRI LIGA 1 PERSIJA FC VS BORNEO FC
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 00.45 WIB LIGA UEFA SEVILLA VS WESTHAM
-http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/71105
+http://stariptv.org:8080/live/nour2020/123456/84747.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 00.45 WIB LIGA UEFA SEVILLA VS WESTHAM BACKUP
 http://aumaletv.com:25461/Potikina/handala90/61979
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 02.30 WIB LIGA INGGRIS
@@ -1184,22 +1184,28 @@ https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 LINK GRATIS,TIDAK DIJUAL!!! 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+#EXTINF:-1,IN060:Sony Six
+http://alllivesportslinks.myftp.biz/hls/sonysix.m3u8
 #EXTINF:-1,IN062:Sony Ten 1
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1903
+http://alllivesportslinks.myftp.biz/hls/sonyten1.m3u8
 #EXTINF:-1,IN061:Sony Ten 2
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1904
+http://alllivesportslinks.myftp.biz/hls/sonyten2.m3u8
 #EXTINF:-1,IN063:Sony Ten 3
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1902
+http://alllivesportslinks.myftp.biz/hls/sonyten3.m3u8
 #EXTINF:-1,IN: STAR SPORTS 1 HD
-http://stariptv.org:8080/wael2021/123456/93634
+http://alllivesportslinks.myftp.biz/hls/stersports1hd.m3u8
 #EXTINF:-1,IN: STAR SPORTS 2 HD
-http://stariptv.org:8080/wael2021/123456/93637
+http://alllivesportslinks.myftp.biz/hls/select2.m3u8
 #EXTINF:-1,IN: STAR SPORTS 3 HD
 http://stariptv.org:8080/wael2021/123456/98080
 #EXTINF:-1,IN: STAR SPORTS SELECT 1 HD
-http://stariptv.org:8080/wael2021/123456/93639
+http://alllivesportslinks.myftp.biz/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1,IN: STAR SPORTS SELECT 2 HD
-http://stariptv.org:8080/wael2021/123456/93640
+http://alllivesportslinks.myftp.biz/hls/select2.m3u8
+#EXTINF:-1,IN: Euro Sports HD
+http://AllLiveSportsLinks.myftp.biz:80/hls/euro.m3u8
+#EXTINF:-1,IN: T Sports HD
+http://AllLiveSportsLinks.myftp.biz:80/hls/t-sports.m3u8
 #EXTINF:-1,IN060:Sony Six
 http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/1905
 #EXTINF:-1,IN061:Sony Ten 2
