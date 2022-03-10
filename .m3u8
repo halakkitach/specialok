@@ -16,6 +16,10 @@ https://d3bh6k6cdgaj10.cloudfront.net/hls/espn/playlist.m3u8
 http://stariptv.org:8080/live/nour2020/123456/150160.m3u8
 #EXTINF:-1 group-title="LIVE EVENT", LIVE BADMINTON COURT1
 https://alloy.yourstreamer.xyz/web/_aHR0cHM6Ly9zdHJlYW1lcjEwNC5kb3NibmV3bWVkaWEuZGU=_/hls/49.12.2.136/7470f5007c73013ad69b107b44b0b31d_live-3/hls0/index.m3u8
+#EXTINF:-1 group-title="LIVE EVENT", LIVE BADMINTON COURT2
+https://alloy.yourstreamer.xyz/web/_aHR0cHM6Ly9zdHJlYW1lcjEwNS5kb3NibmV3bWVkaWEuZGU=_/hls/78.47.40.7/61ad63808117013a94650cc47a078642_live-3/hls0/index.m3u8
+#EXTINF:-1 group-title="LIVE EVENT", LIVE BADMINTON COURT3
+https://alloy.yourstreamer.xyz/web/_aHR0cHM6Ly9zdHJlYW1lcjEwMi5kb3NibmV3bWVkaWEuZGU=_/hls/142.132.189.195/84ae48c07c73013a93c10cc47a078642_live-3/hls0/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 15.15 WIB BRI LIGA 1 PERSIPURA VS PSM MAKASSAR
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 16.00 WIB BRI LIGA 1 PERSEBAYA VS PERSIK
