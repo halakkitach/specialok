@@ -12,32 +12,31 @@ https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 https://dl.dropboxusercontent.com/s/n6n55l3new93prf/lagu%20nostalgia.mp4
 #EXTINF:-1 group-title="LIVE EVENT", LIVE NBA
 https://d3bh6k6cdgaj10.cloudfront.net/hls/espn/playlist.m3u8
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 15.15 WIB BRI LIGA 1 PERSELA VS TR KABO
+#EXTINF:-1 group-title="LIVE EVENT", LIVE NBA 2
+http://stariptv.org:8080/live/nour2020/123456/150160.m3u8
+#EXTINF:-1 group-title="LIVE EVENT", LIVE NBA 3
+https://d3bh6k6cdgaj10.cloudfront.net/hls/clippers/playlist.m3u8
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 15.15 WIB BRI LIGA 1 PERSIPURA VS PSM MAKASSAR
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 18.15 WIB BRI LIGA 1 MADURA UNITED VS BARITO PUTERA
-https://etslive-2-vidio-com.akamaized.net/exp=1646837550~acl=/vp9/206_stream.mpd!/vp9/206/*!/vp9/*/206_stream.mpd!/vp9/*/206/*~hmac=d0a36c4af219fad7976cd6550648570e4651be6dd4ccc2e8fd1fb3dce12af8f4/vp9/206_stream.mpd
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.30 WIB BRI LIGA 1 AREMA FC VS PERSIB
-https://etslive-2-vidio-com.akamaized.net/exp=1646844944~acl=/vp9/8026_stream.mpd!/vp9/8026/*!/vp9/*/8026_stream.mpd!/vp9/*/8026/*~hmac=eaf9367c8c7f9bf9ba4e3841a4387b943dbd4913ad45da05a0527a780ba44ef8/vp9/8026_stream.mpd
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 16.00 WIB BRI LIGA 1 PERSEBAYA VS PERSIK
+https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.30 WIB BRI LIGA 1 PERSIJA FC VS BORNEO FC
+https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 00.45 WIB LIGA UEFA BETIS VS FRANFURTH
 http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/71105
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 00.45 WIB LIGA UEFA PORTO VS LYON
-http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696504.ts
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 00.45 WIB LIGA UEFA BETIS VS FRANFURTH backup
-http://pprotv.net:80/reda777/reda777/39557
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 00.45 WIB LIGA UEFA PORTO VS LYON backup
-http://pprotv.net:80/reda777/reda777/39556
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LIGA CHAMPION MANCITY VS SPORTING CP
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2942
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LIGA CHAMPION MANCITY VS SPORTING CP BACKUP
-http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/59218
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LIGA CHAMPION MANCITY VS SPORTING CP BACKUP II
-http://aumaletv.com:25461/Potikina/handala90/61979
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LIGA CHAMPION REAL MADRID VS PSG
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2941
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LIGA CHAMPION REAL MADRID VS PSG BACKUP
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 00.45 WIB LIGA UEFA SEVILLA VS WESTHAM
 http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/71105
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LIGA CHAMPION REAL MADRID VS PSG BACKUP II
-http://aumaletv.com:25461/Potikina/handala90/61978
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 00.45 WIB LIGA UEFA SEVILLA VS WESTHAM BACKUP
+http://aumaletv.com:25461/Potikina/handala90/61979
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LIGA UEFA BARCELONA VS GALATASARAY
+http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2941
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LIGA UEFA BARCELONA VS GALATASARAY BACKUP
+http://red.ipfox.org:8080/1234/12345678/2969
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LIGA UEFA ATALANTA VS BAYERLEVERKUSEN
+http://red.ipfox.org:8080/1234/12345678/2978
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LIGA UEFA ATALANTA VS BAYERLEVERKUSEN BACKUP
+http://aumaletv.com:25461/Potikina/handala90/5360
+
 
 ######### INDONESIA #########
 
@@ -857,26 +856,8 @@ http://iptv.tvmalaysia.cc:80/529231/529231/6597
 http://iptv.tvmalaysia.cc:80/529231/529231/6748
 #EXTINF:-1,PPTV HD
 https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
-#EXTINF:-1,TH | PremierHD2
-http://pprotv.net:80/reda777/reda777/144827
-#EXTINF:-1,TH | PremierHD3
-http://pprotv.net:80/reda777/reda777/144828
-#EXTINF:-1,TH | PremierHD4
-http://pprotv.net:80/reda777/reda777/144829
-#EXTINF:-1,TH | True Sport HD1
-http://pprotv.net:80/reda777/reda777/144834
-#EXTINF:-1,TH | True Sport HD2
-http://pprotv.net:80/reda777/reda777/144835
-#EXTINF:-1,TH | True Sport HD3
-http://pprotv.net:80/reda777/reda777/144836
-#EXTINF:-1,TH | True Sport HD4
-http://pprotv.net:80/reda777/reda777/144837
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/0805gpsr18v7hda/halakkita_1080p_1_.ts
-#EXTINF:-1,INDO | Champions 1 TV backup
-http://pprotv.net:80/reda777/reda777/39556
-#EXTINF:-1,INDO | Champions 2 TV backup
-http://pprotv.net:80/reda777/reda777/39557
 #EXTINF:-1 group-title="TV SPORT",  Champions 1 TV
 http://tvn.x10.bz/xchannel/master-6.m3u8
 #EXTINF:-1 group-title="TV SPORT",  Champions 2 TV
