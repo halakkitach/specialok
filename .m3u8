@@ -966,11 +966,11 @@ http://stariptv.org:8080/wael2021/123456/9258
 #EXTINF:-1,UK: Free Sports HD
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28812
 #EXTINF:-1,UK: Free Sports HD BACKUP
-http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/28812
+http://stariptv.org:8080/live/nour2020/123456/84817.m3u8
 #EXTINF:-1,UK106:Premiere Sport HD
-http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/28953
+http://stariptv.org:8080/live/nour2020/123456/84804.m3u8
 #EXTINF:-1,UK144:Premier Sports 2
-http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/28915
+http://stariptv.org:8080/live/nour2020/123456/84805.m3u8
 #EXTINF:-1,UK014:BT Sport 1 HD BACKUP I
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2943
 #EXTINF:-1,UK015:BT Sport 2 HD BACKUP I
@@ -980,13 +980,13 @@ http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2941
 #EXTINF:-1,UK017:BT Sport ESPN FHD BACKUP I
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2940
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 1 BACKUP II
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1088
+http://stariptv.org:8080/live/nour2020/123456/84745.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 2 BACKUP II
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1089
+http://stariptv.org:8080/live/nour2020/123456/84746.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 3 BACKUP II
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1090
+http://stariptv.org:8080/live/nour2020/123456/84747.m3u8
 #EXTINF:-1,UK: BT Sport ESPN HD BACKUP II
-http://bbiptv.net:8000/tridenour82@yahoo.com/Ride82nour/1091
+http://stariptv.org:8080/live/nour2020/123456/84748.m3u8
 #EXTINF:-1,UK: EUROSPORT 1 GLOBAL
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:-1,UK: EUROSPORT 1
@@ -994,9 +994,9 @@ http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28946
 #EXTINF:-1,UK: EUROSPORT 2
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/28947
 #EXTINF:-1,UK: Eurosport 1 HD
-http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/28946
+http://stariptv.org:8080/live/nour2020/123456/84808.m3u8
 #EXTINF:-1,UK: Eurosport 2 HD
-http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/28947
+http://stariptv.org:8080/live/nour2020/123456/84810.m3u8
 #EXTINF:-1,SKY-SPORTS ARENA
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2902
 #EXTINF:-1,SKY-SPORTS CRICKET
@@ -1026,7 +1026,7 @@ http://mli03.wanicelife.com:8880/SFL123511/EHEKG4F7/2878
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1,DAZN 1 PREMIER LEAGUE
-https://chupachichi2.site/live/ST7804e85002acd67.m3u8
+https://ppv.gcdn.co/DZ1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,USA HD | CBS SPORTS NETWORK
 http://stalkertvlatino.com:8080/QWERTY/QWERTY/118296
 #EXTINF:-1,US- NBCSN HD
