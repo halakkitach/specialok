@@ -923,6 +923,10 @@ http://4digital.ddns.net:11222/ts/0
 http://iptv.tvmalaysia.cc:80/live/109789/109789/6707.m3u8
 #EXTINF:-1 tvg-id="astroarena2.my" tvg-name="Arena 2" tvg-logo="" group-title="TV SPORT",Arena 2
 http://iptv.tvmalaysia.cc:80/live/109789/109789/9028.m3u8
+#EXTINF:-1 tvg-id="astroarena.my" tvg-name="ASTRO Arena HD" tvg-logo="http://tvmalaysia.cc:80/images/9bfeb1c6e3d87c0d27a5d12326aa7a5a.png" group-title="TV SPORT",ASTRO Arena HD backup
+https://tvmalaysiaonline.xyz/hls/arena.m3u8
+#EXTINF:-1 tvg-id="astroarena2.my" tvg-name="Arena 2" tvg-logo="" group-title="TV SPORT",Arena 2
+https://tvmalaysiaonline.xyz/hls/arena2.m3u8
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/95994491156dc80e743b181972c4e6d0.png" group-title="TV SPORT",ASTRO SUPERSPORT HD
 http://iptv.tvmalaysia.cc:80/529231/529231/6708
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASSP 1" tvg-logo="http://tvmalaysia.cc:80/images/fe80f1bf485eb106f9e91e1c16886b4c.png" group-title="TV SPORT",ASSP 1
@@ -966,13 +970,13 @@ http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696494.ts
 #EXTINF:-1,UK144:Premier Sports 2
 http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696496.ts
 #EXTINF:-1,UK014:BT Sport 1 HD BACKUP I
-http://20.97.65.201:25461/ALOMDA-NEW/ALOMDA-NEW/284
+https://www.mireasa-live.com/cdn/premium31/chunks.m3u8
 #EXTINF:-1,UK015:BT Sport 2 HD BACKUP I
-http://20.97.65.201:25461/ALOMDA-NEW/ALOMDA-NEW/286
+https://www.mireasa-live.com/cdn/premium32/chunks.m3u8
 #EXTINF:-1,UK016:BT Sport 3 HD BACKUP I
-http://20.97.65.201:25461/ALOMDA-NEW/ALOMDA-NEW/288
+https://www.mireasa-live.com/cdn/premium33/chunks.m3u8
 #EXTINF:-1,UK017:BT Sport ESPN FHD BACKUP I
-http://20.97.65.201:25461/ALOMDA-NEW/ALOMDA-NEW/294
+https://www.mireasa-live.com/cdn/premium34/chunks.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 1 BACKUP II
 http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696270.ts
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 2 BACKUP II
