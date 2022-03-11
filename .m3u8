@@ -833,9 +833,9 @@ http://bestsave.ltd:2052/141414/151515/138429
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71104
 #EXTINF:-1,|MY| BEIN MAX MALAYSIA
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71105
-#EXTINF:-1,MY132:beIN SPORTS MALAYSIA
+#EXTINF:-1,MY132:beIN SPORTS MALAY
 http://bestsave.ltd:2052/141414/151515/74542
-#EXTINF:-1,MY133:bEIN MAX MALAYSIA
+#EXTINF:-1,MY133:bEIN MAX MALAY
 http://bestsave.ltd:2052/141414/151515/74543
 #EXTINF:-1,beIN Sports malay
 http://51.79.251.57:2082/live/Cempaka/Cempaka/892.m3u8
@@ -923,10 +923,6 @@ http://4digital.ddns.net:11222/ts/0
 http://iptv.tvmalaysia.cc:80/live/109789/109789/6707.m3u8
 #EXTINF:-1 tvg-id="astroarena2.my" tvg-name="Arena 2" tvg-logo="" group-title="TV SPORT",Arena 2
 http://iptv.tvmalaysia.cc:80/live/109789/109789/9028.m3u8
-#EXTINF:-1,MY: Astro Arena 2 HD BACKUP
-http://starshare.live:8080/live/2845483/2845483/44356.ts
-#EXTINF:-1,MY: Astro Arena HD BACKUP
-http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71102
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/95994491156dc80e743b181972c4e6d0.png" group-title="TV SPORT",ASTRO SUPERSPORT HD
 http://iptv.tvmalaysia.cc:80/529231/529231/6708
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASSP 1" tvg-logo="http://tvmalaysia.cc:80/images/fe80f1bf485eb106f9e91e1c16886b4c.png" group-title="TV SPORT",ASSP 1
@@ -1032,13 +1028,13 @@ http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696503.ts
 #EXTINF:-1,US- NBC GOLF HD
 http://bestsave.ltd:2052/141414/151515/81444
 #EXTINF:-1,ES122:DAZN 1
-http://aumaletv.com:25461/Potikina/handala90/50599
+http://aumaletv.com:25461/Potikina/handala90/50606
 #EXTINF:-1,ES258:DAZN 2
 http://aumaletv.com:25461/Potikina/handala90/50601
 #EXTINF:-1,ES174:DAZN 3
 http://aumaletv.com:25461/Potikina/handala90/50603
 #EXTINF:-1,ES166:DAZN F1
-http://aumaletv.com:25461/Potikina/handala90/50606
+http://aumaletv.com:25461/Potikina/handala90/50605
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1,|DSTV| SuperSport PSL
