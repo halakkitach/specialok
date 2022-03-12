@@ -929,25 +929,25 @@ http://opplex.tv:8080/sa123456/sa123456/229529
 #EXTINF:-1 tvg-id="astroarena2.my" tvg-name="Arena 2" tvg-logo="" group-title="TV SPORT",Arena 2
 http://opplex.tv:8080/sa123456/sa123456/229530
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/95994491156dc80e743b181972c4e6d0.png" group-title="TV SPORT",ASTRO SUPERSPORT HD
-http://iptv.tvmalaysia.cc:80/live/141078/141078/6708.m3u8
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/694219
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASSP 1" tvg-logo="http://tvmalaysia.cc:80/images/fe80f1bf485eb106f9e91e1c16886b4c.png" group-title="TV SPORT",ASSP 1
 http://mytv.fun:8080/3xjonfj04e/ave1vkz2l/694219
 #EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="ASTRO SUPERSPORT 2 HD" tvg-logo="http://tvmalaysia.cc:80/images/628518d8dfdaa6cc296123a5bdb13c28.png" group-title="TV SPORT",ASTRO SUPERSPORT 2 HD
-http://iptv.tvmalaysia.cc:80/live/141078/141078/6710.m3u8
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/694220
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="http://tvmalaysia.cc:80/images/4946045f4dd1aca3a124f25655097c56.png" group-title="TV SPORT",ASSP 2
 http://mytv.fun:8080/3xjonfj04e/ave1vkz2l/694220
 #EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/25afd4f665faabffdd3041b89d69e856.png" group-title="TV SPORT",ASTRO SUPERSPORT 3 HD
-http://iptv.tvmalaysia.cc:80/live/141078/141078/6711.m3u8
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/694221
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="http://tvmalaysia.cc:80/images/d3ffad6f5889e2a0c59dfaabedcbbc90.png" group-title="TV SPORT",ASSP 3 (LIVE EPL ONLY)
 http://mytv.fun:8080/3xjonfj04e/ave1vkz2l/694221
 #EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="http://tvmalaysia.cc:80/images/9fa5701dc090214abf85095e751a161d.png" group-title="TV SPORT",ASTRO SUPERSPORT 4 HD
-http://iptv.tvmalaysia.cc:80/live/141078/141078/6712.m3u8
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/694222
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png" group-title="TV SPORT",ASSP 4
 http://mytv.fun:8080/3xjonfj04e/ave1vkz2l/694222
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="TV SPORT", Astro Supersport 5 HD
 http://iptv.tvmalaysia.cc:80/live/141078/141078/9029.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="TV SPORT", ASSP 5
-http://opplex.tv:8080/sa123456/sa123456/229526
+http://opplex.tv:8080/130130/130130/229526
 
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
@@ -1191,30 +1191,30 @@ http://alllivesportslinks.myftp.biz/hls/select2.m3u8
 http://AllLiveSportsLinks.myftp.biz:80/hls/euro.m3u8
 #EXTINF:-1,IN: T Sports HD
 http://AllLiveSportsLinks.myftp.biz:80/hls/t-sports.m3u8
-#EXTINF:-1,IN | SONY SIX HD
-http://opplex.tv:8080/sa123456/sa123456/167580
-#EXTINF:-1,IN | Ten 1 HD
-http://opplex.tv:8080/sa123456/sa123456/167570
-#EXTINF:-1,IN | Ten 2 HD
-http://opplex.tv:8080/sa123456/sa123456/167571
-#EXTINF:-1,IN | Ten 3 HD
-http://opplex.tv:8080/sa123456/sa123456/167572
-#EXTINF:-1,IN: Sony Ten 4
-http://opplex.tv:8080/sa123456/sa123456/167595
-#EXTINF:-1,IN: STAR SPORTS 1 Hindi
-http://opplex.tv:8080/sa123456/sa123456/167573
-#EXTINF:-1,IN: Star Sports tamil 1
-http://opplex.tv:8080/sa123456/sa123456/167574
-#EXTINF:-1,IN | Star Sports 1 HD
-http://opplex.tv:8080/sa123456/sa123456/167575
-#EXTINF:-1,IN | Star Sports 2 HD
-http://opplex.tv:8080/sa123456/sa123456/167576
-#EXTINF:-1,IN | Star Sports 3 HD
-http://opplex.tv:8080/sa123456/sa123456/167577
-#EXTINF:-1,IN | STAR SPORTS SELECT 1
-http://opplex.tv:8080/sa123456/sa123456/167578
-#EXTINF:-1,IN | STAR SPORTS SELECT 2
-http://opplex.tv:8080/sa123456/sa123456/167579
+#EXTINF:-1,Sony Six IN
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/5548
+#EXTINF:-1,Sony Ten 1 IN
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/672325
+#EXTINF:-1,Sony Ten 2 HD IN
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/672444
+#EXTINF:-1,Sony Ten 3 IN
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/672445
+#EXTINF:-1,Ten 1 HD IN
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/3972
+#EXTINF:-1,Ten 2 HD IN
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/5589
+#EXTINF:-1,Ten 3 HD IN
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/5590
+#EXTINF:-1,Star Plus HD IN
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/672450
+#EXTINF:-1,Star Plus [UK] IN
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/13174
+#EXTINF:-1,Star Sports 1 IN
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/3979
+#EXTINF:-1,Star Sports 2 IN
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/397844
+#EXTINF:-1,Star Sports 3 IN
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/3977
 #EXTINF:-1 LINK GRATIS,TIDAK DIJUAL!!! 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1, Star Sports Select 1 HD
