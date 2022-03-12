@@ -825,22 +825,18 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="TV SPORT",beIN Sport 3 ID
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-#EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="TV SPORT",beIN Sport 1 INDO
-http://bestsave.ltd:2052/141414/151515/138430
-#EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="TV SPORT",beIN Sport 3 INDO
-http://bestsave.ltd:2052/141414/151515/138429
+#EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="TV SPORT",beIN Sport 1 THAI
+http://opplex.tv:8080/sa123456/sa123456/231211
+#EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="TV SPORT",beIN Sport 2 THAI
+http://opplex.tv:8080/sa123456/sa123456/231212
+#EXTINF:-1,MY132:beIN SPORTS MALAY
+http://opplex.tv:8080/sa123456/sa123456/229531
+#EXTINF:-1,MY133:bEIN MAX MALAY
+http://opplex.tv:8080/sa123456/sa123456/229532
 #EXTINF:-1,|MY| BEIN SPORTS MALAYSIA
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71104
 #EXTINF:-1,|MY| BEIN MAX MALAYSIA
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71105
-#EXTINF:-1,MY132:beIN SPORTS MALAY
-http://bestsave.ltd:2052/141414/151515/74542
-#EXTINF:-1,MY133:bEIN MAX MALAY
-http://bestsave.ltd:2052/141414/151515/74543
-#EXTINF:-1,beIN Sports malay
-http://51.79.251.57:2082/live/Cempaka/Cempaka/892.m3u8
-#EXTINF:-1,beIN MAX malay
-http://iptv.tvmalaysia.cc:80/529231/529231/6748
 #EXTINF:-1,PPTV HD
 https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
@@ -924,26 +920,26 @@ http://iptv.tvmalaysia.cc:80/live/109789/109789/6707.m3u8
 #EXTINF:-1 tvg-id="astroarena2.my" tvg-name="Arena 2" tvg-logo="" group-title="TV SPORT",Arena 2
 http://iptv.tvmalaysia.cc:80/live/109789/109789/9028.m3u8
 #EXTINF:-1 tvg-id="astroarena.my" tvg-name="ASTRO Arena HD" tvg-logo="http://tvmalaysia.cc:80/images/9bfeb1c6e3d87c0d27a5d12326aa7a5a.png" group-title="TV SPORT",ASTRO Arena HD backup
-https://tvmalaysiaonline.xyz/hls/arena.m3u8
+http://opplex.tv:8080/sa123456/sa123456/229529
 #EXTINF:-1 tvg-id="astroarena2.my" tvg-name="Arena 2" tvg-logo="" group-title="TV SPORT",Arena 2
-https://tvmalaysiaonline.xyz/hls/arena2.m3u8
+http://opplex.tv:8080/sa123456/sa123456/229530
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/95994491156dc80e743b181972c4e6d0.png" group-title="TV SPORT",ASTRO SUPERSPORT HD
-http://iptv.tvmalaysia.cc:80/529231/529231/6708
+http://opplex.tv:8080/sa123456/sa123456/229522
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASSP 1" tvg-logo="http://tvmalaysia.cc:80/images/fe80f1bf485eb106f9e91e1c16886b4c.png" group-title="TV SPORT",ASSP 1
 http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696504.ts
 http://iptv.tvmalaysia.cc:80/live/109789/109789/9024.m3u8
 #EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="ASTRO SUPERSPORT 2 HD" tvg-logo="http://tvmalaysia.cc:80/images/628518d8dfdaa6cc296123a5bdb13c28.png" group-title="TV SPORT",ASTRO SUPERSPORT 2 HD
-http://iptv.tvmalaysia.cc:80/529231/529231/6710
+http://opplex.tv:8080/sa123456/sa123456/229523
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="http://tvmalaysia.cc:80/images/4946045f4dd1aca3a124f25655097c56.png" group-title="TV SPORT",ASSP 2
 http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696505.ts
 http://iptv.tvmalaysia.cc:80/live/109789/109789/9025.m3u8
 #EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/25afd4f665faabffdd3041b89d69e856.png" group-title="TV SPORT",ASTRO SUPERSPORT 3 HD
-http://iptv.tvmalaysia.cc:80/529231/529231/6711
+http://opplex.tv:8080/sa123456/sa123456/229524
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="http://tvmalaysia.cc:80/images/d3ffad6f5889e2a0c59dfaabedcbbc90.png" group-title="TV SPORT",ASSP 3 (LIVE EPL ONLY)
 http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696506.ts
 http://iptv.tvmalaysia.cc:80/live/109789/109789/9020.m3u8
 #EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="http://tvmalaysia.cc:80/images/9fa5701dc090214abf85095e751a161d.png" group-title="TV SPORT",ASTRO SUPERSPORT 4 HD
-http://iptv.tvmalaysia.cc:80/529231/529231/6712
+http://opplex.tv:8080/sa123456/sa123456/229525
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png" group-title="TV SPORT",ASSP 4
 http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696507.ts
 http://iptv.tvmalaysia.cc:80/live/109789/109789/9026.m3u8
@@ -962,21 +958,21 @@ http://stariptv.org:8080/wael2021/123456/9272
 #EXTINF:-1,|UK| BT Sport ESPN
 http://stariptv.org:8080/wael2021/123456/9258
 #EXTINF:-1,UK: Free Sports HD
-http://red.ipfox.org:8080/1234/12345678/25970
+http://opplex.tv:8080/sa123456/sa123456/237168
 #EXTINF:-1,UK: Free Sports HD BACKUP
 http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696498.ts
 #EXTINF:-1,UK106:Premiere Sport HD
-http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696494.ts
+http://opplex.tv:8080/sa123456/sa123456/222649
 #EXTINF:-1,UK144:Premier Sports 2
-http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696496.ts
+http://opplex.tv:8080/sa123456/sa123456/222650
 #EXTINF:-1,UK014:BT Sport 1 HD BACKUP I
-http://red.ipfox.org:8080/1234/12345678/24169
+http://opplex.tv:8080/sa123456/sa123456/237141
 #EXTINF:-1,UK015:BT Sport 2 HD BACKUP I
-http://red.ipfox.org:8080/1234/12345678/24171
+http://opplex.tv:8080/sa123456/sa123456/237142
 #EXTINF:-1,UK016:BT Sport 3 HD BACKUP I
-http://red.ipfox.org:8080/1234/12345678/24173
+http://opplex.tv:8080/sa123456/sa123456/237143
 #EXTINF:-1,UK017:BT Sport ESPN FHD BACKUP I
-http://red.ipfox.org:8080/1234/12345678/24175
+http://opplex.tv:8080/sa123456/sa123456/237148
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 1 BACKUP II
 http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696270.ts
 #EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 2 BACKUP II
@@ -988,33 +984,33 @@ http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696282.ts
 #EXTINF:-1,UK: EUROSPORT 1 GLOBAL
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:-1,UK: EUROSPORT 1
-http://red.ipfox.org:8080/1234/12345678/24185
+http://opplex.tv:8080/sa123456/sa123456/222656
 #EXTINF:-1,UK: EUROSPORT 2
-http://red.ipfox.org:8080/1234/12345678/24186
+http://opplex.tv:8080/sa123456/sa123456/222657
 #EXTINF:-1,UK: Eurosport 1 HD
 http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696484.ts
 #EXTINF:-1,UK: Eurosport 2 HD
 http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696486.ts
 #EXTINF:-1,SKY-SPORTS ARENA
-http://red.ipfox.org:8080/1234/12345678/24157
+http://opplex.tv:8080/sa123456/sa123456/237156
 #EXTINF:-1,SKY-SPORTS CRICKET
-http://red.ipfox.org:8080/1234/12345678/24163
+http://opplex.tv:8080/sa123456/sa123456/237157
 #EXTINF:-1,SKY-SPORTS FOOTBALL BACKUP
-http://red.ipfox.org:8080/1234/12345678/24151
+http://opplex.tv:8080/sa123456/sa123456/222626
 #EXTINF:-1,SKY-SPORTS FOOTBALL
 http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696241.ts
 #EXTINF:-1,SKY-SPORTS MAIN EVENT BACKUP
-http://red.ipfox.org:8080/1234/12345678/24149
+http://opplex.tv:8080/sa123456/sa123456/222624
 #EXTINF:-1,SKY-SPORTS MAIN EVENT
 http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696233.ts
 #EXTINF:-1,SKY-SPORTS PREMIER LEAGUE
 http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696236.ts
 #EXTINF:-1,SKY-SPORTS PREMIER LEAGUE BACKUP
-http://red.ipfox.org:8080/1234/12345678/24153
+http://opplex.tv:8080/sa123456/sa123456/222625
 #EXTINF:-1,SKY-SPORTS F1 BACKUP
 http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696263.ts
 #EXTINF:-1,SKY-SPORTS F1
-http://red.ipfox.org:8080/1234/12345678/24165
+http://opplex.tv:8080/sa123456/sa123456/222629
 #EXTINF:-1,IT - SKY SPORT 24 HD
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2696
 #EXTINF:-1,SKY-SPORTS GOLF
@@ -1197,22 +1193,30 @@ http://alllivesportslinks.myftp.biz/hls/select2.m3u8
 http://AllLiveSportsLinks.myftp.biz:80/hls/euro.m3u8
 #EXTINF:-1,IN: T Sports HD
 http://AllLiveSportsLinks.myftp.biz:80/hls/t-sports.m3u8
-#EXTINF:-1,|IN| SONY SIX
-http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/666969.ts
-#EXTINF:-1,|IN| SONY TEN 1 HD
-http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/666923.ts
-#EXTINF:-1,|IN| SONY TEN 2 HD
-http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/666924.ts
-#EXTINF:-1,|IN| SONY TEN 3 HD
-http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/666925.ts
-#EXTINF:-1,|IN| TEN CRICKET
-http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/666926.ts
-#EXTINF:-1,|IN| STAR SPORTS 1
-http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/666927.ts
-#EXTINF:-1,|IN| STAR SPORTS 2
-http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/666928.ts
-#EXTINF:-1,|IN| STAR SPORTS 3
-http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/666929.ts
+#EXTINF:-1,IN | SONY SIX HD
+http://opplex.tv:8080/sa123456/sa123456/167580
+#EXTINF:-1,IN | Ten 1 HD
+http://opplex.tv:8080/sa123456/sa123456/167570
+#EXTINF:-1,IN | Ten 2 HD
+http://opplex.tv:8080/sa123456/sa123456/167571
+#EXTINF:-1,IN | Ten 3 HD
+http://opplex.tv:8080/sa123456/sa123456/167572
+#EXTINF:-1,IN: Sony Ten 4
+http://opplex.tv:8080/sa123456/sa123456/167595
+#EXTINF:-1,IN: STAR SPORTS 1 Hindi
+http://opplex.tv:8080/sa123456/sa123456/167573
+#EXTINF:-1,IN: Star Sports tamil 1
+http://opplex.tv:8080/sa123456/sa123456/167574
+#EXTINF:-1,IN | Star Sports 1 HD
+http://opplex.tv:8080/sa123456/sa123456/167575
+#EXTINF:-1,IN | Star Sports 2 HD
+http://opplex.tv:8080/sa123456/sa123456/167576
+#EXTINF:-1,IN | Star Sports 3 HD
+http://opplex.tv:8080/sa123456/sa123456/167577
+#EXTINF:-1,IN | STAR SPORTS SELECT 1
+http://opplex.tv:8080/sa123456/sa123456/167578
+#EXTINF:-1,IN | STAR SPORTS SELECT 2
+http://opplex.tv:8080/sa123456/sa123456/167579
 #EXTINF:-1 LINK GRATIS,TIDAK DIJUAL!!! 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1, Star Sports Select 1 HD
