@@ -1597,334 +1597,242 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #EXTINF:-1 tvg-id="146" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="ASTRO MALAYSIA",TV OKEY
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dd600869fd5f4bfee286825f6d778b10&key=eb5b83acbbd79af479a00db92935a34b
-#EXTINF:-1 tvg-id="122" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVSarawak.png" group-title="ASTRO MALAYSIA",TVS
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
-
-#EXTINF:-1 tvg-id="123" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png" group-title="ASTRO MALAYSIA",AWESOME TV
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=743
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://mediahomes.github.io/logos/drama-sangat.png" group-title="ASTRO MALAYSIA",DRAMA SANGAT
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="ASTRO MALAYSIA",ASTRO RIA
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=735
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
-#EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="ASTRO MALAYSIA",ASTRO WARNA A
-https://m3u-editor.com/serve/7c7915a0-9cf3-11ec-af9f-2131c36f8e77/516019616
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
-#EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="ASTRO MALAYSIA",ASTRO WARNA B
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=4313
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
-#EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="ASTRO MALAYSIA",ASTRO CITRA
-https://m3u-editor.com/serve/7c7915a0-9cf3-11ec-af9f-2131c36f8e77/516019611
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
-#EXTINF:-1 tvg-id="106" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="ASTRO MALAYSIA",ASTRO OASIS
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
-#EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="ASTRO MALAYSIA",ASTRO PRIMA
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8
-#EXTINF:-1 tvg-id="109" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="ASTRO MALAYSIA",ASTRO RANIA
-http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
-#EXTINF:-1 tvg-id="251" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="ASTRO MALAYSIA",ASTRO BOLLYONE
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=76ac661111eadf6ffde0dcdbd16fcb10&key=24b391c868de298804403a024e6ce7de
-#EXTINF:-1 tvg-id="392" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="ASTRO MALAYSIA",KBS WORLD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ddd9708a62b9e2eb44448dd1a6841310&key=0b248e71fef0c27988fa10049b32f309
-#EXTINF:-1 tvg-id="396" tvg-logo="http://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-title="ASTRO MALAYSIA",K PLUS
-http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1dcd711054d1b3e2b16b41e2446d8c10&key=f0b97c062a990e4b99cfed4527aed878
-#EXTINF:-1 tvg-id="394" tvg-logo="http://linear-poster.astro.com.my/prod/logo/OhK_v1.png" group-title="ASTRO MALAYSIA",OH!K
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ba8842e119ee61ac7c613e1e6a1e3e10&key=46ed2370a8cc4cef2665e03e110f9455
-#EXTINF:-1 tvg-id="393" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="ASTRO MALAYSIA",ONE
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c1269a58571f4528d585fdccbf8fa510&key=615d2dcc24a8fa6a7342185a6fcb1615
-#EXTINF:-1 tvg-id="395" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvN_2021.png" group-title="ASTRO MALAYSIA",TVN
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://kaytv.hexat.com/logo/flix.jpg" group-title="ASTRO MALAYSIA",&FLIX
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/104.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://kaytv.hexat.com/logo/prive.jpg" group-title="ASTRO MALAYSIA",&PRIVE
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/105.ts
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
-#EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="ASTRO MALAYSIA",BOO (MY)
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1283d2fab34ca094ab1cfd1238476a10&key=edf87dc4bdc835c6daffdd213c8029df
-#EXTINF:-1 tvg-id="321" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="ASTRO MALAYSIA",CCM
-http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=064b474a4851760b3ac81a7e89437410&key=18eea3fcbfb8313f46d1a2c45a573e02
-#EXTINF:-1 tvg-id="309" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-title="ASTRO MALAYSIA",CELESTIAL MOVIES
-http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bb5e8d918097e067ab1bc7e3a9e68410&key=dbda57d3de69f5e4b78ff2cc73d8a51a
-#EXTINF:-1 tvg-id="401" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Logo_10000499.png" group-title="ASTRO MALAYSIA",HITS MOVIES
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
-#EXTINF:-1 tvg-id="413" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="ASTRO MALAYSIA",SHOWCASE MOVIES
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="ASTRO MALAYSIA",SONY PIX
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/298.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/i7ifGMFv.png" group-title="ASTRO MALAYSIA",STAR MOVIES
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/299.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/YaAM9uAb.png" group-title="ASTRO MALAYSIA",STAR MOVIES SELECT
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/300.ts
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4667aa2bb9d080471f43e03d40868c10&key=116db8fda0a62355cf24c6acb6aab03d
-#EXTINF:-1 tvg-id="416" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="ASTRO MALAYSIA",TVN MOVIES
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b7f352ff63e533f3baa950d7e2497410&key=e11de6f5f84bbd2f150ffc82191880e8
-#EXTINF:-1 tvg-id="701" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-title="ASTRO MALAYSIA",AXN
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b73add6f0c8f2f01ad2029f8b19fa310&key=799dabe972f9c41a25ba37daa73a5fe5
-#EXTINF:-1 tvg-id="714" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CI_v1.png" group-title="ASTRO MALAYSIA",CRIME+INVESTIGATION
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c895c9ffb76edf62261e7588665a7310&key=2bd500fc595131eaf160258a85dc72b6
-#EXTINF:-1 tvg-id="706" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png" group-title="ASTRO MALAYSIA",HITS
-http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c7fa397ac42a9a4c6375a3653db84710&key=cd6bf0c7a2a8937e0a0431762189149f
-#EXTINF:-1 tvg-id="705" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KIX_HD_v1.png" group-title="ASTRO MALAYSIA",KIX
-http://linearjitp-playback.astro.com.my/dash-wv/linear/607/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8762b5ff9680955e720e5ecb5ce78a10&key=187d7e7cb322853a0b485c47a7a12135
-#EXTINF:-1 tvg-id="703" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png" group-title="ASTRO MALAYSIA",LIFETIME
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=063689e84408a4542e3a158073182210&key=fd205780495645c7334cbdea0dc94f17
-#EXTINF:-1 tvg-id="713" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Paramount.png" group-title="ASTRO MALAYSIA",PARAMOUNT NETWORK
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=eaaa02f58d19457c6385bf2831706f10&key=7294ff05390550e09df76ef3b697f8da
-#EXTINF:-1 tvg-id="704" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PRIMEtime.png" group-title="ASTRO MALAYSIA",PRIMETIME
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d8300c66236b3057410cde9cf0970910&key=f3787e40b34f18ab2dccd809e78ceec1
-#EXTINF:-1 tvg-id="712" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="ASTRO MALAYSIA",WARNER TV
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=835f1c94b9a333eea1e7bb78b0a79010&key=57f68cdc4023fc8511dc1ea6b5502a1c
-#EXTINF:-1 tvg-id="718" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MTV_v2.png" group-title="ASTRO MALAYSIA",MTV ASIA
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0bea88ab972e06760a04712cc423d841&key=4039d607f88f1b1f677e4beb6ee66637
-#EXTINF:-1 tvg-id="MusicTV.id" tvg-logo="http://dusktill.masuk.web.id/img/musictv.png" group-title="ASTRO MALAYSIA",MUSIC TV
-https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b0e855d7fb11721129c13d4c1b645e10&key=2ddd4b255921d5c2a331e5f10f302be0
-#EXTINF:-1 tvg-id="709" tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-title="ASTRO MALAYSIA",ASIAN FOOD NETWORK
-http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=82c5ba9d6368aa9d36d50e4198177910&key=9161f6debd89e32de98008338f0455b7
-#EXTINF:-1 tvg-id="717" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Lifestyle.png" group-title="ASTRO MALAYSIA",BBC ASTRO MALAYSIA
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ea24fcf5a4e5a1a25a8d118c088dc510&key=effd0dfaddcd0e533314d5305abe031c
-#EXTINF:-1 tvg-id="716" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DMAX_v1.png" group-title="ASTRO MALAYSIA",DMAX
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0845d8900e973747e70c9f61ebed2d10&key=4bdb394a43bb955d6d67107620de17db
-#EXTINF:-1 tvg-id="708" tvg-logo="http://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png" group-title="ASTRO MALAYSIA",FOOD NETWORK
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9cf5f00d7c35e9a0c4515d93e3938c10&key=2c2d00ff93b69f9e5e6c377fc8c80cc7
-#EXTINF:-1 tvg-id="715" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HGTV_v1.png" group-title="ASTRO MALAYSIA",HGTV
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/185?cb=20170428060444" group-title="ASTRO MALAYSIA",OUTDOOR CHANNEL
-https://outdoorchannel-samsungau.amagi.tv/playlist720p.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b732fb1488c37774919ae7b4ab0f8010&key=62d4fdbfee0f22b6b0aaa6db9f8410c6
-#EXTINF:-1 tvg-id="707" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-title="ASTRO MALAYSIA",TLC
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7ac5123e3450ed42e5c03a4e9f07b710&key=5e01133b2bc59acf9d9ce16849365671
-#EXTINF:-1 tvg-id="556" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" group-title="ASTRO MALAYSIA",ANIMAL PLANET
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8b132be22fca4d1538e2cfa009f08a10&key=d0a2208f3d5a556f831ad4de9fe7e31c
-#EXTINF:-1 tvg-id="554" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Earth.png" group-title="ASTRO MALAYSIA",BBC EARTH
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=398c7f60db4c1639c85be89047de8310&key=7b78f26fd99c7f9e43349547dc8030bc
-#EXTINF:-1 tvg-id="552" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png" group-title="ASTRO MALAYSIA",DISCOVERY
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e5ac299099f8bd93d1cc5a96180d7810&key=6d931bb991f70059daba1d552f2b4427
-#EXTINF:-1 tvg-id="553" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-title="ASTRO MALAYSIA",DISCOVERY ASIA
-http://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c3743253e4717ebb939a814f6a20ac10&key=455e412c13c6369c12555ade2af64a04
-#EXTINF:-1 tvg-id="555" tvg-logo="http://linear-poster.astro.com.my/prod/logo/History_v1.png" group-title="ASTRO MALAYSIA",HISTORY
-http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="ASTRO MALAYSIA",LOVE NATURE4K
-http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=394a40dfff6320fca4a327d7c3127610&key=68633db62849223bb7de00c64f87166f
-#EXTINF:-1 tvg-id="551" tvg-logo="http://linear-poster.astro.com.my/prod/logo/National_Geographic_v1.png" group-title="ASTRO MALAYSIA",NATIONAL GEOGRAPHIC
-http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0c626a3022340ea1d7af15e51a118a10&key=543ce4c3e6139f46c4a95c57ef64f540
-#EXTINF:-1 tvg-id="550" tvg-logo="http://linear-poster.astro.com.my/prod/logo/NatGeo_WILD_V3.png" group-title="ASTRO MALAYSIA",NAT GEO WILD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.smithsonianchannel.ca/wp-content/uploads/2018/10/SMC_HORIZ_logo_WHITE.png" group-title="ASTRO MALAYSIA",SMITHSONIAN CHANNEL
-https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09891197fd467008f73b1fe18bfed710&key=fa752673e5da5541a796569371788dea
-#EXTINF:-1 tvg-id="501" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="ASTRO MALAYSIA",ASTRO AWANI
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=14fdb1982124a67e06642960c632ce10&key=647ae9cb587319a00eed56b7e5e46b44
-#EXTINF:-1 tvg-id="518" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ABC_v1.png" group-title="ASTRO MALAYSIA",ABC AUSTRALIA
-http://linearjitp-playback.astro.com.my/dash-wv/linear/904/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=566e67da543c043f0fe2a5f371412910&key=0b997dec90bda7dd6f8f16d3fc914b6c
-#EXTINF:-1 tvg-id="513" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png" group-title="ASTRO MALAYSIA",AL JAZEERA
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=17d5d79b705851bf7fb32a9021d56d10&key=839ae835984e66772b70621dd5d5318b
-#EXTINF:-1 tvg-id="512" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_World_News_v1.png" group-title="ASTRO MALAYSIA",BBC WORLD ASTRO MALAYSIA
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png" group-title="ASTRO MALAYSIA",BERITA RTM
-https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=aa3ffd5b0ad254ca7b23c85c240f4910&key=c17b80d133522c555b4c10ad6a142750
-#EXTINF:-1 tvg-id="502" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-title="ASTRO MALAYSIA",BERNAMA
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1939316637b563ca2b97bbcf1fb50510&key=02703583fed9403ab38be7f75987fc3d
-#EXTINF:-1 tvg-id="517" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_979_v3.png" group-title="ASTRO MALAYSIA",BLOOMBERG
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2f8afa190485397d01640ce8c12fcc10&key=c9185e999d147ff468415095236fb703
-#EXTINF:-1 tvg-id="503" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CGTN_v1.png" group-title="ASTRO MALAYSIA",CGTN
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fe5edb836e82f122ab940395cbe10210&key=4fc6c26bdb1df14696ee6e53b0957883
-#EXTINF:-1 tvg-id="515" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Channel_News_Asia_v1.png" group-title="ASTRO MALAYSIA",CNA
-http://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=98b593ae7d0d2b488eca960db791c010&key=56ef03e88c52b9ea7ea73ea0338f6d89
-#EXTINF:-1 tvg-id="CNBCAsiaPacific.us" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CNBC_v1.png" group-title="ASTRO MALAYSIA",CNBC ASIA
-http://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3cb7eb2b786d7587318c42b37e3e5510&key=fcc2c6e8adf5418e35382f77e5ad56ec
-#EXTINF:-1 tvg-id="511" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CNN_v1.png" group-title="ASTRO MALAYSIA",CNN
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5cd1850280996e9ced09c72027dfdb10&key=3a1d9a18b0d1ffc99ab259e16b3dc5dc
-#EXTINF:-1 tvg-id="521" tvg-logo="http://linear-poster.astro.com.my/prod/logo/DW_v1.png" group-title="ASTRO MALAYSIA",DW
-http://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=435bb823afb75f32a891cc235dda1210&key=aebc4002b1d9a18388f7bab70c0a7cc8
-#EXTINF:-1 tvg-id="615" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png" group-title="ASTRO MALAYSIA",CARTOON NETWORK
-http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f609722db16e34f7f808179d29ba1b10&key=f8b715f81b33aeb2e5680263fe31d904
-#EXTINF:-1 tvg-id="616" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Nicklelodeon_v1.png" group-title="ASTRO MALAYSIA",NICKELODEON
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3e4bcc300dc5f243ba5d5b4efca9fd10&key=364bdb669b85e49ef93d0de8b9f31cf3
-#EXTINF:-1 tvg-id="617" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickjr.png" group-title="ASTRO MALAYSIA",NICK JR
-http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
-#EXTINF:-1 tvg-id="612" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TA-DAA!.png" group-title="ASTRO MALAYSIA",TA-DAA!
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
-
+#EXTINF:-1 tvg-id="astroria.my" tvg-name="RIA BACKUP" tvg-logo="" group-title="ASTRO MALAYSIA",RIA BACKUP
+http://iptv.tvmalaysia.cc:80/live/141078/141078/9031.m3u8
+#EXTINF:-1 tvg-id="astroria.my" tvg-name="ASTRO Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO MALAYSIA",ASTRO Ria HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6730.m3u8
+#EXTINF:-1 tvg-id="astroprima.my" tvg-name="ASTRO Prima HD" tvg-logo="http://tvmalaysia.cc:80/images/6d5b399b8fa106f2d771eb1701e4c9cb.png" group-title="ASTRO MALAYSIA",ASTRO Prima HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6727.m3u8
+#EXTINF:-1 tvg-id="astrowarna.my" tvg-name="ASTRO Warna HD" tvg-logo="http://tvmalaysia.cc:80/images/5a747afe7e6d8f0963590d0c63ae9a5c.png" group-title="ASTRO MALAYSIA",ASTRO Warna HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6740.m3u8
+#EXTINF:-1 tvg-id="astrocitra.my" tvg-name="Astro Citra HD (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/44f283fece8e89c263b9d1aba29f3d8c.png" group-title="ASTRO MALAYSIA",Astro Citra HD (subtitle)
+http://iptv.tvmalaysia.cc:80/live/141078/141078/7267.m3u8
+#EXTINF:-1 tvg-id="boo.my" tvg-name="Astro Boo" tvg-logo="http://tvmalaysia.cc:80/images/7b9fdf9cec940d2163e49a0773bf32dc.png" group-title="ASTRO MALAYSIA",Astro Boo
+http://iptv.tvmalaysia.cc:80/live/141078/141078/8872.m3u8
+#EXTINF:-1 tvg-id="naura.my" tvg-name="ASTRO Naura HD" tvg-logo="http://tvmalaysia.cc:80/images/d80a9589528fe5f41fba95bd9b107e72.png" group-title="ASTRO MALAYSIA",ASTRO Naura HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6724.m3u8
+#EXTINF:-1 tvg-id="awesometv.my" tvg-name="Awesome TV" tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png" group-title="ASTRO MALAYSIA",Awesome TV
+http://iptv.tvmalaysia.cc:80/live/141078/141078/9016.m3u8
+#EXTINF:-1 tvg-id="astrooasis.my" tvg-name="ASTRO Oasis HD" tvg-logo="http://tvmalaysia.cc:80/images/1025207519df6b585f285d5324f5e5c1.png" group-title="ASTRO MALAYSIA",ASTRO Oasis HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6725.m3u8
+#EXTINF:-1 tvg-id="astroaura.my" tvg-name="ASTRO Aura HD" tvg-logo="http://tvmalaysia.cc:80/images/0b67d68665c92067221b479621db7952.png" group-title="ASTRO MALAYSIA",ASTRO Aura HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6713.m3u8
+#EXTINF:-1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/4408bc4a7b2f8ad6317ce413de65d2c8.png" group-title="ASTRO MALAYSIA",ASTRO Rania HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6729.m3u8
+#EXTINF:-1 tvg-id="astroawani.my" tvg-name="ASTRO Awani HD" tvg-logo="http://tvmalaysia.cc:80/images/4bfd1cf8ffae3783bc756c9aca65d192.png" group-title="ASTRO MALAYSIA",ASTRO Awani HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6714.m3u8
+#EXTINF:-1 tvg-id="astroceria.my" tvg-name="ASTRO Ceria HD" tvg-logo="http://tvmalaysia.cc:80/images/49204e1ccb905c3231dac0998b55b704.png" group-title="ASTRO MALAYSIA",ASTRO Ceria HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6715.m3u8
+#EXTINF:-1 tvg-id="MY: ABC AUSTRALIA" tvg-name="ABC Australia" tvg-logo="http://tvmalaysia.cc:80/images/cd8015182af2a1350c156be7f4913720.jpg" group-title="ASTRO MALAYSIA",ABC Australia
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6692.m3u8
+#EXTINF:-1 tvg-id="asianfoodchannel.id" tvg-name="Asian Food Network HD" tvg-logo="http://tvmalaysia.cc:80/images/ae54174abe4eff7596f622fd752bc10d.png" group-title="ASTRO MALAYSIA",Asian Food Network HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6693,m3u8
+#EXTINF:-1 tvg-id="MY: AL JAZEERA ENGLISH HD" tvg-name="Al-Jazzera HD" tvg-logo="http://tvmalaysia.cc:80/images/6b5c24b51f9610a805f03c93ecff9d5b.jpg" group-title="ASTRO MALAYSIA",Al-Jazzera HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6694.m3u8
+#EXTINF:-1 tvg-id="animalplanet.my" tvg-name="Animal Planet HD" tvg-logo="http://tvmalaysia.cc:80/images/ca4feb4afca4e12d3e376373b81b00c8.png" group-title="ASTRO MALAYSIA",Animal Planet HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6695.m3u8
+#EXTINF:-1 tvg-id="animax.my" tvg-name="Animax" tvg-logo="http://tvmalaysia.cc:80/images/3177be485607747ef576c771c168fefe.png" group-title="ASTRO MALAYSIA",Animax
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6696.m3u8
+#EXTINF:-1 tvg-id="MY: ANIPLUS" tvg-name="Aniplus HD" tvg-logo="https://i.postimg.cc/dtQMKrQQ/ZZ-Pw-KWt-400x400.jpg" group-title="ASTRO MALAYSIA",Aniplus HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6697.m3u8
+#EXTINF:-1 LINK GRATIS,TIDAK DIJUAL!!! 
+https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+#EXTINF:-1 tvg-id="MY: ADITHYA" tvg-name="ASTRO Adithya" tvg-logo="http://tvmalaysia.cc:80/images/fd7b86517bb8a83b4ac94a7de56cb868.png" group-title="ASTRO MALAYSIA",ASTRO Adithya
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6700.m3u8
+#EXTINF:-1 tvg-id="astroaec.my" tvg-name="ASTRO AEC HD" tvg-logo="http://tvmalaysia.cc:80/images/d7b272395e41214e49a127b08bc63b42.png" group-title="ASTRO MALAYSIA",ASTRO AEC HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6701.m3u8
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND HD 311" tvg-name="ASTRO AOD 351 HD" tvg-logo="http://tvmalaysia.cc:80/images/266ce75d12de3edfb41bf0fb38d44e61.png" group-title="ASTRO MALAYSIA",ASTRO AOD 351 HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6702.m3u8
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 352" tvg-name=" ASTRO AOD 352 HD" tvg-logo="http://tvmalaysia.cc:80/images/c80fbc0c1c459c6f112b564e69a15440.png" group-title="ASTRO MALAYSIA", ASTRO AOD 352 HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6703.m3u8
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 353" tvg-name="ASTRO AOD 353 HD" tvg-logo="http://tvmalaysia.cc:80/images/fec06cc8554e1b382eb9592918638974.png" group-title="ASTRO MALAYSIA",ASTRO AOD 353 HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6704.m3u8
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 354" tvg-name="ASTRO AOD 354 HD" tvg-logo="http://tvmalaysia.cc:80/images/2bc91972c202879d05a1d98c8131de12.png" group-title="ASTRO MALAYSIA",ASTRO AOD 354 HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6705.m3u8
+#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 355" tvg-name="ASTRO AOD 355 HD" tvg-logo="http://tvmalaysia.cc:80/images/4ecbf4199ba725a25362149501b9ae90.png" group-title="ASTRO MALAYSIA",ASTRO AOD 355 HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6706.m3u8
+#EXTINF:-1 tvg-id="MY: COLORS TAMIL HD" tvg-name="ASTRO Colors Tamil" tvg-logo="http://tvmalaysia.cc:80/images/32bf2536144b1f03130e1ac5e8bb4978.png" group-title="ASTRO MALAYSIA",ASTRO Colors Tamil
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6716.m3u8
+#EXTINF:-1 tvg-id="MY: ZEE TAMIL HD" tvg-name="ASTRO Zee Tamil HD" tvg-logo="http://tvmalaysia.cc:80/images/7d4a1548640e0c2427eb4b2f73937413.png" group-title="ASTRO MALAYSIA",ASTRO Zee Tamil HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6742.m3u8
+#EXTINF:-1 tvg-id="MY: GO SHOP 111" tvg-name="ASTRO GO Shop 2" tvg-logo="https://i.postimg.cc/7Pg69fNM/astro-go-resized-2.jpg" group-title="ASTRO MALAYSIA",ASTRO GO Shop 2
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6718.m3u8
+#EXTINF:-1 tvg-id="MY: ASTRO VINMEEN HD" tvg-name="ASTRO Vinmeen HD" tvg-logo="http://tvmalaysia.cc:80/images/213a25d32535c979e752d542bcb92f91.png" group-title="ASTRO MALAYSIA",ASTRO Vinmeen HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6739.m3u8
+#EXTINF:-1 tvg-id="astrovaanavil.my" tvg-name="ASTRO Vaanavil HD" tvg-logo="http://tvmalaysia.cc:80/images/3371d6366762ed4a5dcaa5209518299d.png" group-title="ASTRO MALAYSIA",ASTRO Vaanavil HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6738.m3u8
+#EXTINF:-1 tvg-id="MY: MAKKAL TV" tvg-name="Makkal TV" tvg-logo="http://tvmalaysia.cc:80/images/6f0d388c915491e2d09321f690b75420.png" group-title="ASTRO MALAYSIA",Makkal TV
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6806.m3u8
+#EXTINF:-1 tvg-id="MY: SUN TV HD" tvg-name="ASTRO Sun TV HD" tvg-logo="http://tvmalaysia.cc:80/images/63534c20a27bcfb99af554687f874173.png" group-title="ASTRO MALAYSIA",ASTRO Sun TV HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6733.m3u8
+#EXTINF:-1 tvg-id="MY: STAR VIJAY HD" tvg-name="ASTRO Star Vijay HD" tvg-logo="http://tvmalaysia.cc:80/images/f6e171f4548ce0a27dddd272ca3a2fd1.png" group-title="ASTRO MALAYSIA",ASTRO Star Vijay HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jaya Max" tvg-logo="http://tvmalaysia.cc:80/images/c63c1f0b2626a7477939f687005ecd38.jpg" group-title="ASTRO MALAYSIA",Jaya Max
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6802.m3u8
+#EXTINF:-1 tvg-id="MY: CHUTTI TV" tvg-name="Chutti TV" tvg-logo="http://tvmalaysia.cc:80/images/bace6bf715aa77f6318de18eb127aa11.png" group-title="ASTRO MALAYSIA",Chutti TV
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6762.m3u8
+#EXTINF:-1 tvg-id="MY: iQIYI HD" tvg-name="ASTRO iQIYI HD" tvg-logo="https://i.postimg.cc/J0DjYJRQ/IMG-20201125-230926.jpg" group-title="ASTRO MALAYSIA",ASTRO iQIYI HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6723.m3u8
+#EXTINF:-1 tvg-id="MY: ASTRO HUA HEE DAI HD" tvg-name="ASTRO Hua Hee Dai HD" tvg-logo="https://i.postimg.cc/nhMDcByY/IMG-20201125-230458.jpg" group-title="ASTRO MALAYSIA",ASTRO Hua Hee Dai HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6722.m3u8
+#EXTINF:-1 tvg-id="MY: HELLO HD" tvg-name="ASTRO Hello" tvg-logo="https://i.postimg.cc/4xGCbQ5s/Astro-HEllo.jpg" group-title="ASTRO MALAYSIA",ASTRO Hello
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6721.m3u8
+#EXTINF:-1 tvg-id="ohk.my" tvg-name="ASTRO Oh!K HD" tvg-logo="http://tvmalaysia.cc:80/images/3452a54809e37547767708f28b323a47.png" group-title="ASTRO MALAYSIA",ASTRO Oh!K HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6726.m3u8
+#EXTINF:-1 tvg-id="MY: ASTRO QUAN JIA HD" tvg-name="ASTRO Quan Jia HD" tvg-logo="https://i.postimg.cc/KYLTTLZX/QJHD-E.jpg" group-title="ASTRO MALAYSIA",ASTRO Quan Jia HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6728.m3u8
+#EXTINF:-1 tvg-id="MY: ASTRO SHUANG XING HD" tvg-name="ASTRO Shuang Xing HD" tvg-logo="https://i.postimg.cc/d1T3TKv5/Astro-Shuang-Xing-2015.png" group-title="ASTRO MALAYSIA",ASTRO Shuang Xing HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6731.m3u8
+#EXTINF:-1 tvg-id="MY: ASTRO TUTOR TV PT3" tvg-name="ASTRO Tutor TV PT3" tvg-logo="https://i.postimg.cc/TPTncYQN/TTV-PT3.png" group-title="ASTRO MALAYSIA",ASTRO Tutor TV PT3
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6734.m3u8
+#EXTINF:-1 tvg-id="MY: ASTRO TUTOR TV SPM" tvg-name="ASTRO Tutor TV SPM" tvg-logo="https://i.postimg.cc/tgSQqJML/TTV-SPM.png" group-title="ASTRO MALAYSIA",ASTRO Tutor TV SPM
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6735.m3u8
+#EXTINF:-1 tvg-id="MY: ASTRO TVIQ" tvg-name="ASTRO Tutor TV UPSR" tvg-logo="https://i.postimg.cc/tC5rQffc/TTV-UPSR.png" group-title="ASTRO MALAYSIA",ASTRO Tutor TV UPSR
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6736.m3u8
+#EXTINF:-1 tvg-id="MY: ASTRO TVIQ" tvg-name="ASTRO TVIQ" tvg-logo="https://i.postimg.cc/Hk0WDF7F/Astro-TVIQ-2007.png" group-title="ASTRO MALAYSIA",ASTRO TVIQ
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6737.m3u8
+#EXTINF:-1 tvg-id="MY: ASTRO XIAO TAI YANG HD" tvg-name="ASTRO Xiao Tai Yang HD" tvg-logo="https://i.postimg.cc/TYSnS5Xp/images-25.jpg" group-title="ASTRO MALAYSIA",ASTRO Xiao Tai Yang HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6741.m3u8
+#EXTINF:-1 tvg-id="MY: AXN HD" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/J02hdXvx/images-10.png" group-title="ASTRO MALAYSIA",AXN HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6743.m3u8
+#EXTINF:-1 tvg-id="MY: 8TV" tvg-name="BBC Lifestyle" tvg-logo="https://i.postimg.cc/d3Q0tYzh/download-24.jpg" group-title="ASTRO MALAYSIA",BBC Lifestyle
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6746.m3u8
+#EXTINF:-1 tvg-id="bernamatv.my" tvg-name="Bernama News" tvg-logo="http://tvmalaysia.cc:80/images/5d5d2a030b4861b803f596b788efadfd.png" group-title="ASTRO MALAYSIA",Bernama News
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6750.m3u8
+#EXTINF:-1 tvg-id="MY: BLOOMBERG TELEVISION" tvg-name="Bloomberg TV" tvg-logo="http://tvmalaysia.cc:80/images/0ab09328629806a9081cd6ecd6cc2fec.png" group-title="ASTRO MALAYSIA",Bloomberg TV
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6751.m3u8
+#EXTINF:-1 tvg-id="astrobollyone.my" tvg-name="BollyOne HD" tvg-logo="http://tvmalaysia.cc:80/images/a718e42e69b83dc475c36d50a85c5642.png" group-title="ASTRO MALAYSIA",BollyOne HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6754.m3u8
+#EXTINF:-1 tvg-id="MY: CNA HD" tvg-name="Channel News Asia HD" tvg-logo="https://i.postimg.cc/3whCpf5h/1200px-Channel-News-Asia-logo-shape-only-svg.png" group-title="ASTRO MALAYSIA",Channel News Asia HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6765.m3u8
+#EXTINF:-1 tvg-id="MY: CINEMAX HD" tvg-name="Cinemax HD" tvg-logo="https://i.postimg.cc/d1x58Rj9/611-cinemax.png" group-title="ASTRO MALAYSIA",Cinemax HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6764.m3u8
+#EXTINF:-1 tvg-id="MY: CELESTIAL MOVIES HD" tvg-name="Celestial Movies HD" tvg-logo="https://i.postimg.cc/XJ91fBXG/56b6c3c5f37c3-celestial-movies.jpg" group-title="ASTRO MALAYSIA",Celestial Movies HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6760.m3u8
+#EXTINF:-1 tvg-id="MY: CCTV4  HD" tvg-name="CCTV4 HD" tvg-logo="https://i.postimg.cc/tT1ZwFFJ/43ba17ed58bf0c88c7c9a7adac88b6a6.jpg" group-title="ASTRO MALAYSIA",CCTV4 HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6759.m3u8
+#EXTINF:-1 tvg-id="MY: CELESTIAL CLASSIC MOVIES" tvg-name="Celestial Classic Movies" tvg-logo="https://i.postimg.cc/HkRC35WB/CELESTIAL-CLASSIC-MOVIES-logo.png" group-title="ASTRO MALAYSIA",Celestial Classic Movies
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6758.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.my" tvg-name="Cartoon Network HD" tvg-logo="http://tvmalaysia.cc:80/images/a4cbae9d01fdd8ecb52a9392e9779500.png" group-title="ASTRO MALAYSIA",Cartoon Network HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6757.m3u8
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="crime & investigation HD" tvg-logo="https://i.postimg.cc/wB2kwLLn/jrosbpfb-insidecrimeinvestigation.png" group-title="ASTRO MALAYSIA",crime & investigation HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6756.m3u8
+#EXTINF:-1 tvg-id="MY: FX HD" tvg-name="FX Cinema HD" tvg-logo="https://i.postimg.cc/yYx63CT0/1860182.jpg" group-title="ASTRO MALAYSIA",FX Cinema HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6795.m3u8
+#EXTINF:-1 tvg-id="MY: FRANCE24" tvg-name="France 24 HD" tvg-logo="https://i.postimg.cc/VkyyfxZf/1200px-FRANCE-24-logo-svg.png" group-title="ASTRO MALAYSIA",France 24 HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6794.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="Food Network HD" tvg-logo="https://i.postimg.cc/HnmQp48s/Food-Network-New-Logo.png" group-title="ASTRO MALAYSIA",Food Network HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6785.m3u8
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="Eurosport HD" tvg-logo="https://i.postimg.cc/prVpG0n8/1200px-Eurosport-logo-svg.png" group-title="ASTRO MALAYSIA",Eurosport HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6784.m3u8
+#EXTINF:-1 tvg-id="eggnetwork.my" tvg-name="eGG Network" tvg-logo="https://i.postimg.cc/13d7y2mm/800-300.png" group-title="ASTRO MALAYSIA",eGG Network
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6783.m3u8
+#EXTINF:-1 tvg-id="dw.id" tvg-name="DW HD" tvg-logo="https://i.postimg.cc/nVdPdCy9/avatars-000709704967-ud6ehk-t500x500.jpg" group-title="ASTRO MALAYSIA",DW HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6782.m3u8
+#EXTINF:-1 LINK GRATIS,TIDAK DIJUAL!!! 
+https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks HD" tvg-logo="https://i.postimg.cc/1znvYBZ8/704-7046788-dreamworks-logo-hd-png-download-1.jpg" group-title="ASTRO MALAYSIA",Dreamworks HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6780.m3u8
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="DMAX HD" tvg-logo="http://tvmalaysia.cc:80/images/433e2f828d5c3bc6eafe1a1c5caa1d84.jpg" group-title="ASTRO MALAYSIA",DMAX HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6778.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.ca" tvg-name="Discovery Science HD" tvg-logo="https://i.postimg.cc/Fsj75WS2/1200px-Science-Channel-logo-svg.png" group-title="ASTRO MALAYSIA",Discovery Science HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6774.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.ca" tvg-name="Discovery HD" tvg-logo="https://i.postimg.cc/gJ8qCyH4/Discovery-Stacked.png" group-title="ASTRO MALAYSIA",Discovery HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6773.m3u8
+#EXTINF:-1 tvg-id="discoveryasia.my" tvg-name="Discovery Asia" tvg-logo="http://tvmalaysia.cc:80/images/c35254ea8035d16d2a9f793edd26dd3f.png" group-title="ASTRO MALAYSIA",Discovery Asia
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CTI Asia" tvg-logo="https://i.postimg.cc/ZnLgSzxf/ctitv.jpg" group-title="ASTRO MALAYSIA",CTI Asia
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6771.m3u8
+#EXTINF:-1 tvg-id="MY: COMEDY CENTRAL ASIA HD" tvg-name="Comedy Central" tvg-logo="https://i.postimg.cc/WbvFYLyB/CC-Logo-Lock-Up-Horizontal-TM-Summer-Ale-White-on-blk.png" group-title="ASTRO MALAYSIA",Comedy Central
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6770.m3u8
+#EXTINF:-1 tvg-id="colorshd.uk" tvg-name="Colors HD" tvg-logo="http://tvmalaysia.cc:80/images/7202a9beacf59c20fd03f504686e0627.png" group-title="ASTRO MALAYSIA",Colors HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6769.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex" tvg-logo="http://tvmalaysia.cc:80/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="ASTRO MALAYSIA",Colors Cineplex
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6768.m3u8
+#EXTINF:-1 tvg-id="MY: CNN HD" tvg-name="CNN HD" tvg-logo="https://i.postimg.cc/gcV8WqfL/cnn-logo-white-on-red.jpg" group-title="ASTRO MALAYSIA",CNN HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6767.m3u8
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC" tvg-logo="http://tvmalaysia.cc:80/images/4205332d18bc720323dece4c7bb84df5.png" group-title="ASTRO MALAYSIA",CNBC
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6766.m3u8
+#EXTINF:-1 tvg-id="warnertv.my" tvg-name="Warner TV" tvg-logo="http://tvmalaysia.cc:80/images/fe971dedf93c15bae582eea20afa0a7f.png" group-title="ASTRO MALAYSIA",Warner TV
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6848
+#EXTINF:-1 tvg-id="MY: 8TV" tvg-name="UTV Movies International" tvg-logo="http://tvmalaysia.cc:80/images/e5408b154e0b05e51a50371d15441b63.png" group-title="ASTRO MALAYSIA",UTV Movies International
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV SARAWAK" tvg-logo="http://tvmalaysia.cc:80/images/f557488a5689b9bfa9262494b330448c.jpg" group-title="ASTRO MALAYSIA",TV SARAWAK
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6846.m3u8
+#EXTINF:-1 tvg-id="tvnmovies.my" tvg-name="tvN Movies" tvg-logo="http://tvmalaysia.cc:80/images/9d84ccde47792f4eae3504e6a68877c7.png" group-title="ASTRO MALAYSIA",tvN Movies
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6845.m3u8
+#EXTINF:-1 tvg-id="tvn.my" tvg-name="tvN HD" tvg-logo="http://tvmalaysia.cc:80/images/7f1eaa630170244ea3da72e50b0251a6.png" group-title="ASTRO MALAYSIA",tvN HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6844.m3u8
+#EXTINF:-1 tvg-id="MY: TVBS ASIA HD" tvg-name="TVBS Asia HD" tvg-logo="http://tvmalaysia.cc:80/images/c54681f83016ce05301f769c4875d010.jpg" group-title="ASTRO MALAYSIA",TVBS Asia HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6843.m3u8
+#EXTINF:-1 tvg-id="animalplanet.my" tvg-name="TVB Xing He HD" tvg-logo="http://tvmalaysia.cc:80/images/a98d3b039152e76ccd4698918e7568f7.png" group-title="ASTRO MALAYSIA",TVB Xing He HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6842.m3u8
+#EXTINF:-1 tvg-id="animalplanet.my" tvg-name="TVB Jade HD" tvg-logo="http://tvmalaysia.cc:80/images/57601e45a19bb85bfde608155a8291aa.png" group-title="ASTRO MALAYSIA",TVB Jade HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6841.m3u8
+#EXTINF:-1 tvg-id="MY: TVB NEWS" tvg-name="TVB E-News" tvg-logo="http://tvmalaysia.cc:80/images/959ef0799d7e2feb2e9b6eac17d47472.png" group-title="ASTRO MALAYSIA",TVB E-News
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB Classic" tvg-logo="http://tvmalaysia.cc:80/images/a48593093ac07738fca24f0bee6c7ae2.jpg" group-title="ASTRO MALAYSIA",TVB Classic
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6839.m3u8
+#EXTINF:-1 tvg-id="MY: AL-HIJRAH" tvg-name="TV-AlHijrah" tvg-logo="http://tvmalaysia.cc:80/images/dbdc90d36fb0cb6ff75fa4f8fbd8dc96.png" group-title="ASTRO MALAYSIA",TV-AlHijrah
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel HD" tvg-logo="http://tvmalaysia.cc:80/images/83d09665000ad543908d67e15689dc6c.jpg" group-title="ASTRO MALAYSIA",Travel Channel HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6833.m3u8
+#EXTINF:-1 tvg-id="MY: TLC HD" tvg-name="TLC HD" tvg-logo="http://tvmalaysia.cc:80/images/18de4beb01f6a17b6e1dfb9813ba6045.jpg" group-title="ASTRO MALAYSIA",TLC HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6832.m3u8
+#EXTINF:-1 tvg-id="MY: SUN MUSIC HD" tvg-name="Sun Music" tvg-logo="http://tvmalaysia.cc:80/images/83c076b3895f5fb89c1d11229f0612f5.png" group-title="ASTRO MALAYSIA",Sun Music
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV" tvg-logo="http://tvmalaysia.cc:80/images/f076f941220408aa250b64b793a96853.png" group-title="ASTRO MALAYSIA",Sony TV
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="http://tvmalaysia.cc:80/images/8da843d0f442405da023664246572f78.png" group-title="ASTRO MALAYSIA",Sony SAB
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6827.m3u8
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="Sky News HD" tvg-logo="http://tvmalaysia.cc:80/images/7b81c6e769e73cf481294a9718163d9c.jpg" group-title="ASTRO MALAYSIA",Sky News HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6826.m3u8
+#EXTINF:-1 tvg-id="one.my" tvg-name="One HD" tvg-logo="http://tvmalaysia.cc:80/images/de98374c5fa7c3d3be19487ca6c85156.png" group-title="ASTRO MALAYSIA",One HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6817.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.my" tvg-name="Nickelodeon HD" tvg-logo="http://tvmalaysia.cc:80/images/bab494e5d5780225b27ce7359f94af6d.png" group-title="ASTRO MALAYSIA",Nickelodeon HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6814.m3u8
+#EXTINF:-1 tvg-id="nickelodeonjunior.my" tvg-name="Nick Jr" tvg-logo="http://tvmalaysia.cc:80/images/80eba87008619a2539d0fbf7c162db64.png" group-title="ASTRO MALAYSIA",Nick Jr
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6813.m3u8
+#EXTINF:-1 tvg-id="natgeopeople.my" tvg-name="NatGeo People" tvg-logo="http://tvmalaysia.cc:80/images/bce173b41e68a5f93990720a40c946e9.jpg" group-title="ASTRO MALAYSIA",NatGeo People
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6811.m3u8
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV" tvg-logo="https://i.postimg.cc/WbY5jhsR/download-10.png" group-title="ASTRO MALAYSIA",MTV
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6807.m3u8
+#EXTINF:-1 tvg-id="MY: K-PLUS HD" tvg-name="KPlus HD" tvg-logo="https://i.postimg.cc/hGVWZNN5/k-plus.jpg" group-title="ASTRO MALAYSIA",KPlus HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6805.m3u
+#EXTINF:-1 tvg-id="MY: KIX HD" tvg-name="Kix HD" tvg-logo="https://i.postimg.cc/kGfRgxWx/unnamed-8.jpg" group-title="ASTRO MALAYSIA",Kix HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6804.m3u8
+#EXTINF:-1 tvg-id="MY: KBS WORLD HD" tvg-name="KBS World HD" tvg-logo="http://tvmalaysia.cc:80/images/5ae0c1c8a5260bc7b6648f6fbd115c35.png" group-title="ASTRO MALAYSIA",KBS World HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6803.m3u8
+#EXTINF:-1 tvg-id="MY: HITS MOVIES HD" tvg-name="Hits Movies HD" tvg-logo="https://i.postimg.cc/sf0Z1mRH/logo-HITSMOVIES.png" group-title="ASTRO MALAYSIA",Hits Movies HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6801.m3u8
+#EXTINF:-1 tvg-id="MY: HITS HD" tvg-name="Hits HD" tvg-logo="http://tvmalaysia.cc:80/images/ddff30204a1aaa452ae469bbbd33523a.png" group-title="ASTRO MALAYSIA",Hits HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6800.m3u8
+#EXTINF:-1 tvg-id="MY: HISTORY HD" tvg-name="History HD" tvg-logo="http://tvmalaysia.cc:80/images/83a0b697c3738ae35a4c7fed642e567e.png" group-title="ASTRO MALAYSIA",History HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6799.m3u8
+#EXTINF:-1 tvg-id="MY: HGTV HD" tvg-name="HGTV HD" tvg-logo="http://tvmalaysia.cc:80/images/4192dec476abaf95ac12a1c7bf4fac8a.png" group-title="ASTRO MALAYSIA",HGTV HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6798.m3u8
+#EXTINF:-1 tvg-id="hbo.my" tvg-name="HBO HD" tvg-logo="http://tvmalaysia.cc:80/images/19c0a3768306086c9601f4c7c5a5cc81.jpg" group-title="ASTRO MALAYSIA",HBO HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/6797.m3u8
+#EXTINF:-1 tvg-id="tv1.my" tvg-name="TV 1" tvg-logo="http://tvmalaysia.cc:80/images/ccfa5d3bbed199dbac92b5beb81b98b7.png" group-title="ASTRO MALAYSIA",TV 1
+http://iptv.tvmalaysia.cc:80/live/141078/141078/7177.m3u8
+#EXTINF:-1 tvg-id="tv2.my" tvg-name="TV 2" tvg-logo="http://tvmalaysia.cc:80/images/884a3720c93a65943ca3d37aea5cd686.png" group-title="ASTRO MALAYSIA",TV 2
+http://iptv.tvmalaysia.cc:80/live/141078/141078/7178.m3u8
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV 3" tvg-logo="http://tvmalaysia.cc:80/images/2d597f2f1c13083021c04f1937a09f40.png" group-title="ASTRO MALAYSIA",TV 3
+http://iptv.tvmalaysia.cc:80/live/141078/141078/7266.m3u8
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/87a07a960f50ae26eaa74f96bfe1628d.png" group-title="ASTRO MALAYSIA",TV 3 HD
+http://iptv.tvmalaysia.cc:80/live/141078/141078/8750.m3u8
+#EXTINF:-1 tvg-id="tv9.my" tvg-name="TV 9" tvg-logo="http://tvmalaysia.cc:80/images/001d2025b7bb5a0d0f180adff62ec4b7.png" group-title="ASTRO MALAYSIA",TV 9
+http://iptv.tvmalaysia.cc:80/live/141078/141078/7185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTM Sports" tvg-logo="http://tvmalaysia.cc:80/images/8ea5fad488df48902e34c566ac1fc8ec.png" group-title="ASTRO MALAYSIA",RTM Sports
+http://iptv.tvmalaysia.cc:80/live/141078/141078/7186.m3u8
+#EXTINF:-1 tvg-id="animalplanet.my" tvg-name="TV IKIM" tvg-logo="http://tvmalaysia.cc:80/images/31a651c00450427d27fca4ef7c465b89.jpg" group-title="ASTRO MALAYSIA",TV IKIM
+http://iptv.tvmalaysia.cc:80/live/141078/141078/7192.m3u8
+#EXTINF:-1 tvg-id="beritartm.my" tvg-name="Berita RTM" tvg-logo="http://tvmalaysia.cc:80/images/47e157d2927a350f7881bfe6a377da74.jpg" group-title="ASTRO MALAYSIA",Berita RTM
+http://iptv.tvmalaysia.cc:80/live/141078/141078/7191.m3u8
+#EXTINF:-1 tvg-id="bernamatv.my" tvg-name="BERNAMA" tvg-logo="http://tvmalaysia.cc:80/images/34b4aab4d257e7d335f410bf3decafe2.png" group-title="ASTRO MALAYSIA",BERNAMA
+http://iptv.tvmalaysia.cc:80/live/141078/141078/7190.m3u8
+#EXTINF:-1 tvg-id="ID: !NSERT" tvg-name="RTB MALAYSIA" tvg-logo="https://i.postimg.cc/wjjd9YH7/RTB-Sukmaindera.png" group-title="ASTRO MALAYSIA",RTB MALAYSIA
+http://iptv.tvmalaysia.cc:80/live/141078/141078/7188.m3u8
 #EXTINF:-1 LINK GRATIS,TIDAK DIJUAL!!! 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:0 tvg-id="ext" group-title="AUSTRALIA SPORT", DONASI GOPAY 0851-5697-0606 
