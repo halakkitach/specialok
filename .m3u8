@@ -1268,18 +1268,20 @@ http://iptvtree.net:8080/15247/6bc4e63e/1938
 http://iptvtree.net:8080/15247/6bc4e63e/279991
 #EXTINF:-1,FR RMC SPORT 4 FHD
 http://iptvtree.net:8080/15247/6bc4e63e/279844
-#EXTINF:-1,|PO| Sport TV 1 HD
-http://red.ipfox.org:8080/1234/12345678/2673
-#EXTINF:-1,|PO| Sport TV 2 HD
-http://red.ipfox.org:8080/1234/12345678/2672
-#EXTINF:-1,|PO| Sport TV 3 HD
-http://red.ipfox.org:8080/1234/12345678/2671
-#EXTINF:-1,|PO| Sport TV 4
-http://red.ipfox.org:8080/1234/12345678/2670
-#EXTINF:-1,|PO| Sport TV 5
-http://red.ipfox.org:8080/1234/12345678/2669
-#EXTINF:-1,|PO| Sport TV plus
-http://red.ipfox.org:8080/1234/12345678/2668
+#EXTINF:-1,|PT| SPORT TV 1
+http://sultan-iptv.com:80/1020304050/5040302010/71201
+#EXTINF:-1,|PT| SPORT TV 1 HD
+http://sultan-iptv.com:80/1020304050/5040302010/71200
+#EXTINF:-1,|PT| SPORT TV 2
+http://sultan-iptv.com:80/1020304050/5040302010/71199
+#EXTINF:-1,|PT| SPORT TV 3
+http://sultan-iptv.com:80/1020304050/5040302010/71198
+#EXTINF:-1,|PT| SPORT TV 3 HD
+http://sultan-iptv.com:80/1020304050/5040302010/71197
+#EXTINF:-1,|PT| SPORT TV 4
+http://sultan-iptv.com:80/1020304050/5040302010/71196
+#EXTINF:-1,|PT| SPORT TV 5
+http://sultan-iptv.com:80/1020304050/5040302010/71195
 #EXTINF:-1 group-title="TV SPORT", TNTSPORTS 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 group-title="TV SPORT", TNTSPORTS 2
