@@ -29,9 +29,9 @@ http://red.ipfox.org:8080/1234/12345678/2969
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.30 WIB BRI LIGA 1 PSIS VS BHAYANGKARA FC
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB SERIE A
-http://54.39.156.227:2080/Usuario_Nuevo_001_b/rUw76ksCv4vr/66901
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB SERIE A BACKUP
-http://red.ipfox.org:8080/1234/12345678/2978
+http://54.39.156.227:2080/Usuario_Nuevo_001_b/rUw76ksCv4vr/64847
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 21.30 WIB BUNDESLIGA
 http://54.39.156.227:2080/Usuario_Nuevo_001_b/rUw76ksCv4vr/51928
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 21.30 WIB BUNDESLIGA BACKUP
@@ -964,59 +964,51 @@ http://stariptv.org:8080/wael2021/123456/9272
 #EXTINF:-1,|UK| BT Sport ESPN
 http://stariptv.org:8080/wael2021/123456/9258
 #EXTINF:-1,UK: Free Sports HD
-http://opplex.tv:8080/sa123456/sa123456/237168
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/692344
 #EXTINF:-1,UK: Free Sports HD BACKUP
 http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696498.ts
 #EXTINF:-1,UK106:Premiere Sport HD
-http://opplex.tv:8080/sa123456/sa123456/222649
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/692341
 #EXTINF:-1,UK144:Premier Sports 2
-http://opplex.tv:8080/sa123456/sa123456/222650
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/692343
 #EXTINF:-1,UK014:BT Sport 1 HD BACKUP I
-http://opplex.tv:8080/sa123456/sa123456/237141
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/692281
 #EXTINF:-1,UK015:BT Sport 2 HD BACKUP I
-http://opplex.tv:8080/sa123456/sa123456/237142
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/692283
 #EXTINF:-1,UK016:BT Sport 3 HD BACKUP I
-http://opplex.tv:8080/sa123456/sa123456/237143
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/692285
 #EXTINF:-1,UK017:BT Sport ESPN FHD BACKUP I
-http://opplex.tv:8080/sa123456/sa123456/237148
-#EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 1 BACKUP II
-http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696270.ts
-#EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 2 BACKUP II
-http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696274.ts
-#EXTINF:-1 tvg-logo="TEST" group-title="TV SPORT",BT SPORT 3 BACKUP II
-http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696278.ts
-#EXTINF:-1,UK: BT Sport ESPN HD BACKUP II
-http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696282.ts
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/692292
 #EXTINF:-1,UK: EUROSPORT 1 GLOBAL
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:-1,UK: EUROSPORT 1
-http://opplex.tv:8080/sa123456/sa123456/222656
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/692293
 #EXTINF:-1,UK: EUROSPORT 2
-http://opplex.tv:8080/sa123456/sa123456/222657
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/692294
 #EXTINF:-1,UK: Eurosport 1 HD
 http://1.ott4k.cz:80/tecto25/F3lQq2fhthJVObT/2688
 #EXTINF:-1,UK: Eurosport 2 HD
 http://54.39.156.227:2080/Usuario_Nuevo_001_b/rUw76ksCv4vr/71813
 #EXTINF:-1,SKY-SPORTS ARENA
-http://opplex.tv:8080/sa123456/sa123456/237156
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/692795
 #EXTINF:-1,SKY-SPORTS CRICKET
-http://opplex.tv:8080/sa123456/sa123456/237157
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/692264
 #EXTINF:-1,SKY-SPORTS FOOTBALL BACKUP
-http://opplex.tv:8080/sa123456/sa123456/222626
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/692261
 #EXTINF:-1,SKY-SPORTS FOOTBALL
-http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696241.ts
+http://bestsave.ltd:2052/141414/151515/75499
 #EXTINF:-1,SKY-SPORTS MAIN EVENT BACKUP
-http://opplex.tv:8080/sa123456/sa123456/222624
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/692257
 #EXTINF:-1,SKY-SPORTS MAIN EVENT
-http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696233.ts
+http://bestsave.ltd:2052/141414/151515/75501
 #EXTINF:-1,SKY-SPORTS PREMIER LEAGUE
-http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696236.ts
+http://bestsave.ltd:2052/141414/151515/75500
 #EXTINF:-1,SKY-SPORTS PREMIER LEAGUE BACKUP
-http://opplex.tv:8080/sa123456/sa123456/222625
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/692260
 #EXTINF:-1,SKY-SPORTS F1 BACKUP
 https://4d4038e89536.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.938173488259.channel.nNlPOlpJ8JVM.m3u8
 #EXTINF:-1,SKY-SPORTS F1
-http://opplex.tv:8080/sa123456/sa123456/222629
+http://satelliteiptv.xyz:8080/nhn4a1y5fu/vroaijsxm9/692269
 #EXTINF:-1,IT - SKY SPORT 24 HD
 http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/2696
 #EXTINF:-1,SKY-SPORTS GOLF
