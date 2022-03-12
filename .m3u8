@@ -14,23 +14,28 @@ https://dl.dropboxusercontent.com/s/n6n55l3new93prf/lagu%20nostalgia.mp4
 https://d3bh6k6cdgaj10.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENT", LIVE NBA 2
 http://stariptv.org:8080/live/nour2020/123456/150160.m3u8
-#EXTINF:-1 group-title="LIVE EVENT", LIVE BADMINTON COURT1
-https://alloy.yourstreamer.xyz/web/_aHR0cHM6Ly9zdHJlYW1lcjEwMS5kb3NibmV3bWVkaWEuZGU=_/hls/78.47.142.23/7470f5007c73013ad69b107b44b0b31d_live-3/hls0/index.m3u8
-#EXTINF:-1 group-title="LIVE EVENT", LIVE BADMINTON COURT2
-https://alloy.yourstreamer.xyz/web/_aHR0cHM6Ly9zdHJlYW1lcjEwNS5kb3NibmV3bWVkaWEuZGU=_/hls/116.202.21.72/61ad63808117013a94650cc47a078642_live-3/hls0/index.m3u8
-#EXTINF:-1 group-title="LIVE EVENT", LIVE BADMINTON COURT3
-https://alloy.yourstreamer.xyz/web/_aHR0cHM6Ly9zdHJlYW1lcjEwMS5kb3NibmV3bWVkaWEuZGU=_/hls/142.132.228.182/84ae48c07c73013a93c10cc47a078642_live-3/hls1/index.m3u8
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 15.15 WIB BRI LIGA 1 PSS VS PERSITA
-https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.30 WIB BRI LIGA 1 PERSIRAJA VS BALI UNITED
-https://etslive-2-vidio-com.akamaized.net/exp=1647018987~acl=/hls-p/ingest_8026_*/*~hmac=916510170b6e209f5eb7dab7e7ed51418dacc78293e276d50c669e8924686af2/hls-p/ingest_8026_1080p/index.m3u8
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LA LIGA SPANYOL
-http://thebestiptv.xyz:8880/bushddh32@gmail.com/bwKNvVcaCq/696492.ts
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LA LIGA SPANYOL BACKUP
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.30 WIB LA LIGA INGGRIS
+http://red.ipfox.org:8080/1234/12345678/2971
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.30 WIB LA LIGA INGGRIS BACKUP
+http://aumaletv.com:25461/Potikina/handala90/61978
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB LA LIGA SPANYOL
+http://opplex.tv:8080/sa123456/sa123456/226377
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB LA LIGA SPANYOL BACKUP
 http://red.ipfox.org:8080/1234/12345678/2969
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 03.00 WIB LIGA PERANCIS
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 20.30 WIB BRI LIGA 1 PSIS VS BHAYANGKARA FC
+https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB SERIE A
+http://opplex.tv:8080/sa123456/sa123456/228564
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 21.00 WIB SERIE A BACKUP
+http://opplex.tv:8080/sa123456/sa123456/231212
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 21.30 WIB BUNDESLIGA
+http://opplex.tv:8080/sa123456/sa123456/236658
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 21.30 WIB BUNDESLIGA BACKUP
+http://opplex.tv:8080/sa123456/sa123456/236659
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 23.00 WIB LIGA PERANCIS
 http://aumaletv.com:25461/Potikina/handala90/58275
-
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 23.00 WIB LIGA PERANCIS BACKUP
+http://iptvtree.net:8080/15247/6bc4e63e/1737
 
 
 ######### INDONESIA #########
