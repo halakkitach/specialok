@@ -830,10 +830,10 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="TV SPORT",beIN Sport 3 ID
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-#EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="TV SPORT",beIN Sport 1 THAI
-http://opplex.tv:8080/sa123456/sa123456/231211
-#EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="TV SPORT",beIN Sport 2 THAI
-http://opplex.tv:8080/sa123456/sa123456/231212
+#EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="http://dusktill.masuk.web.id/img/beinsports1.png" group-title="TV SPORT",beIN Sport 1 INDO
+http://15.235.142.228:8080/live/hometv/premium/639.ts
+#EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="http://dusktill.masuk.web.id/img/beinsports2.png" group-title="TV SPORT",beIN Sport 3 INDO
+http://15.235.142.228:8080/live/hometv/premium/641.ts
 #EXTINF:-1,MY132:beIN SPORTS MALAY
 http://opplex.tv:8080/sa123456/sa123456/229531
 #EXTINF:-1,MY133:bEIN MAX MALAY
@@ -989,7 +989,7 @@ http://opplex.tv:8080/sa123456/sa123456/222656
 #EXTINF:-1,UK: EUROSPORT 2
 http://opplex.tv:8080/sa123456/sa123456/222657
 #EXTINF:-1,UK: Eurosport 1 HD
-http://54.39.156.227:2080/Usuario_Nuevo_001_b/rUw76ksCv4vr/71807
+http://1.ott4k.cz:80/tecto25/F3lQq2fhthJVObT/2688
 #EXTINF:-1,UK: Eurosport 2 HD
 http://54.39.156.227:2080/Usuario_Nuevo_001_b/rUw76ksCv4vr/71813
 #EXTINF:-1,SKY-SPORTS ARENA
