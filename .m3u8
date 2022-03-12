@@ -956,20 +956,6 @@ http://mytv.fun:8080/3xjonfj04e/ave1vkz2l/694222
 http://iptv.tvmalaysia.cc:80/live/141078/141078/9029.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport 5" tvg-logo="" group-title="TV SPORT", ASSP 5
 http://opplex.tv:8080/130130/130130/229526
-#EXTINF:-1,MY| ASTRO ARENA HD
-http://test.thesmartiptv.com:900/A58C7DCB/q2xFYnHrOz/191853
-#EXTINF:-1,MY| ASTRO ARENA 2 HD
-http://test.thesmartiptv.com:900/A58C7DCB/q2xFYnHrOz/400251889
-#EXTINF:-1,MY| ASTRO SUPERSPORT 1 HD
-http://test.thesmartiptv.com:900/A58C7DCB/q2xFYnHrOz/191869
-#EXTINF:-1,MY| ASTRO SUPERSPORT 2 HD
-http://test.thesmartiptv.com:900/A58C7DCB/q2xFYnHrOz/191870
-#EXTINF:-1,MY| ASTRO SUPERSPORT 3 HD
-http://test.thesmartiptv.com:900/A58C7DCB/q2xFYnHrOz/191871
-#EXTINF:-1,MY| ASTRO SUPERSPORT 4 HD
-http://test.thesmartiptv.com:900/A58C7DCB/q2xFYnHrOz/191872
-#EXTINF:-1,MY| ASTRO SUPERSPORT 5 HD
-http://test.thesmartiptv.com:900/A58C7DCB/q2xFYnHrOz/400251884
 #EXTINF:0 tvg-id="ext" group-title="TV SPORT", DONASI GOPAY 0851-5697-0606 
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1,|UK| BT Sport 1 HD
