@@ -14,9 +14,9 @@ https://dl.dropboxusercontent.com/s/n6n55l3new93prf/lagu%20nostalgia.mp4
 https://d3bh6k6cdgaj10.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENT", LIVE NBA 2
 http://stariptv.org:8080/live/nour2020/123456/150160.m3u8
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.30 WIB LA LIGA INGGRIS
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.30 WIB LIGA INGGRIS
 http://red.ipfox.org:8080/1234/12345678/2971
-#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.30 WIB LA LIGA INGGRIS BACKUP
+#EXTINF:-1 group-title="LIVE EVENT",LIVE 19.30 WIB LIGA INGGRIS BACKUP
 http://aumaletv.com:25461/Potikina/handala90/61978
 #EXTINF:-1 group-title="LIVE EVENT",LIVE 20.00 WIB LA LIGA SPANYOL
 http://opplex.tv:8080/sa123456/sa123456/226377
