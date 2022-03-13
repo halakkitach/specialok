@@ -10,6 +10,8 @@ https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 https://dl.dropboxusercontent.com/s/xrmma9ed3xrt5in/telegramhalakkitach_1080p.ts
 #EXTINF:-1 group-title="LIVE EVENT", LIVE UFC
 https://bigsmoke.lbs.pw/boec/tracks-v1a1/mono.m3u8?token=e431c5eee3badc2f916f075680afc4b360434faf-0.4774338765508499-1647156786-1647120786
+#EXTINF:-1 group-title="LIVE EVENT", LIVE UFC BACKUP
+https://jojoiui.s3.eu-central-1.amazonaws.com/playlist_1080p30.m3u8
 #EXTINF:-1 group-title="LIVE EVENT", LIVE NBA
 https://d3bh6k6cdgaj10.cloudfront.net/hls/espn/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENT", LIVE NBA 2
