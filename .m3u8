@@ -48,7 +48,6 @@ https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 http://108.136.37.52/m3u8/vid_Indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR HD BACKUP
-http://tvn.x10.bz/xchannel/master.m3u8
 http://210.210.155.35/session/58237d4a-5fd8-11ec-93dc-8efda5123c0b/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -178,11 +177,6 @@ https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 #EXTINF:-1 tvg-id="" tvg-name="INDO | BaliTV" tvg-logo="http://dusktill.masuk.web.id/img/balitv.png" group-title="INDONESIA",INDO | BaliTV
 https://cdn09jtedge.useetv.com/joss/134/balitv/chunklist_w1041288394_b494100_sleng.m3u8?enc=2Q4JNfafCYYPNT-_18f9yw&uid=&exp=1645476652
 
-#EXTINF:-1 group-title="INDONESIA", O Channel
-http://tvn.x10.bz/xchannel/master-18.m3u8
-http://210.210.155.35/session/e0c19ce8-790c-11ec-a7a0-c81f66f89318/x6bnqe/s/s73/index2.m3u8
-#EXTINF:-1 type="stream" tvg-id="ochannel.id" tvg-name="O Channel T2" tvg-logo="http://i.postimg.cc/25XZMzKK/O-CHANNEL.png" group-title="INDONESIA",O Channel BACKUP
-http://akudandia.xyz/locs/akudandia-206.m3u8
 #EXTINF:-1 group-title="INDONESIA", KPlus
 http://rr.dens.tv/h/h08/index.m3u8
 
